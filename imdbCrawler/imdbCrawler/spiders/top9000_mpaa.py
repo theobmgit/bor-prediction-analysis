@@ -14,6 +14,7 @@ class IMDBCrawler(scrapy.Spider):
     user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36'
     parseUrl='https://www.imdb.com'
     mpaaPath='/parentalguide'
+    # listOfCirtificate=['G','PG','PG-13','R','NC-17']
     def parse(self,response):
         movieLinks=response.xpath('//div[@class="lister-item-content"]/h3/a/@href').getall()
         for link in movieLinks:
@@ -29,6 +30,7 @@ class IMDBCrawler(scrapy.Spider):
     def parseMPAA(self,response):
         data=dict()
         data['Movie_Title']=response.xpath('//*[@class="subpage_title_block__right-column"]//a[@href]/text()').get()
+        data['Movie_ID']=int(response.url.split('/')[-2].replace("tt",''))
         #data['MPAA']=response.xpath('//*[@id="mpaa-rating"]//td[2]/text()').re('[A-Z]{1,2}[- ]{1,2}[0-9]*\s')
         listOfCertificate=response.xpath('//*[text()="Certification"]/..//li/a/text()').getall()
         data['ListOfCertificate']=[]
@@ -40,6 +42,10 @@ class IMDBCrawler(scrapy.Spider):
                             if "Approved" not in certificate:
                                 if "Passed" not in certificate:
                                     data['ListOfCertificate'].append(certificate.replace("United States:",""))
+            # indexDel=certificate.index(':')
+            # certificate=certificate[indexDel+1:None]
+            # if certificate in self.listOfCirtificate:
+            #     data['ListOfCertificate'].append(certificate)
         data['ListOfCertificate']=list(set(data['ListOfCertificate']))
         yield data
         

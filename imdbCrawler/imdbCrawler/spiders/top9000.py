@@ -32,8 +32,10 @@ class IMDBCrawler(scrapy.Spider):
         y=json.loads(response.xpath('//script[@type="application/ld+json"]/text()').get())
         #data['Movie_Title']=response.xpath('//h1[@data-testid="hero-title-block__title"]/text()').get()
         data['Movie_Title']=y['name']
+        data['Movie_ID']=int(response.url.split('/')[-2].replace("tt",''))
         data['Budget']=response.xpath('//span[text()="Budget"]/..//span[@class="ipc-metadata-list-item__list-content-item"]/text()').re('[$€]{1}[0-9,]*')
-        data['Cast']=list(set(response.xpath('//*[text()="Stars"]/..//li[@class="ipc-inline-list__item"]/a/text()').getall()))
+        #data['Cast']=list(set(response.xpath('//*[text()="Stars"]/..//li[@class="ipc-inline-list__item"]/a/text()').getall()))
+        data['Cast']=response.xpath('//a[@data-testid="title-cast-item__actor"]//text()').getall()
         director=list(set(response.xpath('//*[text()="Director" or text()="Directors" ]/..//li[@class="ipc-inline-list__item"]/a/text()').getall()))
         writer=list(set(response.xpath('//*[text()="Writer" or text()="Writers"]/..//li[@class="ipc-inline-list__item"]/a/text()').getall()))
         data['Crew']=list(set(director+writer))
