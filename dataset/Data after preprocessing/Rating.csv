@@ -1,0 +1,5461 @@
+Movie_Title,Rating,Count
+Star Wars: Episode VII - The Force Awakens,7.8,893000
+Frozen II,6.8,156000
+The Dark Knight Rises,8.4,1600000
+Beauty and the Beast,7.1,293000
+Finding Dory,7.3,259000
+Shrek 2,7.2,441000
+Avengers: Age of Ultron,7.3,805000
+The Dark Knight,9.0,2500000
+Star Wars: Episode IX - The Rise of Skywalker,6.5,412000
+Rogue One,7.8,589000
+The Lion King,6.8,230000
+Star Wars: Episode VIII - The Last Jedi,6.9,597000
+The Avengers,8.0,1300000
+Star Wars: Episode I - The Phantom Menace,6.5,764000
+Jurassic World,7.0,607000
+The Jungle Book,7.4,269000
+Deadpool,8.0,966000
+Incredibles 2,7.6,274000
+The Lord of the Rings: The Return of the King,8.9,1700000
+Star Wars: Episode III - Revenge of the Sith,7.5,746000
+Frozen,7.4,598000
+Spider-Man: Far from Home,7.4,406000
+Finding Nemo,8.1,995000
+Guardians of the Galaxy Vol. 2,7.6,624000
+Harry Potter and the Deathly Hallows: Part 2,8.1,816000
+Jurassic Park,8.1,921000
+Transformers: Revenge of the Fallen,6.0,397000
+Harry Potter and the Goblet of Fire,7.7,584000
+Spider-Man 2,7.3,596000
+Man of Steel,7.0,737000
+Star Wars: Episode V - The Empire Strikes Back,8.7,1200000
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",6.9,383000
+Inception,8.8,2200000
+Harry Potter and the Order of the Phoenix,7.5,544000
+Up,8.2,988000
+The Twilight Saga: Breaking Dawn - Part 2,5.5,241000
+The Twilight Saga: New Moon,4.8,276000
+The Twilight Saga: Eclipse,5.0,238000
+The Sixth Sense,8.1,951000
+Harry Potter and the Half-Blood Prince,7.6,508000
+Skyfall,7.8,673000
+The Hobbit: An Unexpected Journey,7.8,788000
+Pirates of the Caribbean: The Curse of the Black Pearl,8.0,1100000
+Maleficent,7.0,362000
+Star Trek,7.9,593000
+Fantastic Beasts and Where to Find Them,7.3,435000
+War of the Worlds,6.5,433000
+X-Men: The Last Stand,6.7,500000
+Beverly Hills Cop,7.3,176000
+Brave,7.1,393000
+Oz the Great and Powerful,6.3,204000
+Furious 6,7.0,384000
+Shrek Forever After,6.3,195000
+I Am Legend,7.2,722000
+Ghostbusters,7.8,388000
+Pirates of the Caribbean: On Stranger Tides,6.6,503000
+My Big Fat Greek Wedding,6.6,127000
+Bruce Almighty,6.8,388000
+Twister,6.4,189000
+Cars,7.1,393000
+Transformers: Age of Extinction,5.6,307000
+Toy Story 2,7.9,554000
+Aladdin,8.0,391000
+Raiders of the Lost Ark,8.4,926000
+Sherlock Holmes,7.6,609000
+Dawn of the Planet of the Apes,7.6,426000
+Wedding Crashers,6.9,345000
+Mission: Impossible - Ghost Protocol,7.4,474000
+Fast Five,7.3,370000
+Coco,8.4,447000
+Back to the Future,8.5,1100000
+It Chapter Two,6.5,239000
+300,7.6,763000
+Austin Powers in Goldmember,6.2,204000
+Solo: A Star Wars Story,6.9,319000
+X2,7.4,532000
+Batman Begins,8.2,1400000
+Happy Feet,6.4,179000
+A Star Is Born,7.6,362000
+Ocean&apos;s Eleven,7.7,546000
+Venom,6.7,439000
+Batman Forever,5.4,243000
+Dances with Wolves,8.0,253000
+Pitch Perfect 2,6.4,151000
+The Fugitive,7.8,282000
+The Revenant,8.0,755000
+Snow White and the Seven Dwarfs,7.6,191000
+Mr. &amp; Mrs. Smith,6.5,473000
+The Day After Tomorrow,6.4,433000
+Sherlock Holmes: A Game of Shadows,7.5,438000
+The Croods,7.2,205000
+Interstellar,8.6,1700000
+Gladiator,8.5,1400000
+A Quiet Place,7.5,490000
+Grease,7.2,257000
+Dunkirk,7.8,608000
+Ant-Man,7.3,619000
+Tarzan,7.3,215000
+John Wick: Chapter 3 - Parabellum,7.4,313000
+Mary Poppins Returns,6.7,83000
+The Matrix,8.7,1800000
+Pirates of the Caribbean: Dead Men Tell No Tales,6.5,286000
+Tron,6.8,326000
+Air Force One,6.5,189000
+F9,5.2,107000
+True Grit,7.6,327000
+National Treasure,6.9,319000
+Home Alone 2: Lost in New York,6.8,332000
+Apollo 13,7.6,284000
+Fast &amp; Furious Presents: Hobbs &amp; Shaw,6.5,199000
+Elf,7.0,249000
+The Greatest Showman,7.6,262000
+Crocodile Dundee,6.6,101000
+Crazy Rich Asians,6.9,160000
+The Boss Baby,6.3,119000
+The Longest Yard,6.4,171000
+X-Men,7.4,593000
+The Firm,6.8,129000
+No Time to Die,7.4,246000
+Star Trek Beyond,7.0,239000
+1917,8.3,515000
+The Secret Life of Pets 2,6.5,58000
+Fantastic Beasts: The Crimes of Grindelwald,6.5,244000
+Halloween,6.6,141000
+The Heat,6.6,168000
+The Sting,8.3,253000
+How to Train Your Dragon: The Hidden World,7.5,118000
+Die Another Day,6.1,214000
+Shark Tale,6.0,176000
+Little Fockers,5.5,110000
+American Hustle,7.2,466000
+The Santa Clause,6.5,109000
+One Hundred and One Dalmatians,7.3,162000
+The Great Gatsby,7.2,511000
+X: First Class,7.7,668000
+Taken,7.8,585000
+Lilo &amp; Stitch,7.3,180000
+War for the Planet of the Apes,7.4,243000
+Lethal Weapon 2,7.2,170000
+Talladega Nights: The Ballad of Ricky Bobby,6.6,177000
+Gremlins,7.3,212000
+Megamind,7.3,245000
+True Lies,7.2,250000
+Knocked Up,6.9,361000
+As Good as It Gets,7.7,290000
+Les Misérables,7.6,321000
+xXx,5.9,177000
+The Jungle Book,7.6,175000
+Sonic the Hedgehog,6.5,111000
+Hotel Transylvania,7.1,240000
+Puss in Boots,6.6,152000
+Once Upon a Time in... Hollywood,7.6,657000
+Argo,7.7,596000
+Godzilla,5.4,189000
+The Green Mile,8.6,1200000
+Ransom,6.7,124000
+101 Dalmatians,5.7,109000
+Click,6.4,319000
+Ready Player One,7.4,406000
+Dinosaur,6.5,58000
+The Conjuring,7.5,481000
+Split,7.3,463000
+21 Jump Street,7.2,535000
+Good Will Hunting,8.3,914000
+Platoon,8.1,399000
+The King&apos;s Speech,8.0,661000
+Bad Boys II,6.6,242000
+Cheaper by the Dozen,5.9,99000
+Transformers: The Last Knight,5.2,145000
+Silver Linings Playbook,7.7,686000
+Hulk,5.6,261000
+Rocky IV,6.9,197000
+Shutter Island,8.2,1200000
+Into the Woods,5.9,138000
+Coming to America,7.1,201000
+Wo hu cang long,7.8,263000
+Kingsman: The Secret Service,7.7,625000
+Robots,6.4,141000
+Ghostbusters,6.9,219000
+The Ring,7.1,337000
+The Nutty Professor,5.6,115000
+American Gangster,7.8,411000
+An Officer and a Gentleman,7.0,55000
+Insurgent,6.2,229000
+Get Smart,6.5,212000
+Lethal Weapon 4,6.6,159000
+The Flintstones,4.9,79000
+"Honey, I Shrunk the Kids",6.4,150000
+2 Fast 2 Furious,5.9,265000
+The Bodyguard,6.3,129000
+Sully,7.4,257000
+50 First Dates,6.8,342000
+Enchanted,7.0,191000
+Speed,7.2,348000
+The Bourne Identity,7.9,529000
+The Hunt for Red October,7.6,191000
+The Good Dinosaur,6.7,110000
+G.I. Joe: Retaliation,5.8,179000
+Nutty Professor II: The Klumps,4.4,50000
+"Good Morning, Vietnam",7.3,135000
+Rango,7.2,252000
+City Slickers,6.8,54000
+Wayne&apos;s World,7.0,151000
+Peter Rabbit,6.6,40000
+Traffic,7.6,203000
+Mamma Mia! Here We Go Again,6.6,89000
+Unbroken,7.2,160000
+Something&apos;s Gotta Give,6.7,118000
+Remember the Titans,7.8,207000
+District 9,7.9,661000
+You&apos;ve Got Mail,6.7,206000
+Clear and Present Danger,6.9,96000
+Creed II,7.1,117000
+The Towering Inferno,7.0,42000
+Ghost Rider,5.3,232000
+Notting Hill,7.1,295000
+Green Lantern,5.5,278000
+The Butler,7.2,113000
+8 Mile,7.1,270000
+The Wolf of Wall Street,8.2,1300000
+S.W.A.T.,6.1,144000
+Ocean&apos;s Thirteen,6.9,335000
+A Time to Kill,7.5,146000
+Jackass 3D,7.0,60000
+Crocodile Dundee II,5.7,56000
+The 40 Year Old Virgin,7.1,418000
+Star Trek IV: The Voyage Home,7.3,83000
+Creed,7.6,262000
+Bedtime Stories,6.0,92000
+Trainwreck,6.2,134000
+Freaky Friday,6.2,133000
+Double Jeopardy,6.5,83000
+The Grudge,5.9,143000
+Valentine&apos;s Day,5.7,117000
+Godzilla: King of the Monsters,6.0,170000
+Spy,7.0,239000
+Tropic Thunder,7.0,398000
+Fun with Dick and Jane,6.2,142000
+Dreamgirls,6.5,72000
+Glass,6.6,228000
+Dick Tracy,6.1,60000
+Journey 2: The Mysterious Island,5.8,100000
+Paranormal Activity 3,5.8,93000
+The Mule,7.0,129000
+Daddy Day Care,5.6,67000
+The Princess and the Frog,7.1,135000
+The Chronicles of Narnia: The Voyage of the Dawn Treader,6.3,149000
+Road to Perdition,7.7,260000
+Phenomenon,6.4,78000
+Pitch Perfect 3,5.8,61000
+The Graduate,8.0,265000
+George of the Jungle,5.5,75000
+Robin Hood,6.6,262000
+Interview with the Vampire: The Vampire Chronicles,7.5,308000
+How to Lose a Guy in 10 Days,6.4,226000
+The Italian Job,7.0,356000
+In the Line of Fire,7.2,100000
+Due Date,6.5,335000
+Godzilla vs. Kong,6.4,185000
+Arrival,7.9,652000
+Vanilla Sky,6.9,258000
+Charlie&apos;s Angels: Full Throttle,4.9,126000
+Every Which Way but Loose,6.4,26000
+Contact,7.5,266000
+The Pelican Brief,6.6,83000
+Collateral,7.5,383000
+Sleepy Hollow,7.3,348000
+Rampage,6.1,158000
+Eagle Eye,6.6,183000
+The Lego Movie 2: The Second Part,6.6,62000
+The Cat in the Hat,4.0,81000
+Unforgiven,8.2,396000
+Noah,5.7,250000
+Con Air,6.9,288000
+The Prince of Egypt,7.1,126000
+Se7en,8.6,1500000
+Million Dollar Baby,8.1,664000
+Unbreakable,7.3,404000
+The Princess Diaries 2: Royal Engagement,5.9,78000
+Sex and the City 2,4.5,78000
+Norbit,4.1,72000
+Zero Dark Thirty,7.4,288000
+Cold Mountain,7.2,145000
+Rocketman,7.3,163000
+Dead Poets Society,8.1,457000
+Panic Room,6.8,271000
+Legally Blonde,6.4,204000
+The Others,7.6,354000
+Downton Abbey,7.4,48000
+Arthur,6.9,27000
+The Social Network,7.7,664000
+Schindler&apos;s List,8.9,1300000
+Public Enemies,7.0,292000
+Yes Man,6.8,350000
+Inspector Gadget,4.2,47000
+Sausage Party,6.1,186000
+Meet the Robinsons,6.8,94000
+Olympus Has Fallen,6.5,268000
+Christopher Robin,7.3,74000
+Date Night,6.3,159000
+The Scorpion King,5.5,135000
+The Green Hornet,5.8,159000
+High School Musical 3: Senior Year,4.9,61000
+The Game Plan,6.1,63000
+Antz,6.5,151000
+Save the Last Dance,6.2,60000
+Prince of Persia: The Sands of Time,6.6,282000
+The Karate Kid,7.3,211000
+Stepmom,6.8,65000
+The Imitation Game,8.0,728000
+Ride Along 2,5.9,57000
+Back to School,6.7,31000
+Crimson Tide,7.3,109000
+The Haunting,5.0,75000
+Think Like a Man,6.5,46000
+Kindergarten Cop,6.2,144000
+Heaven Is for Real,5.8,27000
+Star Trek: First Contact,7.6,122000
+Miss Peregrine&apos;s Home for Peculiar Children,6.7,165000
+Fury,7.6,458000
+Spy Kids 2: Island of Lost Dreams,5.2,65000
+Alvin and the Chipmunks: The Road Chip,5.0,19000
+Annie,5.3,37000
+Out of Africa,7.2,77000
+The Accountant,7.3,282000
+Presumed Innocent,6.9,41000
+The War of the Roses,6.8,51000
+The Naked Gun 2½: The Smell of Fear,6.9,110000
+Saw II,6.6,245000
+Gekijô-ban poketto monsutâ - Myûtsû no gyakushû,6.3,42000
+Paranormal Activity 2,5.7,102000
+Are We There Yet?,4.7,31000
+Up in the Air,7.4,328000
+Monster-in-Law,5.6,59000
+Charlotte&apos;s Web,6.3,40000
+Die Hard,8.2,833000
+Disclosure,6.1,49000
+Valkyrie,7.1,237000
+Brokeback Mountain,7.7,343000
+Patriot Games,6.9,109000
+Saving Mr. Banks,7.5,158000
+Under Siege,6.5,83000
+Apocalypse Now,8.4,638000
+I Can Only Imagine,7.4,16000
+Immortals,6.0,165000
+Battle: Los Angeles,5.7,178000
+The School of Rock,7.1,295000
+Days of Thunder,6.1,84000
+Goosebumps,6.3,86000
+Cloverfield,7.0,386000
+Jack Reacher,7.0,325000
+The Mummy,5.4,181000
+Jumper,6.1,298000
+Disturbia,6.8,231000
+Saw III,6.2,188000
+Zookeeper,5.2,60000
+AVP: Alien vs. Predator,5.6,192000
+Fiddler on the Roof,8.0,42000
+What Happens in Vegas,6.1,172000
+Hustlers,6.3,93000
+The Texas Chainsaw Massacre,6.2,137000
+The Wedding Singer,6.9,143000
+Footloose,6.6,76000
+We Were Soldiers,7.2,137000
+Romancing the Stone,6.9,90000
+Training Day,7.7,415000
+Father of the Bride Part II,6.1,37000
+Poltergeist,7.3,155000
+27 Dresses,6.1,160000
+Limitless,7.4,550000
+Dolittle,5.6,57000
+Alice Through the Looking Glass,6.2,102000
+The A-Team,6.7,254000
+U-571,6.6,81000
+Where the Wild Things Are,6.7,103000
+Parental Guidance,6.0,26000
+La marche de l&apos;empereur,7.5,57000
+The Adventures of Tintin,7.3,225000
+Annabelle Comes Home,5.9,69000
+No Country for Old Men,8.1,915000
+Alien: Covenant,6.4,269000
+Six Days Seven Nights,5.8,76000
+Ben-Hur,8.1,231000
+The Prince of Tides,6.8,18000
+Ladder 49,6.5,57000
+Four Brothers,6.8,141000
+Star Trek VI: The Undiscovered Country,7.2,74000
+Eragon,5.1,125000
+Coraline,7.7,213000
+The Exorcism of Emily Rose,6.7,126000
+The Nightmare Before Christmas,8.0,320000
+Ray,7.7,144000
+Garfield,5.0,84000
+The Horse Whisperer,6.6,41000
+This Is It,7.2,40000
+The Bridges of Madison County,7.6,78000
+Chocolat,7.2,186000
+Bridget Jones&apos;s Diary,6.7,237000
+Galaxy Quest,7.3,159000
+Stargate,7.1,184000
+Ruthless People,6.9,28000
+Mama,6.2,176000
+RV,5.5,59000
+John Q,7.1,130000
+The Purge: Anarchy,6.4,148000
+My Fair Lady,7.8,92000
+1408,6.8,264000
+Get Shorty,6.9,82000
+Fred Claus,5.6,43000
+10 Cloverfield Lane,7.2,309000
+Sideways,7.5,187000
+World Trade Center,5.9,82000
+Hot Shots!,6.8,105000
+The First Purge,5.2,61000
+The Kid,6.1,42000
+Swordfish,6.5,183000
+The Best Little Whorehouse in Texas,6.0,12000
+Private Benjamin,6.2,25000
+Act of Valor,6.5,68000
+Grumpier Old Men,6.7,26000
+Born on the Fourth of July,7.2,103000
+Blade,7.1,260000
+Boomerang,5.6,29000
+Kill Bill: Vol. 1,8.1,1100000
+The Golden Compass,6.1,184000
+Big Momma&apos;s House 2,4.8,43000
+Star Trek: Insurrection,6.4,74000
+Changing Lanes,6.5,71000
+102 Dalmatians,4.9,37000
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day",6.2,43000
+The Mexican,6.1,107000
+Kangaroo Jack,4.4,31000
+End of Days,5.8,109000
+The Secret of My Success,6.5,33000
+Dante&apos;s Peak,6.0,88000
+Waiting to Exhale,6.0,11000
+The Bounty Hunter,5.6,125000
+Angel Has Fallen,6.4,91000
+Race to Witch Mountain,5.7,58000
+Hacksaw Ridge,8.1,479000
+Coach Carter,7.3,139000
+Lights Out,6.3,124000
+Hidalgo,6.7,80000
+Mirror Mirror,5.6,87000
+The American President,6.8,56000
+Stuart Little 2,5.5,53000
+Pitch Perfect,7.1,293000
+Friday the 13th,5.5,104000
+Wolf,6.2,55000
+Exodus: Gods and Kings,6.0,165000
+About Schmidt,7.1,127000
+Now You See Me 2,6.5,270000
+Barbershop 2: Back in Business,5.7,15000
+Think Like a Man Too,5.8,21000
+Jack the Giant Slayer,6.2,136000
+The Visit,6.3,124000
+Lethal Weapon,7.6,249000
+Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,2.6,12000
+Step Up,6.5,115000
+A Nightmare on Elm Street,5.2,98000
+Rising Sun,6.3,45000
+The Sorcerer&apos;s Apprentice,6.1,158000
+Forgetting Sarah Marshall,7.1,276000
+The Holiday,6.9,271000
+Dave,6.8,52000
+Saw IV,5.9,147000
+Madea&apos;s Family Reunion,5.3,11000
+Tango &amp; Cash,6.4,102000
+The Time Traveler&apos;s Wife,7.1,147000
+The Fox and the Hound,7.3,90000
+She&apos;s All That,5.9,93000
+Miami Vice,6.0,115000
+Risky Business,6.8,86000
+A Fish Called Wanda,7.5,138000
+Hope Springs,6.3,42000
+The Fifth Element,7.7,455000
+Kiss the Girls,6.6,71000
+Thunderball,7.0,114000
+Jingle All the Way,5.7,100000
+Three Kings,7.1,167000
+Fantasia 2000,7.2,37000
+Poseidon,5.7,102000
+Coyote Ugly,5.7,112000
+Harlem Nights,6.1,22000
+Get Him to the Greek,6.3,175000
+The Devil&apos;s Advocate,7.5,352000
+Mission to Mars,5.7,72000
+Prisoners,8.1,652000
+The Shaggy Dog,4.4,19000
+Friday Night Lights,7.2,62000
+Misery,7.8,198000
+The Cell,6.4,100000
+Hope Floats,6.1,26000
+Tooth Fairy,5.0,45000
+The Blue Lagoon,5.8,67000
+Bride Wars,5.5,105000
+Total Recall,6.2,249000
+Far and Away,6.6,62000
+Chariots of Fire,7.2,58000
+Why Did I Get Married Too?,4.7,9500
+Vacation,6.1,107000
+Dawn of the Dead,7.3,248000
+Behind Enemy Lines,6.4,103000
+Courage Under Fire,6.6,53000
+The Grand Budapest Hotel,8.1,758000
+The Last Boy Scout,7.0,99000
+The Stepford Wives,5.3,65000
+Hellboy,6.8,318000
+The Godfather: Part II,9.0,1200000
+Death Becomes Her,6.6,113000
+Sister Act 2: Back in the Habit,5.7,52000
+My Big Fat Greek Wedding 2,6.0,30000
+Planes: Fire &amp; Rescue,6.0,18000
+The Specialist,5.6,65000
+Blood Diamond,8.0,525000
+The Shack,6.3,33000
+Moulin Rouge!,7.6,276000
+Dragnet,6.0,34000
+Pet Sematary,6.6,100000
+Memoirs of a Geisha,7.4,145000
+The Cider House Rules,7.4,97000
+Boyz n the Hood,7.8,135000
+La vita è bella,8.6,661000
+The Animal,4.8,59000
+Saw V,5.8,121000
+Willow,7.3,108000
+Once Upon a Time in Mexico,6.4,159000
+Friends with Benefits,6.5,355000
+Saw,7.6,402000
+Romeo Must Die,6.1,69000
+Be Cool,5.6,69000
+The Curse of the Were-Rabbit,7.4,131000
+Fantastic Four,4.2,160000
+Primal Fear,7.7,203000
+Just Married,5.5,70000
+Me Before You,7.4,233000
+Edward Scissorhands,7.9,468000
+Dracula Untold,6.3,189000
+The Big Chill,7.2,36000
+White Noise,5.5,49000
+Darkest Hour,7.4,189000
+Drumline,5.9,34000
+Joy,6.6,133000
+Tombstone,7.8,138000
+The Shallows,6.3,128000
+Why Did I Get Married?,5.9,13000
+The Hateful Eight,7.8,561000
+La Bamba,6.9,32000
+The Hundred-Foot Journey,7.3,80000
+The Woman in Black,6.4,180000
+The Abyss,7.5,172000
+Horrible Bosses 2,6.3,166000
+Tag,6.5,126000
+"Three Billboards Outside Ebbing, Missouri",8.1,475000
+New Year&apos;s Eve,5.7,84000
+Crash,7.7,429000
+The Count of Monte Cristo,7.7,134000
+What Men Want,5.4,27000
+King Kong,5.9,32000
+Diary of a Wimpy Kid: Rodrick Rules,6.6,29000
+Four Weddings and a Funeral,7.1,147000
+RoboCop,7.6,247000
+Gandhi,8.0,225000
+The Omen,5.5,58000
+Final Destination 3,5.8,137000
+The Recruit,6.6,133000
+13 Hours,7.3,132000
+Unfaithful,6.7,86000
+Message in a Bottle,6.3,37000
+Varsity Blues,6.5,45000
+Sweeney Todd: The Demon Barber of Fleet Street,7.3,357000
+Forces of Nature,5.5,34000
+My Cousin Vinny,7.6,117000
+Blow,7.6,250000
+Letters to Juliet,6.5,97000
+The Phantom of the Opera,7.2,120000
+Broadcast News,7.2,30000
+The Strangers,6.2,126000
+Star Trek V: The Final Frontier,5.5,59000
+Amadeus,8.3,386000
+American Made,7.2,171000
+Enemy at the Gates,7.6,254000
+DragonHeart,6.5,95000
+Like Mike,5.3,20000
+A Cinderella Story,5.9,85000
+Sneakers,7.1,57000
+My Bloody Valentine,5.4,56000
+The Grey,6.8,248000
+Sleeping Beauty,7.2,143000
+Finding Neverland,7.6,203000
+Atomic Blonde,6.7,186000
+The China Syndrome,7.4,29000
+Resident Evil: Apocalypse,6.2,194000
+Home on the Range,5.4,22000
+Resident Evil: Extinction,6.2,190000
+Sicario: Day of the Soldado,7.1,139000
+Evita,6.3,35000
+Little Women,7.3,56000
+Breakdown,6.9,53000
+Angels in the Outfield,6.2,31000
+Natural Born Killers,7.3,227000
+Overboard,6.0,37000
+Serendipity,6.9,110000
+Hot Tub Time Machine,6.4,169000
+A View to a Kill,6.3,95000
+K-PAX,7.4,180000
+If I Stay,6.7,120000
+The Tuxedo,5.4,82000
+Music and Lyrics,6.5,101000
+Jack Ryan: Shadow Recruit,6.2,129000
+The Huntsman: Winter&apos;s War,6.1,105000
+Peter Pan,6.8,70000
+The Dilemma,5.3,53000
+Miss Congeniality 2: Armed &amp; Fabulous,5.2,73000
+Gemini Man,5.7,106000
+Speed 2: Cruise Control,3.9,79000
+Firewall,5.8,57000
+I Feel Pretty,5.6,52000
+Date Movie,2.8,59000
+Men of Honor,7.2,113000
+Isn&apos;t It Romantic,5.9,67000
+About Last Night,6.1,24000
+Addams Family Values,6.8,89000
+Lady Bird,7.4,267000
+The Deer Hunter,8.1,328000
+Diary of a Wimpy Kid: Dog Days,6.3,25000
+Michael Clayton,7.2,162000
+Cobra,5.8,71000
+Sleepers,7.6,211000
+The Game,7.7,374000
+Kate &amp; Leopold,6.4,82000
+Nanny McPhee,6.6,73000
+Tyler Perry&apos;s Boo 2! A Madea Halloween,3.9,4600
+First Blood,7.7,241000
+Savages,6.5,128000
+Warcraft,6.8,255000
+Kingdom of Heaven,7.2,279000
+Jupiter Ascending,5.3,185000
+Munich,7.5,221000
+Hard to Kill,5.8,29000
+Poltergeist,4.9,57000
+The Kingdom,7.0,124000
+New Jack City,6.7,34000
+Into the Storm,5.8,67000
+In Good Company,6.4,55000
+Snatched,4.5,35000
+The Rainmaker,7.2,71000
+Walking Tall,6.3,74000
+The Breakfast Club,7.8,377000
+Gangster Squad,6.7,212000
+The Full Monty,7.2,104000
+"Greystoke: The Legend of Tarzan, Lord of the Apes",6.4,20000
+Mike and Dave Need Wedding Dates,6.0,87000
+Marked for Death,6.0,21000
+Made of Honor,5.9,70000
+Blended,6.5,127000
+The Enforcer,6.7,44000
+Malice,6.4,25000
+It&apos;s a Mad Mad Mad Mad World,7.5,40000
+Black Rain,6.7,53000
+Romeo + Juliet,6.7,220000
+Full Metal Jacket,8.3,709000
+Underworld: Rise of the Lycans,6.6,157000
+The Replacements,6.6,62000
+A Nightmare on Elm Street 3: Dream Warriors,6.6,78000
+Lawrence of Arabia,8.3,283000
+Timecop,5.9,58000
+xXx: Return of Xander Cage,5.2,90000
+Cop Out,5.6,87000
+Cop Land,6.9,91000
+The Bridge on the River Kwai,8.1,213000
+All Eyez on Me,5.9,22000
+First Man,7.3,181000
+Den of Thieves,7.0,103000
+Frequency,7.3,106000
+Convoy,6.3,16000
+Foul Play,6.8,15000
+Red Dawn,5.4,76000
+We Are Marshall,7.1,60000
+The Artist,7.9,237000
+Cats &amp; Dogs: The Revenge of Kitty Galore,4.4,15000
+Need for Speed,6.4,168000
+Under the Tuscan Sun,6.8,51000
+City Slickers II: The Legend of Curly&apos;s Gold,5.6,19000
+West Side Story,7.5,105000
+Gekijô-ban poketto monsutâ: Maboroshi no pokemon: Rugia bakutan,6.1,22000
+License to Wed,5.3,39000
+The Lovely Bones,6.7,165000
+The Gift,7.0,149000
+Diamonds Are Forever,6.6,103000
+Wall Street,7.4,151000
+Soul Surfer,7.0,48000
+Tears of the Sun,6.6,119000
+Always,6.4,29000
+Wag the Dog,7.1,82000
+Prom Night,3.9,35000
+The Age of Adaline,7.2,166000
+Step Up 3D,6.2,57000
+Widows,6.9,94000
+"Welcome Home, Roscoe Jenkins",5.5,14000
+Casino,8.2,494000
+Uncle Drew,5.8,13000
+Final Destination 5,5.8,112000
+Beverly Hills Cop III,5.6,80000
+Krampus,6.2,69000
+The Lizzie McGuire Movie,5.6,39000
+Teenage Mutant Ninja Turtles III,4.8,32000
+The Unborn,4.8,51000
+Max,6.7,27000
+Time Bandits,7.0,62000
+Gosford Park,7.2,85000
+Secondhand Lions,7.5,56000
+Peggy Sue Got Married,6.4,36000
+Mannequin,5.9,31000
+Pale Rider,7.3,57000
+About a Boy,7.1,180000
+Truth or Dare,5.2,53000
+Gremlins 2: The New Batch,6.4,100000
+Three Days of the Condor,7.4,53000
+High Crimes,6.4,42000
+Bandits,6.5,67000
+Pee-wee&apos;s Big Adventure,7.0,52000
+Hanna,6.8,196000
+Orange County,6.2,49000
+Heartbreakers,6.2,53000
+Swiss Family Robinson,7.2,16000
+The Master of Disguise,3.4,25000
+Blue Crush,5.7,31000
+The Water Horse,6.4,40000
+Paddington 2,7.8,69000
+Reds,7.3,22000
+The Fly,7.6,172000
+Pretty in Pink,6.8,79000
+Ghost in the Shell,6.3,208000
+Bill &amp; Ted&apos;s Excellent Adventure,7.0,126000
+Little Nicky,5.3,103000
+Pleasantville,7.5,126000
+The Expendables 3,6.1,177000
+Duplicity,6.2,50000
+Body of Lies,7.1,223000
+Dead Man Walking,7.5,93000
+Jagged Edge,6.5,14000
+Burlesque,6.4,83000
+Joe Versus the Volcano,5.9,36000
+Crazy Heart,7.2,88000
+Nobody&apos;s Fool,7.4,20000
+Hocus Pocus,6.9,119000
+The Texas Chainsaw Massacre: The Beginning,5.8,70000
+Benji,6.1,4700
+Conan the Barbarian,6.9,144000
+Out for Justice,6.1,23000
+Jackie Brown,7.5,335000
+30 Days of Night,6.6,172000
+Gridiron Gang,6.9,62000
+Epic Movie,2.4,104000
+Hitman,6.3,166000
+Blind Date,6.0,22000
+Evolution,6.1,126000
+City Heat,5.5,9700
+47 Ronin,6.3,156000
+Last Holiday,6.5,31000
+Red Dawn,6.4,54000
+The Terminator,8.0,827000
+Pride &amp; Prejudice,7.8,278000
+Midnight Run,7.5,83000
+Surrogates,6.3,173000
+Rock of Ages,5.9,76000
+Sex Tape,5.1,111000
+Nerve,6.5,124000
+Spy Kids 4: All the Time in the World,3.5,25000
+On Deadly Ground,4.6,23000
+The Great Mouse Detective,7.2,48000
+The Ghost and the Darkness,6.8,60000
+Happy Gilmore,7.0,212000
+Harold &amp; Kumar Escape from Guantanamo Bay,6.6,135000
+It Could Happen to You,6.4,38000
+St. Elmo&apos;s Fire,6.4,40000
+El laberinto del fauno,8.2,645000
+Red Riding Hood,5.5,111000
+How Stella Got Her Groove Back,5.7,7400
+The AristoCats,7.1,100000
+Philomena,7.6,98000
+August: Osage County,7.2,88000
+Autumn in New York,5.7,26000
+Sky Captain and the World of Tomorrow,6.0,84000
+Mars Attacks!,6.4,220000
+Bedazzled,6.0,101000
+Wild,7.1,126000
+All That Jazz,7.9,30000
+The Nativity Story,6.8,11000
+The Dead Pool,6.3,45000
+Junior,4.7,68000
+Jeepers Creepers,6.2,121000
+The Heartbreak Kid,5.8,90000
+The Brave One,6.7,60000
+Rear Window,8.5,471000
+Bounce,5.7,21000
+Kiss of the Dragon,6.6,63000
+My Favorite Martian,5.1,13000
+Notorious,6.7,43000
+Risen,6.3,27000
+16 Blocks,6.6,129000
+The Family,6.3,115000
+Matchstick Men,7.3,128000
+Best Friends,5.5,2800
+Uptown Girls,6.2,37000
+Clockstoppers,5.2,14000
+Carlito&apos;s Way,7.9,211000
+The Getaway,7.4,31000
+In the Bedroom,7.4,40000
+The Boy,6.0,87000
+Alpha,6.7,60000
+The Theory of Everything,7.7,429000
+Dirty Harry,7.7,151000
+The Pink Panther 2,5.6,44000
+What a Girl Wants,5.8,62000
+Set It Off,6.9,16000
+Derailed,6.6,73000
+Hanging Up,4.9,12000
+Walking with Dinosaurs 3D,5.2,11000
+Mile 22,6.2,75000
+Mortal Kombat: Annihilation,3.7,53000
+Mad Max Beyond Thunderdome,6.3,133000
+Step Up Revolution,6.4,55000
+Selena,6.8,28000
+American Assassin,6.2,78000
+Dragon: The Bruce Lee Story,7.0,31000
+Ultimo tango a Parigi,7.0,52000
+Commando,6.7,154000
+Fletch Lives,6.1,21000
+Ouija: Origin of Evil,6.2,60000
+K-19: The Widowmaker,6.7,62000
+Pan,5.7,63000
+For Love of the Game,6.6,34000
+The Doors,7.2,89000
+The Number 23,6.4,199000
+Honeymoon in Vegas,5.8,18000
+Carrie,5.9,138000
+Frankenweenie,6.9,104000
+The Flintstones in Viva Rock Vegas,3.7,23000
+Money Train,5.7,40000
+Drive,7.8,603000
+Texas Chainsaw 3D,4.8,48000
+Inferno,6.2,169000
+The Favourite,7.5,188000
+Like Father Like Son,5.2,5900
+The Foreigner,7.0,110000
+Eternal Sunshine of the Spotless Mind,8.3,959000
+Monster,7.3,145000
+Hot Pursuit,5.2,50000
+Concussion,7.1,92000
+Jack Frost,5.4,36000
+Adventures in Babysitting,6.9,42000
+Man on the Moon,7.4,128000
+Thirteen Days,7.3,58000
+The 6th Day,5.9,120000
+Hostage,6.5,109000
+Mississippi Burning,7.8,96000
+Street Fighter,4.0,70000
+Fireproof,6.5,22000
+Semi-Pro,5.8,81000
+Heroes,6.1,1800
+The Spy Who Dumped Me,6.1,75000
+I Spy,5.4,51000
+The Constant Gardener,7.4,138000
+Flags of Our Fathers,7.1,121000
+Devil,6.2,141000
+R.I.P.D.,5.6,126000
+Dying Young,6.1,16000
+Marmaduke,4.3,15000
+The Gambler,6.1,69000
+The Punisher,6.4,156000
+Striptease,4.5,45000
+Black Knight,4.9,40000
+Annihilation,6.8,303000
+Coming Home,7.3,13000
+When in Rome,5.6,61000
+Return to Me,6.9,21000
+Because of Winn-Dixie,6.4,11000
+Taking Lives,6.2,87000
+The 13th Warrior,6.6,121000
+Dreamer: Inspired by a True Story,6.8,13000
+Driven,4.6,41000
+Hereafter,6.4,92000
+The Last House on the Left,6.5,90000
+Team America: World Police,7.2,166000
+Psycho,8.5,639000
+Paper Towns,6.2,100000
+Cellular,6.5,98000
+Drillbit Taylor,5.7,60000
+Copycat,6.6,58000
+Mr. Magorium&apos;s Wonder Emporium,6.2,45000
+The Shadow,6.1,25000
+House of Wax,5.4,121000
+The Accused,7.2,34000
+How to Be a Latin Lover,6.0,15000
+What&apos;s the Worst That Could Happen?,5.5,16000
+Analyze That,5.9,84000
+The Lawnmower Man,5.4,35000
+Stealth,5.1,53000
+Paint Your Wagon,6.6,13000
+Daddy&apos;s Little Girls,5.8,7500
+Metro,5.5,27000
+Beverly Hills Ninja,5.6,41000
+Monster&apos;s Ball,7.0,87000
+Bustin&apos; Loose,6.1,3200
+The Eye,5.4,53000
+Eddie,5.2,11000
+Nick and Norah&apos;s Infinite Playlist,6.6,91000
+Adrift,6.6,53000
+Zack and Miri Make a Porno,6.5,176000
+A History of Violence,7.4,232000
+Scott Pilgrim vs. the World,7.5,407000
+"Good Night, and Good Luck.",7.4,97000
+United 93,7.6,104000
+Little Big Man,7.6,34000
+She&apos;s Out of My League,6.4,134000
+Chappie,6.8,242000
+One Hour Photo,6.8,120000
+Rob Roy,6.9,42000
+Major League II,5.6,26000
+Superstar,5.2,19000
+Chef,7.3,208000
+Dogma,7.3,214000
+Random Hearts,5.3,21000
+Delivery Man,6.4,77000
+Predator 2,6.3,156000
+Mirrors,6.1,105000
+The Legend of Bagger Vance,6.7,56000
+3 Days to Kill,6.2,92000
+Robin Hood,5.3,70000
+Murphy&apos;s Romance,7.0,6000
+Doragon bôru chô: Burorî,7.8,25000
+I Love Trouble,5.3,12000
+Sophie&apos;s Choice,7.6,46000
+The Gods Must Be Crazy,7.3,55000
+Road House,6.6,69000
+Kidnap,5.9,36000
+Super Troopers 2,6.1,26000
+Ryan&apos;s Daughter,7.4,9500
+Dragonfly,6.1,38000
+"Hail, Caesar!",6.3,130000
+Elizabeth,7.4,97000
+Daybreakers,6.4,126000
+Double Impact,5.6,40000
+Blown Away,6.3,30000
+When the Game Stands Tall,6.7,16000
+Bad Company,5.6,47000
+Riding in Cars with Boys,6.5,28000
+The Rose,7.0,8400
+The Bank Job,7.2,178000
+The Art of War,5.7,30000
+When the Bough Breaks,5.2,6700
+The Stepfather,5.6,34000
+Rent,6.9,51000
+The Object of My Affection,6.0,20000
+The Mechanic,6.6,157000
+The Last Picture Show,8.0,46000
+Nanny McPhee and the Big Bang,6.1,31000
+Priest,5.7,118000
+Zathura: A Space Adventure,6.2,100000
+Child&apos;s Play,5.7,50000
+Fools Rush In,6.1,35000
+Shoot to Kill,6.8,13000
+Confessions of a Teenage Drama Queen,4.7,29000
+A Low Down Dirty Shame,6.0,7100
+Spice World,3.6,35000
+Bless the Child,5.1,14000
+3 Ninjas,5.3,21000
+The Five-Year Engagement,6.2,97000
+Zoolander 2,4.7,68000
+Starman,7.0,46000
+The Crocodile Hunter: Collision Course,5.4,7900
+High Road to China,6.1,5300
+Stop! Or My Mom Will Shoot,4.3,41000
+Mr. Brooks,7.3,148000
+Employee of the Month,5.5,47000
+Garfield: A Tale of Two Kitties,5.0,42000
+Child&apos;s Play 2,5.9,49000
+Brothers,7.1,119000
+We Own the Night,6.8,87000
+Swimfan,5.1,20000
+Desperately Seeking Susan,6.0,23000
+Menace II Society,7.5,56000
+Florence Foster Jenkins,6.8,54000
+Love &amp; Basketball,7.2,20000
+Final Analysis,5.9,14000
+Memphis Belle,6.9,28000
+The Brothers,6.4,4600
+Friday,7.3,107000
+Do the Right Thing,8.0,98000
+Poetic Justice,6.1,14000
+Hoosiers,7.5,46000
+The Finest Hours,6.8,65000
+The Island of Dr. Moreau,4.6,33000
+Hannibal Rising,6.2,108000
+Saw VI,6.0,108000
+The Last Witch Hunter,6.0,101000
+Superhero Movie,4.6,67000
+Event Horizon,6.7,171000
+Winnie the Pooh,7.2,24000
+Overboard,6.9,57000
+The Best of Me,6.7,70000
+Zombieland: Double Tap,6.7,165000
+Garden State,7.4,213000
+Eye for an Eye,6.2,16000
+The Other Boleyn Girl,6.7,109000
+Ricki and the Flash,5.9,23000
+Glory,7.8,131000
+Elizabethtown,6.4,69000
+Resident Evil: The Final Chapter,5.5,90000
+Hell or High Water,7.6,218000
+The Host,5.9,113000
+Blood Work,6.4,44000
+The Adventures of Rocky &amp; Bullwinkle,4.2,20000
+The World&apos;s End,7.0,272000
+That Awkward Moment,6.1,101000
+Jacob&apos;s Ladder,7.5,104000
+Modern Problems,5.1,5200
+A Man Apart,6.1,47000
+Ramona and Beezus,6.5,18000
+Micki + Maude,6.0,3000
+Overcomer,6.7,4600
+The Wrestler,7.9,299000
+Necessary Roughness,6.2,12000
+Memento,8.4,1200000
+The House,5.6,43000
+All About the Benjamins,5.9,15000
+The Art of Racing in the Rain,7.6,29000
+Serenity,7.8,291000
+W.,6.3,47000
+Captain Corelli&apos;s Mandolin,5.9,34000
+Her,8.0,576000
+Jonah: A VeggieTales Movie,6.5,4100
+The Mist,7.1,294000
+Nancy Drew,5.9,20000
+The Outsiders,7.1,82000
+Mimic,6.0,49000
+Ernest Goes to Jail,5.4,9400
+Grindhouse,7.5,182000
+The Wood,7.0,9100
+Wyatt Earp,6.7,49000
+In the Heart of the Sea,6.9,132000
+Navy Seals,5.6,17000
+Midnight in the Garden of Good and Evil,6.6,39000
+Winchester,5.5,33000
+Against All Odds,5.9,12000
+Problem Child 2,4.9,22000
+The Reaping,5.6,43000
+All the Money in the World,6.8,82000
+Moscow on the Hudson,6.5,12000
+15 Minutes,6.1,50000
+Lucky Lady,5.2,1200
+Downsizing,5.7,106000
+From Russia with Love,7.4,129000
+Don Jon,6.5,236000
+Fly Away Home,6.8,25000
+Unleashed,7.0,101000
+Fargo,8.1,650000
+On the Basis of Sex,7.1,33000
+From Paris with Love,6.4,116000
+The Best Years of Our Lives,8.1,62000
+Sicko,7.9,75000
+Air Bud,5.3,17000
+Sixteen Candles,7.0,111000
+Good Burger,5.7,28000
+Santa Claus: The Movie,6.3,13000
+Striking Distance,5.9,42000
+Corky Romano,4.7,13000
+Perfect Stranger,5.7,47000
+Observe and Report,5.8,63000
+Two of a Kind,4.7,4100
+The Russia House,6.1,16000
+Match Point,7.6,213000
+Weird Science,6.6,85000
+American Gigolo,6.3,25000
+The Long Riders,7.0,11000
+Transcendence,6.2,224000
+The Players Club,5.9,6600
+Bulletproof Monk,5.5,50000
+Whiskey Tango Foxtrot,6.6,52000
+Sanctum,5.9,55000
+The Program,6.5,10000
+Stay Alive,5.1,32000
+Monte Carlo,5.8,44000
+Fame,5.1,16000
+Vicky Cristina Barcelona,7.1,250000
+City by the Sea,6.1,25000
+Hitman: Agent 47,5.7,89000
+The Warriors,7.6,99000
+War,6.2,89000
+Lucky Number Slevin,7.7,307000
+Captain Ron,5.8,21000
+My Super Ex-Girlfriend,5.1,63000
+The Black Dahlia,5.6,73000
+Babylon A.D.,5.6,95000
+Much Ado About Nothing,7.3,47000
+Pure Luck,5.8,7000
+Thunderheart,6.8,16000
+Quest for Camelot,6.3,16000
+A Lot Like Love,6.6,69000
+Il postino,7.7,35000
+Hellboy,5.2,85000
+My Little Pony: The Movie,6.2,6700
+Friday the 13th: A New Beginning,4.8,37000
+Billy Elliot,7.7,132000
+Joy Ride,6.6,67000
+Death Wish,7.0,38000
+Frankenstein,6.4,54000
+Black and Blue,6.4,21000
+Cousins,6.4,4600
+The Medallion,5.3,41000
+Lock Up,6.4,42000
+The Caine Mutiny,7.7,27000
+Tough Guys,6.3,7100
+The Darkest Hour,4.9,60000
+Quigley Down Under,6.9,22000
+The Adventures of Ford Fairlane,6.4,18000
+Rhinestone,3.9,7400
+Toys,5.1,32000
+The Freshman,6.5,20000
+When a Stranger Calls,6.4,12000
+Urban Legends: Final Cut,4.3,17000
+Battlefield Earth,2.5,79000
+The Book Thief,7.5,132000
+Psycho,4.6,48000
+Married to the Mob,6.2,17000
+The Way Way Back,7.4,146000
+The Right Stuff,7.8,60000
+Looney Tunes: Back in Action,5.7,36000
+Flicka,6.1,7800
+Fantastic Mr. Fox,7.9,217000
+Aloha,5.4,65000
+Flight of the Phoenix,6.1,54000
+The Air Up There,5.5,8800
+Creepshow,6.9,46000
+National Lampoon&apos;s Van Wilder,6.4,108000
+Phantom Thread,7.5,123000
+Punchline,5.9,8500
+The Wiz,5.5,15000
+Antwone Fisher,7.3,35000
+Reality Bites,6.6,49000
+Gamer,5.8,133000
+Top Secret!,7.2,64000
+The Circle,5.4,90000
+Chain Reaction,5.7,51000
+The Invisible,6.2,35000
+F/X,6.7,19000
+Boys and Girls,5.4,17000
+A Christmas Story,7.9,140000
+Keanu,6.3,48000
+The Great Waldo Pepper,6.7,5800
+Valentine,4.9,27000
+Multiplicity,6.1,32000
+The Man from Snowy River,7.3,8600
+Diary of a Wimpy Kid: The Long Haul,4.2,8500
+Big Miracle,6.5,19000
+My Favorite Year,7.4,9400
+Juice,7.1,26000
+Die unendliche Geschichte,7.4,139000
+UglyDolls,5.1,6600
+Homefront,6.5,117000
+Dracula,6.5,9800
+Don&apos;t Be a Menace to South Central While Drinking Your Juice in the Hood,6.6,53000
+Secret in Their Eyes,6.3,47000
+The People vs. Larry Flynt,7.3,92000
+The Life of David Gale,7.5,117000
+The Serpent and the Rainbow,6.5,25000
+City Hall,6.2,20000
+8 Seconds,6.6,5100
+Nine Lives,5.3,22000
+Appaloosa,6.7,60000
+Tucker: The Man and His Dream,6.9,19000
+Man of the House,5.4,24000
+Skin Deep,6.1,4500
+Broken City,6.2,79000
+Summer Catch,5.1,16000
+Color of Night,5.2,24000
+The Pledge,6.8,57000
+Remember Me,7.1,143000
+Waitress,7.0,46000
+Hart&apos;s War,6.3,52000
+Johnny Mnemonic,5.7,70000
+Race,7.1,37000
+"I, Frankenstein",5.1,80000
+Tuck Everlasting,6.6,23000
+Blaze,6.0,3800
+Martin Lawrence Live: Runteldat,5.4,1700
+Friday the 13th Part VII: The New Blood,5.3,36000
+Anywhere But Here,6.2,18000
+The Ninth Gate,6.7,175000
+Casualties of War,7.1,43000
+Becoming Jane,7.0,60000
+Eye in the Sky,7.3,83000
+Year of the Dragon,6.9,15000
+Sugar Hill,5.9,4500
+The Believers,6.1,6900
+Next,6.2,155000
+Harold &amp; Kumar Go to White Castle,7.0,191000
+Simon Birch,6.9,21000
+The Upside of Anger,6.8,22000
+Love Affair,6.0,4700
+Crimes and Misdemeanors,7.9,57000
+Fright Night,6.4,104000
+Paranormal Activity: The Ghost Dimension,4.6,27000
+The Four Feathers,6.5,34000
+Walk Hard: The Dewey Cox Story,6.8,71000
+Only the Brave,7.6,65000
+127 Hours,7.5,364000
+Babe: Pig in the City,5.8,33000
+Into the Wild,8.1,601000
+The Delta Force,5.6,20000
+Bears,7.4,6700
+Bad Santa 2,5.6,25000
+The Big Green,5.6,9900
+Mr. Holmes,6.9,63000
+The Perks of Being a Wallflower,7.9,487000
+Show Dogs,3.9,4600
+Steve Jobs,7.2,164000
+Halloween 4: The Return of Michael Myers,5.8,50000
+Mother!,6.6,210000
+Going the Distance,6.3,58000
+The Rage: Carrie 2,4.7,16000
+Bad Times at the El Royale,7.1,141000
+Drive Me Crazy,5.8,19000
+Laws of Attraction,5.9,23000
+Punch-Drunk Love,7.3,157000
+For the Boys,6.4,5600
+Last Man Standing,6.4,57000
+Addicted,5.1,11000
+Chappaquiddick,6.5,13000
+Disturbing Behavior,5.6,22000
+The Ruins,5.9,74000
+Dark Skies,6.3,74000
+Klute,7.2,25000
+The Zookeeper&apos;s Wife,7.0,42000
+Angel,5.8,3500
+Sorry to Bother You,6.9,72000
+Father Figures,5.5,19000
+Empire,6.0,7500
+Notes on a Scandal,7.4,77000
+Win a Date with Tad Hamilton!,5.6,28000
+Pet Sematary II,4.9,21000
+The Falcon and the Snowman,6.8,11000
+Ghosts of the Abyss,6.8,5300
+The Big Lebowski,8.1,775000
+Fled,5.4,8900
+Rushmore,7.7,179000
+Seed of Chucky,4.8,44000
+Kung fu,7.7,134000
+Annapolis,5.9,21000
+Center Stage,6.7,21000
+To Rome with Love,6.3,87000
+Blink,6.2,8300
+Freejack,5.4,16000
+Catch That Kid,5.3,10000
+Safe,6.5,108000
+New in Town,5.6,23000
+Lost Souls,4.8,11000
+The Frighteners,7.1,86000
+The Kid Who Would Be King,6.0,16000
+Valley Girl,6.4,15000
+Detroit,7.3,52000
+Rebound,5.2,13000
+Howard the Duck,4.7,46000
+Ging chaat goo si III: Chiu kup ging chaat,6.9,21000
+Chances Are,6.5,13000
+Swing Vote,6.1,18000
+21 Grams,7.6,232000
+Elizabeth: The Golden Age,6.8,70000
+Young Adult,6.3,83000
+An American Haunting,5.1,25000
+A Simple Plan,7.5,68000
+Tales from the Darkside: The Movie,6.3,17000
+Burglar,5.2,4400
+That Old Feeling,6.2,3800
+The Whole Ten Yards,5.5,56000
+Billy Bathgate,5.9,12000
+Marie Antoinette,6.5,107000
+Armored,5.7,30000
+The Single Moms Club,5.4,6200
+The Raven,6.4,84000
+Confessions of a Dangerous Mind,7.0,87000
+O,6.1,21000
+The Transporter Refueled,5.2,41000
+Late Night,6.5,35000
+Corvette Summer,5.7,3100
+The Thirteenth Floor,7.1,70000
+All the Pretty Horses,5.8,15000
+Legend,6.4,63000
+The Ghost Writer,7.2,161000
+Switch,5.8,9400
+My Boss&apos;s Daughter,4.7,29000
+Highlander II: The Quickening,4.2,45000
+Happily N&apos;Ever After,4.5,11000
+Loser,5.3,29000
+View from the Top,5.3,27000
+The Last Exorcism Part II,4.0,16000
+A Perfect Getaway,6.5,71000
+Firestarter,6.1,31000
+Halloween: The Curse of Michael Myers,4.8,35000
+Arthur et les Minimoys,6.0,36000
+The Corruptor,6.1,18000
+Pure Country,7.1,4500
+Thinner,5.8,30000
+And So It Goes,5.8,14000
+Grease 2,4.4,35000
+Muriel&apos;s Wedding,7.2,38000
+Dungeons &amp; Dragons,3.7,33000
+Child&apos;s Play 3,5.1,39000
+The Possession of Hannah Grace,5.2,21000
+The Girl in the Spider&apos;s Web,6.1,46000
+The Prodigy,5.9,26000
+Once Around,6.5,4300
+Music of the Heart,6.8,12000
+S.O.B.,6.4,5900
+Election,7.2,95000
+Step Up All In,6.0,34000
+Indian Summer,6.6,5500
+Keeping Up with the Joneses,5.9,61000
+Big Eyes,7.0,90000
+Per un pugno di dollari,8.0,209000
+Maximum Risk,5.5,22000
+Fly Me to the Moon,4.5,4500
+School Daze,6.0,7200
+The Chamber,6.0,15000
+Wild at Heart,7.2,90000
+Welcome to Mooseport,5.2,13000
+Dirty Dancing: Havana Nights,6.0,28000
+Disaster Movie,1.9,90000
+Alex &amp; Emma,5.6,13000
+Supernova,4.9,18000
+Scanners,6.8,53000
+A Chorus Line,6.2,10000
+The Return of the Living Dead,7.3,59000
+Amelia,5.8,13000
+The Ice Pirates,5.7,11000
+Josie and the Pussycats,5.5,23000
+Out Cold,6.3,17000
+Candyman: Farewell to the Flesh,5.3,13000
+Jackie,6.7,77000
+Blues Brothers 2000,4.9,33000
+Stealing Harvard,5.1,13000
+It Comes at Night,6.2,90000
+Hush,5.5,12000
+The Gate,6.1,17000
+Eighth Grade,7.4,72000
+Sin City: A Dame to Kill For,6.5,158000
+Nixon,7.1,30000
+Juwanna Mann,4.7,6600
+The Little Vampire,5.8,10000
+Osmosis Jones,6.3,35000
+Supergirl,4.4,21000
+The Crush,5.8,19000
+Critters,6.1,35000
+Intouchables,8.5,808000
+Daddy Day Camp,3.2,16000
+Inside Llewyn Davis,7.5,148000
+Feardotcom,3.4,21000
+Case 39,6.2,83000
+Ghost Town,6.7,72000
+Roller Boogie,4.6,1800
+Visiting Hours,5.7,4100
+The Mod Squad,4.3,9000
+Playing for Keeps,5.7,30000
+Living Out Loud,6.6,4800
+Volver,7.6,99000
+American Outlaws,6.0,16000
+Perfect,4.6,5100
+April Fool&apos;s Day,6.2,16000
+Man&apos;s Best Friend,5.2,4400
+The Quiet American,7.0,28000
+Religulous,7.6,59000
+The Concorde... Airport &apos;79,4.5,6100
+Gods and Generals,6.3,16000
+Carol,7.3,124000
+Love &amp; Mercy,7.4,38000
+Idlewild,6.2,5500
+I Think I Love My Wife,5.5,17000
+Silent House,5.3,23000
+The Light Between Oceans,7.2,55000
+The Omega Code,3.6,5300
+The Legend of the Lone Ranger,5.1,2100
+The Matador,6.7,45000
+Compromising Positions,5.9,1000
+Bad Influence,6.3,9500
+Ready to Rumble,5.4,14000
+I&apos;ll Be Home for Christmas,5.5,10000
+Confidence,6.7,34000
+Lone Wolf McQuade,6.4,12000
+12 Rounds,5.6,28000
+Before I Fall,6.5,50000
+Self/less,6.5,96000
+Hot Tub Time Machine 2,5.1,38000
+True Romance,7.9,219000
+A Stranger Among Us,5.6,3800
+Escape from the Planet of the Apes,6.3,34000
+No Mercy,5.7,7400
+Gattaca,7.8,293000
+Sunshine Cleaning,6.8,71000
+The Wild Bunch,7.9,82000
+Deathstalker,4.6,5000
+The Darjeeling Limited,7.2,192000
+Sorority Row,5.2,30000
+Blinded by the Light,6.9,24000
+The King and I,4.5,4000
+"Roman J. Israel, Esq.",6.5,36000
+End of the Spear,6.8,5200
+Phantasm,6.7,35000
+Upgrade,7.5,175000
+The Seven Year Itch,7.1,37000
+Jui kuen II,7.6,45000
+Get Over It,5.8,19000
+Nuovo Cinema Paradiso,8.5,249000
+Police Academy 6: City Under Siege,4.4,31000
+Alaska,5.8,5400
+Wing Commander,4.3,17000
+So I Married an Axe Murderer,6.5,37000
+The Last Kiss,6.4,41000
+Lifeforce,6.2,25000
+Zoom,4.4,21000
+Le pacte des loups,7.0,65000
+One Good Cop,5.9,4100
+Bobby,7.0,42000
+Unforgettable,5.1,15000
+Das Leben der Anderen,8.4,377000
+Manhattan Murder Mystery,7.3,43000
+Prêt-à-Porter,5.2,15000
+Extreme Prejudice,6.7,6800
+Out of the Furnace,6.8,113000
+Thumbelina,6.4,17000
+Lords of Dogtown,7.1,54000
+Deep Rising,6.1,36000
+D-War,3.5,24000
+The Astronaut Farmer,6.3,23000
+Antitrust,6.1,29000
+For Love or Money,6.2,14000
+"Give &apos;em Hell, Harry!",7.3,500
+The Last Flight of Noah&apos;s Ark,5.8,1400
+The End of the Affair,7.1,22000
+The Astronaut&apos;s Wife,5.4,55000
+Hercules,4.0,3900
+RoboCop 3,4.1,49000
+Fear and Loathing in Las Vegas,7.6,271000
+Leave It to Beaver,5.2,4200
+Drive Angry,5.4,97000
+The Drop,7.1,149000
+Belle,7.3,30000
+Abandon,4.9,9700
+Glengarry Glen Ross,7.7,102000
+The Darkness,4.5,16000
+Stay Tuned,6.3,13000
+New York Stories,6.4,18000
+Live by Night,6.4,56000
+Head Over Heels,5.5,14000
+The Perfect Score,5.7,25000
+Stardust Memories,7.3,22000
+The Scarlet Letter,5.3,15000
+Raise Your Voice,5.9,28000
+Universal Soldier: The Return,4.2,29000
+Thief of Hearts,5.8,1700
+A Rage in Harlem,5.9,2100
+Fei ying gai wak,7.3,20000
+Home Fries,5.1,8400
+Narc,7.1,40000
+The Secret of NIMH,7.6,40000
+The Walk,7.3,126000
+The Fountain,7.2,235000
+Henry V,7.5,29000
+Bats,4.0,10000
+Cyborg,5.1,31000
+The Great Raid,6.7,22000
+Domino,5.9,66000
+Facing the Giants,6.6,17000
+Lovesick,5.2,835
+The Belko Experiment,6.1,49000
+Prom,5.4,15000
+King Kong,7.9,83000
+Yonkers Joe,6.3,884
+Once Bitten,5.6,14000
+Mr. Smith Goes to Washington,8.1,112000
+The Express,7.3,21000
+Belly,6.3,11000
+The Perfect Match,4.9,4000
+I Don&apos;t Know How She Does It,5.0,20000
+S1m0ne,6.1,60000
+The Baby-Sitters Club,5.8,5700
+Lost in Yonkers,6.8,2800
+Stone Cold,6.0,7800
+The Frisco Kid,6.4,10000
+Dragonball Evolution,2.5,73000
+Black Snake Moan,6.9,63000
+Hardcore Henry,6.7,92000
+Transamerica,7.4,41000
+The Boy in the Striped Pyjamas,7.8,206000
+First Daughter,5.1,22000
+Trail of the Pink Panther,5.0,10000
+Dark Blue,6.6,22000
+Flickan som lekte med elden,7.2,94000
+Meet the Blacks,4.8,36000
+Warlock,6.2,17000
+Superbabies: Baby Geniuses 2,1.9,31000
+Peeples,5.3,4800
+Late for Dinner,6.5,1800
+Mad Max,6.9,201000
+Renegades,5.4,3500
+Whatever It Takes,5.5,11000
+Suspect Zero,5.8,20000
+Street Fighter: The Legend of Chun-Li,3.7,24000
+To Catch a Thief,7.4,70000
+The Seeker: The Dark Is Rising,4.8,15000
+Before and After,6.1,8800
+Body Double,6.8,32000
+Scandal,6.5,5100
+Ratchet &amp; Clank,5.6,11000
+The Man with One Red Shoe,5.7,16000
+Chinatown,8.2,313000
+Stick,5.7,2000
+The Quiet Ones,5.1,20000
+Troop Beverly Hills,5.8,10000
+Serenity,5.4,39000
+Blue Velvet,7.7,191000
+Leprechaun,4.8,26000
+High Spirits,5.8,9300
+The Lost City of Z,6.6,86000
+An Unfinished Life,7.0,31000
+Tall Tale,5.9,3700
+The Blob,6.6,36000
+Christopher Columbus: The Discovery,4.5,3000
+Cry-Baby,6.5,58000
+The Cooler,6.9,34000
+Deadly Blessing,5.6,5700
+The Love Letter,5.5,4400
+Night Crossing,6.5,1400
+Machete Kills,5.6,77000
+The Meteor Man,5.2,8100
+The Texas Chainsaw Massacre 2,5.6,31000
+Woo,4.2,2000
+Aspen Extreme,6.0,2900
+The Death of Stalin,7.3,97000
+Strange Days,7.2,70000
+Firestorm,4.8,3900
+Anna,6.7,74000
+The Return,4.7,12000
+Enemies: A Love Story,6.6,2200
+Bad Words,6.6,49000
+In Bruges,7.9,407000
+The Best of Times,6.0,7300
+Vampire Academy,5.5,54000
+Slither,6.5,80000
+Dead Calm,6.8,39000
+Hoop Dreams,8.3,26000
+The Night Listener,5.9,15000
+Tupac: Resurrection,7.9,9400
+The Jerky Boys,4.8,2600
+Into the Night,6.4,12000
+Over Her Dead Body,5.2,24000
+Cidade de Deus,8.6,729000
+While We&apos;re Young,6.3,49000
+Mortdecai,5.5,71000
+Hackers,6.3,68000
+The Sugarland Express,6.8,17000
+Proof,6.7,44000
+Paranoia,5.7,36000
+Bones,4.3,7400
+Alice,6.6,14000
+The Crucible,6.8,37000
+The Squid and the Whale,7.3,82000
+Witchboard,5.7,7000
+Mid90s,7.4,58000
+Gold,6.7,62000
+She&apos;s Gotta Have It,6.8,14000
+North,4.5,14000
+The Longest Yard,7.1,18000
+El orfanato,7.4,152000
+The Hoax,6.7,16000
+Mujeres al borde de un ataque de &quot;nervios&quot;,7.6,39000
+Screwed,5.7,9000
+Shag,6.4,4200
+Relentless,5.9,1500
+Grandma,6.7,16000
+Children of the Corn II: The Final Sacrifice,4.3,8300
+Our Brand Is Crisis,6.1,22000
+The Vikings,7.1,14000
+Red Sonja,5.1,41000
+Nine 1/2 Weeks,6.0,40000
+Loving Vincent,7.8,55000
+The Great Gatsby,6.4,25000
+The Mambo Kings,6.4,5500
+Bãhubali: The Beginning,8.0,110000
+Fortress,5.9,28000
+Me and Earl and the Dying Girl,7.7,128000
+Running with Scissors,6.1,22000
+Thunderbirds,4.3,14000
+Conviction,7.2,44000
+Boy Erased,6.9,37000
+Nightmares,5.8,3200
+City Island,7.4,31000
+The Big Sleep,7.9,83000
+I Dreamed of Africa,5.6,4600
+Lost &amp; Found,5.1,6500
+The Razor&apos;s Edge,6.6,5300
+Strange Wilderness,5.3,22000
+Man cheng jin dai huang jin jia,7.0,44000
+Femme Fatale,6.2,35000
+Wings,7.5,12000
+Same Kind of Different as Me,6.7,7900
+Little Boy,7.4,23000
+Mac and Me,3.4,14000
+The Soldier,5.3,1200
+Motel Hell,6.0,11000
+It&apos;s Kind of a Funny Story,7.1,141000
+Post Grad,5.3,14000
+Cantinflas,6.6,3900
+Article 99,6.1,3200
+Rocky II,7.3,201000
+Gods and Monsters,7.4,30000
+El secreto de sus ojos,8.2,203000
+All Is Lost,6.9,79000
+Barton Fink,7.7,118000
+Chained Heat,5.0,2300
+Lowriders,5.7,2500
+UHF,7.0,28000
+Mystery Date,6.1,2900
+Rabbit-Proof Fence,7.4,28000
+Maudie,7.6,18000
+Un long dimanche de fiançailles,7.6,73000
+Nirgendwo in Afrika,7.5,13000
+Night and the City,5.8,4800
+The Sessions,7.2,42000
+Chasing Mavericks,7.1,32000
+Hitchcock,6.8,75000
+The Walking Dead,4.9,826
+A Fine Mess,4.7,1500
+Deuces Wild,5.6,7300
+The Last Legion,5.4,35000
+The Perfect Holiday,4.7,3100
+Stanley &amp; Iris,6.4,7700
+The Bling Ring,5.6,86000
+Before Sunset,8.1,251000
+Real Women Have Curves,6.9,7400
+The Hitcher,7.2,46000
+Heaven &amp; Earth,6.8,14000
+Day of the Dead,7.1,67000
+Double Indemnity,8.3,152000
+Mongol,7.2,46000
+Eight Men Out,7.2,20000
+Who&apos;s Your Caddy?,2.2,15000
+Under Fire,7.0,7500
+RocknRolla,7.3,245000
+Mary Reilly,5.8,15000
+A Dangerous Method,6.4,102000
+El crimen del Padre Amaro,6.7,14000
+One Eight Seven,6.7,23000
+Kin,5.8,16000
+Hardware,6.0,15000
+Slums of Beverly Hills,6.6,13000
+Die Fälscher,7.6,45000
+Three of Hearts,5.5,2100
+A Scanner Darkly,7.1,110000
+Der Untergang,8.2,345000
+Heartbreak Hotel,5.7,1400
+Say It Isn&apos;t So,5.0,13000
+Rescue Dawn,7.3,104000
+Kundun,7.0,28000
+Wind,6.4,2700
+Before Sunrise,8.1,291000
+Split Second,6.2,14000
+Delirious,5.9,8400
+Cannery Row,6.7,3700
+Angels and Insects,6.9,4600
+Whatever Works,7.1,73000
+Made,6.4,18000
+Once Upon a Time in America,8.3,334000
+Danny Collins,7.0,31000
+Monkey Shines,6.2,12000
+Top Dog,4.2,3500
+The Truth About Charlie,4.7,10000
+The Hotel New Hampshire,6.0,8300
+Margin Call,7.1,123000
+Gossip,5.9,16000
+Grind,6.0,12000
+The Company You Keep,6.4,33000
+Butch and Sundance: The Early Days,5.7,1500
+The World&apos;s Fastest Indian,7.8,54000
+Vamp,6.0,5600
+Jakob the Liar,6.5,17000
+The Sun Is Also a Star,5.9,7000
+Innocent Blood,6.2,10000
+Let It Ride,6.8,5600
+Club Dread,5.7,29000
+"Kiss Me, Stupid",7.0,7700
+Solo,4.1,4300
+Just Visiting,5.8,19000
+Incarnate,5.3,13000
+Bud Abbott Lou Costello Meet Frankenstein,7.4,17000
+King David,5.3,2300
+Slackers,5.4,14000
+Dutch,6.5,12000
+"Se, jie",7.5,40000
+Longtime Companion,7.6,5700
+Love in the Time of Cholera,6.4,23000
+The Other Side of Heaven,6.4,4300
+Joe&apos;s Apartment,5.5,13000
+If Lucy Fell,4.9,4100
+C.H.U.D.,5.6,12000
+Mindhunters,6.4,60000
+Honkytonk Man,6.6,8600
+Curse of the Pink Panther,4.3,5900
+Bound by Honor,8.0,30000
+An American in Paris,7.2,33000
+Swingers,7.2,80000
+The Mark of Zorro,7.6,9900
+Rebecca,8.1,132000
+12 Angry Men,9.0,741000
+Solitary Man,6.3,16000
+Mrs. Soffel,6.1,3200
+Until September,5.7,689
+"Jeff, Who Lives at Home",6.5,63000
+Mr. Nanny,3.8,9400
+Men with Brooms,5.8,4400
+Kiss Kiss Bang Bang,7.5,222000
+The Meddler,6.3,13000
+A Life Less Ordinary,6.4,35000
+Enemy Mine,6.9,46000
+Glitter,2.3,23000
+Man Trouble,4.7,3100
+Restoration,6.6,9300
+Serbuan maut,7.6,198000
+Kama Sutra: A Tale of Love,6.0,10000
+Witless Protection,3.3,6300
+Ran,8.2,121000
+Godzilla 1985,6.2,6300
+Gloria,5.2,5800
+Whipped,4.5,4100
+Willy Wonka &amp; the Chocolate Factory,7.8,191000
+American Ninja 2: The Confrontation,4.9,8600
+Idle Hands,6.2,42000
+King&apos;s Ransom,4.4,3800
+Mountains of the Moon,7.2,3700
+My Old Lady,6.4,9200
+Safety Not Guaranteed,7.0,124000
+The Pebble and the Penguin,5.7,4900
+Fluke,6.7,6900
+Flashpoint,6.4,2600
+The Man Who Knew Infinity,7.2,55000
+Top Hat,7.8,19000
+Me and You and Everyone We Know,7.3,36000
+L&apos;auberge espagnole,7.3,41000
+A United Kingdom,6.9,16000
+The Manhattan Project,6.2,6000
+Warlock: The Armageddon,5.4,6000
+The Assassination of Jesse James by the Coward Robert Ford,7.5,176000
+The Assassin&apos;s Code,5.0,1200
+Morgan,5.8,42000
+The Keep,5.7,12000
+Friend Request,5.3,26000
+Vera Drake,7.6,25000
+White Man&apos;s Burden,5.3,4900
+A Dry White Season,7.0,5500
+The Monster Squad,7.0,32000
+Mannequin: On the Move,4.4,6200
+The Merchant of Venice,7.0,36000
+Table 19,5.8,28000
+Les choristes,7.9,60000
+Stay,6.8,78000
+Caché,7.3,78000
+Scouts Guide to the Zombie Apocalypse,6.3,49000
+Rules Don&apos;t Apply,5.7,11000
+Cabin Boy,5.3,8600
+New Jersey Drive,6.7,3200
+Fat Man and Little Boy,6.5,7500
+Indivisible,5.9,1200
+The Good Thief,6.5,10000
+Pina,7.7,15000
+Blood and Chocolate,5.4,18000
+In Country,5.9,2900
+The Brothers Bloom,6.8,50000
+Talk Radio,7.3,13000
+Like Crazy,6.7,61000
+Kinjite: Forbidden Subjects,5.5,3200
+A Shock to the System,6.7,4800
+Gunmen,5.3,3500
+Les invasions barbares,7.6,29000
+Price of Glory,6.3,860
+The Private Life of Sherlock Holmes,7.1,12000
+Avanti!,7.2,10000
+Pootie Tang,5.3,14000
+Stand Up Guys,6.5,55000
+Last Ounce of Courage,3.7,2000
+The Glass Shield,6.2,3400
+Veronica Mars,6.8,52000
+Robot &amp; Frank,7.1,63000
+Green Room,7.0,116000
+Pi,7.4,175000
+Barfly,7.2,20000
+Mei ren yu,6.2,8900
+Catfish,7.1,42000
+A Smile Like Yours,4.9,1500
+You Will Meet a Tall Dark Stranger,6.3,45000
+The Cat&apos;s Meow,6.4,8200
+Soul Survivors,3.9,8900
+Supercross,4.4,4700
+Relatos salvajes,8.1,189000
+White Mischief,6.3,2800
+Night of the Demons,6.2,16000
+The Boynton Beach Bereavement Club,6.4,1000
+Albert Nobbs,6.7,24000
+Colossal,6.2,63000
+Melancholia,7.2,176000
+Hedwig and the Angry Inch,7.7,35000
+The Guru,5.4,15000
+The Golden Bowl,5.9,4400
+China Moon,6.3,6600
+The House of Mirth,7.0,7500
+Heavenly Creatures,7.3,62000
+Songcatcher,7.2,3500
+Choke,6.4,32000
+Gracie,6.2,4200
+The Fly,7.1,22000
+Happiness,7.7,69000
+Return to the Blue Lagoon,5.2,19000
+The Identical,5.2,2700
+Newsies,6.9,20000
+Metropolitan,7.4,11000
+The Power of One,7.2,9800
+Thoroughbreds,6.7,40000
+Sid and Nancy,7.0,31000
+Reservoir Dogs,8.3,969000
+Youth,7.3,76000
+The Perez Family,6.0,2300
+The Way Back,7.3,114000
+Chéri,6.2,11000
+The Good Lie,7.4,28000
+Under the Skin,6.4,138000
+Utomlennye solntsem,7.9,15000
+Serbuan maut 2: Berandal,8.0,120000
+One Night Stand,5.8,6900
+Captivity,4.6,23000
+The Sum of Us,7.3,5400
+Pieces of April,7.0,21000
+The Dreamers,7.2,117000
+Ruby Sparks,7.2,99000
+Choose Me,6.8,2900
+Stranger Than Paradise,7.5,37000
+Pawn Sacrifice,7.0,43000
+THX 1138,6.7,50000
+The Hand,5.5,6000
+The Sapphires,7.1,14000
+Son of the Pink Panther,3.9,5300
+Class of 1999,5.9,7400
+Sidewalks of New York,6.4,6700
+Kalifornia,6.7,53000
+42nd Street,7.4,12000
+The Day of the Dolphin,6.0,3000
+Shanghai Surprise,3.2,5400
+White Hunter Black Heart,6.6,12000
+Trance,6.9,112000
+The Squeeze,4.7,1200
+L&apos;illusionniste,7.5,35000
+Touch of Evil,8.0,102000
+My All-American,7.2,6500
+Leprechaun 2,4.6,10000
+DysFunktional Family,6.6,874
+Wilde,6.9,17000
+Wild Bill,5.9,6900
+La chute de l&apos;empire américain,6.8,3500
+Tarzan and the Lost City,4.0,2200
+Bird,7.2,12000
+Mar adentro,8.0,80000
+Un prophète,7.9,97000
+Zero Effect,6.9,14000
+Death and the Maiden,7.3,24000
+Faithful,5.9,2100
+Good Time,7.4,108000
+This Is Elvis,7.5,1300
+The Gate II: Trespassers,4.8,2200
+Mom and Dad Save the World,5.4,4600
+I Love You Phillip Morris,6.6,94000
+We Don&apos;t Live Here Anymore,6.3,9500
+Novocaine,5.8,11000
+Fauteuils d&apos;orchestre,6.7,4200
+Honky Tonk Freeway,5.3,1000
+Killer Joe,6.7,76000
+Date with an Angel,5.7,2800
+Greater,7.4,5700
+Limbo,7.0,6000
+State of Grace,7.2,22000
+Communion,5.6,6200
+Paradise Road,6.8,5400
+Goodbye Lover,5.6,4000
+Poison Ivy,5.4,18000
+Crooked Arrows,6.0,1900
+Desierto,6.1,9800
+Harrison&apos;s Flowers,7.1,6300
+The Dangerous Lives of Altar Boys,7.0,14000
+Saul fia,7.5,48000
+King of the Mountain,5.5,448
+Somewhere,6.3,44000
+Clay Pigeons,6.6,11000
+Billy Lynn&apos;s Long Halftime Walk,6.2,22000
+The Waterdance,6.8,4000
+Lady in White,6.7,6800
+Everything Is Illuminated,7.4,58000
+The Comedian,5.8,7200
+Factory Girl,6.4,21000
+The White Countess,6.6,6600
+Matewan,7.9,7900
+Slamma Jamma,6.4,1500
+Dumbo,7.2,127000
+Keeping Mum,6.8,34000
+Hong hai xing dong,6.7,6800
+A Boy Called Po,6.6,1800
+Ararat,6.1,14000
+Lianna,6.8,1700
+Company Business,5.7,2800
+Married Life,6.2,9300
+Oscar and Lucinda,6.6,6800
+The Kid,5.9,8000
+2046,7.4,56000
+Ernest Rides Again,4.9,2200
+Paradise Now,7.4,23000
+Birdy,7.3,23000
+Sahara,5.0,1600
+Lolita,6.9,56000
+Wonder Wheel,6.2,28000
+I&apos;ve Heard the Mermaids Singing,6.8,1500
+Los amantes pasajeros,5.6,23000
+The Devil&apos;s Double,7.1,62000
+Snow Flower and the Secret Fan,6.1,3700
+Thumbsucker,6.6,21000
+The Ultimate Life,6.0,1400
+Cecil B. Demented,6.2,16000
+The House on Sorority Row,6.0,8400
+Iris,7.0,18000
+Funny Games,6.6,95000
+The Hot Spot,6.4,12000
+Radioland Murders,6.2,3600
+King of the Hill,7.4,8200
+From Beyond,6.7,25000
+City of Hope,7.3,2500
+Losin&apos; It,4.9,4400
+MVP: Most Valuable Primate,4.2,2500
+The Singles Ward,6.4,1400
+Turn It Up,4.2,1300
+A Time of Destiny,5.1,394
+Mandy,6.6,72000
+Nueve reinas,7.9,52000
+Dylan Dog: Dead of Night,5.1,15000
+Me and Orson Welles,6.7,11000
+Ninotchka,7.9,20000
+Kill the Irishman,7.1,48000
+The Lair of the White Worm,6.0,12000
+Cool as Ice,2.9,9500
+Find Me Guilty,7.0,34000
+Year of the Gun,5.6,2600
+I Capture the Castle,6.9,7400
+Lazer Team,5.6,9400
+Infamous,7.0,17000
+Heathers,7.2,98000
+The Rover,6.4,47000
+Taegukgi hwinalrimyeo,8.0,39000
+Mother and Child,7.2,12000
+The R.M.,6.1,803
+Eyes of a Stranger,6.0,2700
+Street Smart,6.4,3100
+Groove,6.6,4300
+Winter Kills,6.2,2700
+The Perfect Game,6.9,3600
+What Just Happened,5.6,27000
+And When Did You Last See Your Father?,6.8,4400
+DEFCON-4,4.5,1900
+Wonderland,6.6,22000
+Kafka,6.9,9900
+No Man&apos;s Land,7.9,46000
+Mike&apos;s Murder,5.8,892
+Sukkar banat,7.1,14000
+The Mother,6.8,4300
+Nuovomondo,6.9,5000
+Casino Jack,6.2,17000
+Les innocentes,7.3,10000
+Waterland,6.6,2200
+Chuck &amp; Buck,6.6,5500
+The Thing Called Love,6.4,7800
+A Home at the End of the World,6.7,13000
+Hard Candy,7.1,158000
+Hævnen,7.6,40000
+Thr3e,5.0,4500
+Owning Mahowny,7.1,13000
+5 Flights Up,6.2,10000
+Drums Along the Mohawk,7.1,6100
+Appointment with Death,6.2,4500
+The Hunting Party,6.8,25000
+The Lord of the Rings,6.2,32000
+Rampart,5.8,24000
+Knight Moves,6.1,8400
+The Babadook,6.8,211000
+The Hanging Garden,6.9,3000
+The Yards,6.4,21000
+La otra conquista,6.7,1200
+Princess Ka&apos;iulani,6.2,1700
+Amateur,6.9,6000
+Song of the Sea,8.1,56000
+Tough Guys Don&apos;t Dance,4.8,1500
+Duma,7.2,8100
+Mirrormask,6.8,23000
+Latter Days,7.0,17000
+Born to Be Blue,6.9,8500
+The Crossing Guard,6.3,13000
+Saint Ralph,7.4,6000
+Rampage,6.2,2200
+The Barbarians,5.0,3900
+Heaven,7.0,25000
+Without Limits,7.2,7000
+Bis ans Ende der Welt,6.8,9900
+El espinazo del diablo,7.4,64000
+Party Monster,6.3,16000
+Kiss or Kill,6.3,1400
+The Shape of Things,6.7,11000
+Once I Was a Beehive,6.3,1200
+Vampire&apos;s Kiss,6.1,16000
+Rocket Science,6.6,13000
+The Catcher Was a Spy,6.2,9100
+Karakter,7.7,11000
+Yves Saint Laurent,6.3,12000
+On the Road,6.1,41000
+Trees Lounge,7.1,16000
+Split Decisions,5.2,956
+Guadalupe,5.2,121
+Imagine Me &amp; You,6.8,32000
+Maniac Cop,6.1,16000
+Apartment Zero,7.0,4000
+Japanese Story,6.7,6400
+Inside Deep Throat,6.7,6700
+Parkland,6.4,16000
+Dirty Dancing,7.0,218000
+Texas Rangers,5.2,5900
+"The Prize Winner of Defiance, Ohio",7.3,7400
+Ruby Cairo,5.0,2300
+Poison,6.4,4300
+The Bronze,6.1,12000
+Guinevere,6.0,2600
+Powaqqatsi,7.3,8200
+Night of the Creeps,6.8,23000
+Two Much,5.4,5600
+Blue Like Jazz,5.9,3000
+The Signal,6.0,21000
+The Future,6.2,8600
+Down in the Valley,6.4,18000
+A Tale of Love and Darkness,6.0,3900
+Twelfth Night or What You Will,7.2,5900
+Oorlogswinter,7.0,13000
+Machine Gun Preacher,6.8,65000
+Sunrise: A Song of Two Humans,8.1,50000
+"Peace, Love &amp; Misunderstanding",5.9,8300
+Nobel Son,6.2,5800
+Mil-jeong,7.2,9500
+Max,6.5,8500
+Cuba,5.6,2700
+Things to Do in Denver When You&apos;re Dead,6.8,27000
+Madison,6.3,1400
+Unsullied,4.2,317
+The One I Love,7.1,38000
+Delgo,4.3,3000
+Le nom des gens,7.2,7800
+Amy&apos;s Orgasm,5.3,1800
+Grave,7.0,70000
+Preacher&apos;s Kid,5.1,823
+Bilal: A New Breed of Hero,7.8,22000
+Cube,7.2,223000
+Manny &amp; Lo,6.6,2000
+The Two Faces of January,6.2,31000
+The Grey Zone,7.0,11000
+Federal Hill,6.4,462
+Death of a President,6.3,7000
+By the Sea,5.3,20000
+Et maintenant on va où?,7.5,12000
+Prefontaine,6.8,7200
+Hangin&apos; with the Homeboys,7.0,1400
+Freeheld,6.6,12000
+Cattle Annie and Little Britches,6.1,691
+Underneath,6.1,3500
+The African Queen,7.8,77000
+Joshua Then and Now,6.6,581
+Johnny Got His Gun,7.9,16000
+Madeo,7.8,60000
+All the Real Girls,6.8,11000
+Ondine,6.8,21000
+From Mexico with Love,5.2,562
+Bottle Rocket,7.0,74000
+Poolhall Junkies,6.9,9900
+Jimmy&apos;s Hall,6.7,6300
+Steel Dawn,5.2,5000
+Love Serenade,6.8,1500
+"War, Inc.",5.6,22000
+Bring Me the Head of Alfredo Garcia,7.5,19000
+W.E.,6.3,13000
+The Disappearance of Eleanor Rigby: Them,6.3,12000
+The Signal,6.1,65000
+Mean Creek,7.2,32000
+Below,6.2,22000
+The Celestine Prophecy,4.9,3800
+Agora,7.2,68000
+Grace of My Heart,6.7,3800
+Cronos,6.7,29000
+My First Mister,7.2,5600
+Strangeland,5.1,7000
+Ride with the Devil,6.7,14000
+Les rivières pourpres,6.9,60000
+Grey Owl,6.0,3700
+2 Days in New York,6.0,14000
+Fugitive Pieces,7.0,2500
+Molière,7.2,6200
+One from the Heart,6.5,6000
+Remember,7.5,25000
+The Night of the Hunter,8.0,86000
+The D Train,5.0,11000
+Play the Game,6.4,2700
+Charlotte Gray,6.4,12000
+The Claim,6.4,6300
+The Saddest Music in the World,7.1,6000
+The Thief and the Cobbler,7.2,3900
+Alone Yet Not Alone,4.6,822
+Mr. Church,7.7,28000
+The Secret of Kells,7.6,34000
+The Caveman&apos;s Valentine,5.8,7800
+Fanboys,6.6,58000
+The Opposite Sex and How to Live with Them,4.9,741
+The Paperboy,5.8,37000
+Tangerine,7.1,30000
+Oldeuboi,8.4,549000
+À bout portant,6.8,14000
+Middle Men,6.8,37000
+The Wicked Lady,4.8,1300
+Lust in the Dust,6.3,3400
+Men with Guns,7.6,2700
+"Sister, Sister",5.4,921
+Cosmopolis,5.1,46000
+The Go-Between,7.3,5600
+Fire and Ice,6.6,10000
+The Statement,6.2,5200
+The Salton Sea,7.1,31000
+Personal Velocity: Three Portraits,6.5,3700
+The Ten,5.0,17000
+Young Adam,6.4,14000
+The Church,2.9,177
+Only God Forgives,5.7,111000
+Panic,6.7,8400
+31,5.1,20000
+The Boost,6.1,2100
+Anna Karenina,6.3,5800
+The Toxic Avenger Part II,5.1,6500
+Climax,7.0,62000
+Factotum,6.6,14000
+Waxwork,6.2,12000
+Charly,6.6,995
+"In weiter Ferne, so nah!",7.3,8100
+"Come Back to the 5 &amp; Dime Jimmy Dean, Jimmy Dean",7.2,4500
+Atlas Shrugged: Part III,4.3,3400
+Brigham City,6.7,1500
+Beastmaster 2: Through the Portal of Time,4.1,3300
+Parents,6.1,7400
+My Blueberry Nights,6.6,54000
+Where the Truth Lies,6.5,18000
+Control,7.7,64000
+Mother&apos;s Boys,5.4,3200
+The Blood of Heroes,6.5,6800
+Intermission,6.8,16000
+Simpatico,4.7,3600
+Ruby,5.5,1600
+The Taking of Beverly Hills,5.1,1200
+Timecode,6.1,6700
+Pat Garrett &amp; Billy the Kid,7.3,19000
+Broken English,6.3,6700
+The Long Goodbye,7.6,29000
+Diary of the Dead,5.6,47000
+Meek&apos;s Cutoff,6.6,14000
+Don&apos;t Look Now,7.2,54000
+The Protector,5.7,4400
+Rockstar,7.7,43000
+Million Dollar Mystery,5.1,478
+Little Italy,5.7,14000
+In the Mood,6.2,1000
+March or Die,6.3,3400
+Caravans,6.1,948
+The Investigator,5.3,333
+L&apos;insulte,7.7,16000
+Ruby in Paradise,7.0,2700
+Goya&apos;s Ghosts,6.9,30000
+The Adventurer: The Curse of the Midas Box,5.5,6500
+Paris,6.8,12000
+Unconditional,7.2,4800
+Stalingrad,5.6,16000
+The Hollars,6.6,12000
+Silver City,6.0,4000
+Third Person,6.3,28000
+Attack the Block,6.7,105000
+Another Day in Paradise,6.5,8700
+Casablanca,8.5,549000
+Film Stars Don&apos;t Die in Liverpool,6.7,9400
+The Children of Huang Shi,7.0,9500
+Buried,7.0,157000
+Dead Man,7.6,94000
+Animal Kingdom,7.3,57000
+Money for Nothing,5.7,3900
+Light Sleeper,6.9,6900
+Joyeux Noël,7.7,29000
+Bad Moon,5.8,6600
+There Be Dragons,5.8,4700
+September Dawn,5.8,3000
+Undiscovered,4.3,2900
+Blood and Wine,6.0,9900
+Crush,5.8,3800
+Of Unknown Origin,6.1,3100
+The Machinist,7.7,375000
+Little Odessa,6.7,7900
+Made in Dagenham,7.2,15000
+Silk,5.9,11000
+Red State,6.2,64000
+Where the Heart Is,6.0,1600
+Vor,7.7,5200
+Osama,7.4,9000
+Macbeth,6.6,55000
+Valmont,7.0,13000
+Fellini - Satyricon,6.9,16000
+L.I.E.,7.1,9900
+Miracle Mile,7.0,10000
+Living in Oblivion,7.5,18000
+Trois,4.0,658
+The Lords of Salem,5.2,29000
+Don&apos;t Tell Her It&apos;s Me,5.8,2800
+Persecuted,3.5,1600
+Repentance,4.9,2600
+Bee Season,5.5,6900
+Banlieue 13,7.1,69000
+Flawless,6.7,24000
+Equilibrium,7.4,321000
+Mute Witness,6.7,5600
+High Life,5.8,33000
+Child 44,6.5,69000
+The Funeral,6.6,8700
+Elephant,7.2,89000
+Slacker,7.1,21000
+Slow Burn,5.7,3900
+Slumber Party Massacre III,4.6,2900
+The Abandoned,5.5,13000
+Micmacs à tire-larigot,7.2,30000
+Eddie Macon&apos;s Run,5.7,1200
+Hideous Kinky,6.0,6600
+Robot Jox,5.4,6200
+Walking and Talking,6.7,3500
+Tumbleweeds,6.7,3400
+Churchill,6.1,17000
+Time Changer,5.3,2500
+Native Son,5.8,563
+8 Million Ways to Die,5.8,5000
+Personal Shopper,6.1,39000
+The Good German,6.0,25000
+The Fourth War,5.6,1600
+Another Earth,6.9,94000
+Saints and Soldiers,6.7,21000
+Le passé,7.7,48000
+The Neon Demon,6.2,91000
+Le Petit Prince,7.7,60000
+At Play in the Fields of the Lord,6.9,3300
+The Secrets of Jonathan Sperry,6.8,1500
+Kansas City,6.3,4700
+The Offspring,5.8,2400
+Everybody Wins,5.1,1200
+South Central,6.8,5800
+Andhadhun,8.2,85000
+Kelly&apos;s Heroes,7.6,48000
+Give My Regards to Broad Street,5.2,1500
+El Chicano,5.4,1300
+Northfork,6.3,5400
+Infinitely Polar Bear,7.0,16000
+The Man from Elysian Fields,6.6,4200
+A Prayer for the Dying,6.3,5000
+Down by Law,7.7,50000
+The Joneses,6.4,40000
+Toni Erdmann,7.4,47000
+Donnie Darko,8.0,771000
+The Diary of a Teenage Girl,6.8,31000
+Julieta,7.1,31000
+Nochnoy dozor,6.4,53000
+City of Industry,6.1,6000
+Hors de prix,7.0,32000
+Jane Got a Gun,5.9,22000
+La cité des enfants perdus,7.5,67000
+Stepfather II,5.7,4000
+Kon-Tiki,7.2,48000
+Being Human,5.4,4000
+Murderball,7.7,10000
+A Midnight Clear,7.2,8900
+Girlfight,6.7,11000
+Dogville,8.0,145000
+Destroyer,6.2,28000
+The Eiger Sanction,6.4,19000
+Josh and S.A.M.,5.7,1500
+The Last of the Finest,5.8,1300
+The Gingerbread Man,5.8,11000
+Trust the Man,5.7,8600
+Hamlet,6.0,9500
+Veronica Guerin,6.9,20000
+Your Sister&apos;s Sister,6.7,27000
+The Garbage Pail Kids Movie,2.6,7900
+Solarbabies,4.8,4400
+Nicholas Nickleby,7.2,12000
+Citizen Kane,8.3,427000
+"New York, I Love You",6.2,46000
+A Ghost Story,6.9,68000
+Brain Dead,6.0,4400
+Den skaldede frisør,6.5,14000
+Gun Shy,5.6,7400
+Pirates,6.1,8400
+Spider,6.8,38000
+How I Got Into College,5.8,2200
+Get Crazy,6.7,1200
+I Saw the Light,5.8,7100
+Marci X,2.9,5300
+Chacun cherche son chat,6.8,3300
+Suicide Kings,6.9,27000
+When Time Ran Out...,4.6,2700
+The Bad Lieutenant: Port of Call - New Orleans,6.6,76000
+Best of the Best,6.5,13000
+Stoker,6.8,107000
+Death Wish V: The Face of Death,4.9,7700
+A Home of Our Own,7.1,3200
+Sweet Land,7.2,3800
+Even Cowgirls Get the Blues,4.4,7400
+Steel,2.9,14000
+Cutter&apos;s Way,6.9,6200
+Take Shelter,7.3,98000
+Little Nikita,6.0,5500
+We Need to Talk About Kevin,7.5,147000
+The Broken Hearts Club: A Romantic Comedy,7.0,7500
+Flipped,7.7,87000
+Carnosaur,3.6,4000
+A Better Life,7.2,16000
+Tune in Tomorrow...,6.2,1900
+Stone,5.4,41000
+Hurlyburly,5.9,10000
+Harry Brown,7.2,86000
+The Last Tycoon,6.3,8600
+Tusk,5.3,50000
+A Quiet Passion,6.5,5600
+Bitter Moon,7.2,38000
+The Mighty Macs,6.5,1600
+The Kiss,5.4,1600
+Baby It&apos;s You,6.3,1900
+Legend,6.9,170000
+Breaking In,6.1,1500
+Only Lovers Left Alive,7.3,97000
+Cop,6.4,5100
+Vibes,5.7,4200
+The Night We Never Met,6.0,2800
+A Sound of Thunder,4.3,19000
+Permanent Record,6.4,2000
+The Proposition,7.3,52000
+Le déclin de l&apos;empire américain,7.2,8200
+The Iceman,6.8,74000
+Spellbinder,5.8,2400
+"Happy, Texas",6.3,9900
+Two Girls and a Guy,5.5,8300
+Crazy in Alabama,6.2,6900
+Margot at the Wedding,6.0,20000
+The Clan of the Cave Bear,5.4,6400
+Yume,7.8,26000
+Nate and Hayes,6.2,2200
+Demolition,7.0,96000
+Oliver Twist,6.8,32000
+Marriage Story,7.9,281000
+Bad Lieutenant,7.1,42000
+Surviving Picasso,6.4,7300
+Bubba Ho-Tep,7.0,48000
+The Immigrant,6.6,31000
+Night on Earth,7.7,59000
+The Dressmaker,7.1,58000
+Sphinx,5.2,1400
+Beyond the Mat,7.6,9000
+Trick,7.2,8600
+Brick,7.2,104000
+De rouille et d&apos;os,7.5,66000
+Ravenous,7.0,39000
+Auto Focus,6.6,14000
+Raising Victor Vargas,7.2,5500
+The Sheltering Sky,6.8,12000
+The Wackness,7.0,30000
+The Wizard of Oz,8.0,383000
+I&apos;m Not Ashamed,6.0,3600
+The Maltese Falcon,8.0,155000
+Othello,6.9,9500
+The Nutcracker,5.9,2000
+Videodrome,7.2,89000
+Låt den rätte komma in,7.9,212000
+Mallrats,7.1,120000
+Paterson,7.4,78000
+The Quiet Earth,6.8,26000
+A Dog of Flanders,6.3,958
+Mrs. Parker and the Vicious Circle,6.4,4500
+Blood Simple,7.6,93000
+Shadow Conspiracy,5.0,4800
+Heartbeeps,4.3,1500
+The Endless Summer 2,7.5,2100
+Bamboozled,6.6,11000
+Jem and the Holograms,4.2,7700
+Oldboy,5.7,73000
+But I&apos;m a Cheerleader,6.7,30000
+La vie d&apos;Adèle,7.7,146000
+Transsiberian,6.7,52000
+Shattered Glass,7.1,35000
+Smilla&apos;s Sense of Snow,6.4,14000
+Das weiße Band - Eine deutsche Kindergeschichte,7.8,72000
+Perfume: The Story of a Murderer,7.5,243000
+Le Week-End,6.4,8200
+The East,6.8,50000
+The Women,7.8,13000
+Showdown in Little Tokyo,6.1,18000
+La doublure,6.6,10000
+The Resurrection of Gavin Stone,6.3,2100
+"Yes, Giorgio",3.9,726
+Collide,5.7,16000
+The Fall,7.9,110000
+The Company,6.3,6500
+Pecker,6.4,14000
+Sky Bandits,4.6,294
+She&apos;s the Man,6.3,153000
+Double Dragon,3.8,13000
+Redbelt,6.7,21000
+At Close Range,7.0,15000
+Downtown,5.7,1900
+Bon voyage,6.8,4900
+Buffalo &apos;66,7.5,52000
+I&apos;m in Love with a Church Girl,4.4,1900
+BloodRayne,2.9,35000
+Arctic,6.8,49000
+Lawnmower Man 2: Beyond Cyberspace,2.5,9500
+Go Fish,5.7,2100
+The Stupids,4.3,6700
+The Disappointments Room,3.9,9700
+The Prisoner of Zenda,5.2,1200
+Farewell to the King,6.3,2800
+Gojira,7.6,32000
+The Basketball Diaries,7.3,107000
+You Kill Me,6.5,18000
+Tulip Fever,6.2,20000
+The Homesman,6.6,32000
+Never Let Me Go,7.1,142000
+LBJ,6.5,6500
+Jefferson in Paris,5.7,3000
+Suspiria,6.7,71000
+The Lost City,6.6,9400
+"Silent Night, Deadly Night",5.9,15000
+Desert Hearts,7.0,5900
+Rumble Fish,7.2,33000
+Moskva slezam ne verit,8.1,12000
+The King of Comedy,7.8,98000
+Impulse,5.9,1400
+Red Rock West,7.0,22000
+Frozen River,7.1,25000
+Full Frontal,4.7,11000
+Truth,6.8,20000
+Impulse,5.7,1300
+Carnage,7.2,124000
+King of New York,7.0,36000
+Captive,5.4,6800
+Calendar Girl,5.1,2300
+Girl in Progress,5.6,6800
+N-Secure,3.7,635
+Todos lo saben,6.9,33000
+Who Dares Wins,6.4,3200
+Samsara,8.5,35000
+Junebug,6.9,23000
+Yip Man 3,7.1,53000
+Blind Fury,6.4,16000
+Bobby Jones: Stroke of Genius,6.7,3900
+Desperate Hours,5.4,7500
+The Pyramid,4.6,24000
+Dr. Jekyll and Ms. Hyde,4.5,2800
+Est - Ouest,7.4,4800
+How to Lose Friends &amp; Alienate People,6.4,69000
+Unforgettable,6.0,5300
+Saving Christmas,1.4,16000
+Gleaming the Cube,6.3,7700
+Heat,5.6,2000
+Filly Brown,5.7,1100
+Running on Empty,7.6,15000
+Letters to God,6.3,4900
+eXistenZ,6.8,98000
+Airborne,6.3,6800
+In the Company of Men,7.2,14000
+Home Run,5.9,2900
+Rappin&apos;,4.1,502
+Another You,5.4,3900
+The Hudsucker Proxy,7.2,80000
+No Man&apos;s Land,6.1,4700
+Shallow Grave,7.3,60000
+Tadpole,6.2,6000
+Sleeper,7.2,42000
+Tsotsi,7.2,28000
+Isn&apos;t She Great,5.4,2400
+Basquiat,6.9,20000
+Before I Go to Sleep,6.4,76000
+Miss Potter,7.0,29000
+Rock the Kasbah,5.5,12000
+Fright Night Part 2,5.9,12000
+The Last Days of Disco,6.7,13000
+Bullies,5.3,501
+Running Brave,6.7,713
+Original Gangstas,5.7,1700
+Illegal Tender,5.5,2600
+Malone,5.8,3000
+Sunshine State,6.8,4100
+Beautiful,5.6,4000
+The Public Eye,6.5,4000
+CrissCross,5.8,1900
+Jawbreaker,5.7,26000
+Blindness,6.6,72000
+Chloe,6.3,72000
+Speed Zone,4.5,3400
+Mr. Wonderful,5.9,3300
+Rosewater,6.6,11000
+Mean Streets,7.2,106000
+The Favor,5.3,2800
+Sgt. Stubby: An American Hero,7.0,2100
+Two Lovers,7.0,40000
+The Big Kahuna,6.6,14000
+Resurrecting the Champ,6.7,21000
+Les frères Sisters,6.9,61000
+Silent Fall,5.9,3900
+The Limey,7.0,32000
+La piel que habito,7.6,147000
+Vertigo,8.3,387000
+Anything Else,6.3,31000
+Another Year,7.4,29000
+The Fifth Estate,6.2,40000
+Zoot Suit,6.8,1200
+At Long Last Love,5.1,1200
+Only the Strong,6.7,6100
+Romeo Is Bleeding,6.6,14000
+What We Do in the Shadows,7.7,173000
+My Boyfriend&apos;s Back,5.4,4500
+Squanto: A Warrior&apos;s Tale,6.1,1200
+Atlas Shrugged II: The Strike,5.4,7100
+Harsh Times,6.9,65000
+The Work and the Glory,6.7,1100
+Starchaser: The Legend of Orin,6.5,2200
+Near Dark,7.0,37000
+Blue Sky,6.4,7400
+Wrong Is Right,5.7,2000
+Next Stop Wonderland,6.6,4800
+Born American,4.2,2000
+The To Do List,5.8,39000
+First Reformed,7.1,53000
+The F Word,6.8,75000
+The Lemon Sisters,5.0,1100
+&apos;Til There Was You,4.8,2900
+Disobedience,6.6,29000
+Foreign Correspondent,7.5,20000
+Heaven&apos;s Gate,6.8,15000
+The Wraith,6.0,16000
+Major League: Back to the Minors,4.7,7500
+8 Heads in a Duffel Bag,5.4,10000
+Physical Evidence,5.1,1800
+Repo Man,6.9,36000
+The Runaways,6.5,48000
+The New Adventures of Pippi Longstocking,5.9,4200
+Old Gringo,5.8,2000
+Elegy,6.7,22000
+Wish I Was Here,6.6,38000
+Dead Heat,6.0,7600
+We Are Your Friends,6.2,38000
+Their Finest,6.8,19000
+The Trigger Effect,5.7,7700
+Phoenix Forgotten,5.3,6100
+The Bride,5.4,3100
+Pinocchio,4.4,8100
+Jimmy Hollywood,5.3,3300
+The Brother from Another Planet,6.8,5900
+Bad Company,5.4,3000
+The Pursuit of D.B. Cooper,5.6,1200
+Warlock,7.2,6000
+Midnight Special,6.6,79000
+The Gun in Betty Lou&apos;s Handbag,5.1,1700
+A Monster Calls,7.5,86000
+Then She Found Me,6.0,9900
+The Cold Light of Day,4.9,37000
+Allan Quatermain and the Lost City of Gold,4.6,9300
+Sweet Hearts Dance,5.6,864
+Jekyll and Hyde... Together Again,6.2,1200
+Lost Highway,7.6,138000
+Bound,7.3,54000
+Barb Wire,3.4,27000
+Better Luck Tomorrow,7.0,9700
+Max Steel,4.6,19000
+Critters 2,5.5,15000
+The Door in the Floor,6.7,16000
+Earth Girls Are Easy,5.4,23000
+Yanks,6.4,3400
+Charlie Bartlett,7.0,65000
+Des hommes et des dieux,7.2,15000
+Yip Man 4,7.0,30000
+Playing by Heart,7.0,19000
+Peaceful Warrior,7.3,28000
+Memories of Me,5.7,1100
+Ace in the Hole,8.1,34000
+P2,5.9,33000
+I&apos;m Not There,6.9,58000
+Irrational Man,6.6,62000
+Please Give,6.6,11000
+Bottle Shock,6.8,16000
+Replicas,5.5,37000
+Playing God,5.6,7600
+Peter&apos;s Friends,7.0,11000
+Secretary,7.0,89000
+Good Bye Lenin!,7.7,143000
+Tank Girl,5.4,31000
+Denial,6.7,21000
+The Visual Bible: The Gospel of John,7.8,3700
+Big Bully,4.8,5000
+The Hero,6.5,9100
+Twin Peaks: Fire Walk with Me,7.3,94000
+Dancer in the Dark,8.0,107000
+A Day Without a Mexican,4.7,3100
+The Water Diviner,7.0,74000
+Lovely &amp; Amazing,6.8,7200
+Red Scorpion,5.2,8700
+Sweet and Lowdown,7.2,35000
+A Hologram for the King,6.1,43000
+Swiss Army Man,7.0,112000
+Stronger,6.9,44000
+Detroit Rock City,6.9,38000
+The Book of Henry,6.6,26000
+Left Behind,4.5,9500
+The Lunchbox,7.8,54000
+Flash of Genius,7.0,17000
+The Omen,7.5,114000
+Catch a Fire,6.7,10000
+Yellowbeard,6.0,7900
+Trenchcoat,5.3,499
+Goal!,6.7,62000
+Meet the Deedles,4.1,2900
+Melvin and Howard,6.8,4800
+Brian Banks,7.2,6300
+Inside Job,8.2,74000
+Gotti,4.7,15000
+The Mean Season,6.1,4000
+Dark Angel,6.1,12000
+On the Line,4.2,4200
+Bogus,5.4,6600
+Bride of Frankenstein,7.8,47000
+The Company of Wolves,6.7,16000
+Simply Irresistible,5.3,14000
+Zwartboek,7.7,75000
+Pumpkinhead,6.2,23000
+Willie &amp; Phil,6.0,475
+Run,6.2,2800
+Johnny English Strikes Again,6.2,70000
+The Conversation,7.8,107000
+The Adventures of Pluto Nash,3.8,25000
+Beyond Borders,6.5,28000
+Spartan,6.5,31000
+The Railway Man,7.1,39000
+Bright Star,6.9,26000
+Italiensk for begyndere,7.1,13000
+All Night Long,5.5,1800
+Anonymous,6.9,40000
+McHale&apos;s Navy,4.6,6700
+Dangerous Beauty,7.2,17000
+Tolkien,6.8,38000
+In the Name of the King: A Dungeon Siege Tale,3.8,48000
+Mumford,6.8,9100
+Graffiti Bridge,4.5,2000
+Snowpiercer,7.1,345000
+Miss March,5.0,21000
+Zimna wojna,7.6,54000
+Stealing Beauty,6.6,28000
+Sunset,5.7,4100
+Made in Heaven,6.4,3300
+Deception,6.1,39000
+River&apos;s Edge,7.0,17000
+The Lookout,7.0,58000
+La science des rêves,7.3,69000
+Avenging Force,5.9,2800
+Igby Goes Down,6.9,33000
+Don&apos;t Let Go,6.4,10000
+Suffragette,6.9,41000
+Your Friends and Neighbors,6.3,8000
+King Kong Lives,3.9,6000
+Hands of Stone,6.6,16000
+Drugstore Cowboy,7.3,36000
+This Is Spinal Tap,7.9,136000
+Duets,6.1,9500
+A Walk on the Moon,6.6,8500
+Violets Are Blue...,5.9,1000
+Atlas Shrugged: Part I,5.6,14000
+The Good Mother,5.8,1700
+In the Cut,5.3,24000
+Welcome to the Dollhouse,7.4,33000
+Extreme Ops,4.4,5500
+Hollywood Ending,6.6,27000
+Diggstown,7.0,7300
+"Paris, je t&apos;aime",7.2,72000
+The Virgin Suicides,7.2,150000
+Invaders from Mars,5.6,8700
+Hamlet 2,6.3,17000
+Band of the Hand,6.2,2900
+Hilary and Jackie,7.3,10000
+Bleed for This,6.8,27000
+Girl 6,5.2,6200
+Leonard Part 6,2.2,8200
+Birthday Girl,6.1,25000
+The Apparition,4.1,20000
+From Justin to Kelly,2.1,26000
+Bubble Boy,5.6,33000
+Heaven&apos;s Prisoners,5.8,5400
+Tempest,6.5,2400
+Io sono l&apos;amore,7.0,22000
+Birth,6.2,36000
+Moon,7.8,348000
+Los abrazos rotos,7.2,40000
+Woman on Top,5.3,10000
+The Treasure of the Sierra Madre,8.2,121000
+The Three Burials of Melquiades Estrada,7.4,40000
+Celebrity,6.3,27000
+Miller&apos;s Crossing,7.7,132000
+Ghost in the Machine,4.6,3700
+Alone in the Dark,2.4,45000
+Luftslottet som sprängdes,7.3,71000
+Inchon,2.8,767
+The 51st State,6.3,49000
+Bandslam,6.3,14000
+La mala educación,7.4,58000
+The In Crowd,4.7,4500
+Black and White,4.9,5800
+Love Letters,6.0,782
+Orlando,7.2,16000
+Metalstorm: The Destruction of Jared-Syn,3.9,1700
+The Guard,7.3,85000
+The Human Stain,6.3,31000
+The Sicilian,5.4,4900
+Amores perros,8.1,234000
+Monkeybone,4.8,18000
+The Kid,8.3,122000
+The Gold Rush,8.2,108000
+Troll,4.5,10000
+Little Children,7.5,110000
+Eve of Destruction,4.9,2200
+Stan &amp; Ollie,7.2,36000
+Cesar Chavez,6.4,3400
+Loose Cannons,4.9,4700
+Paradise,4.9,2600
+Bordello of Blood,5.4,15000
+Elvira: Mistress of the Dark,6.6,17000
+Bonjour Anne,5.8,8400
+Swing Kids,6.8,16000
+The Pallbearer,5.0,10000
+Never Die Alone,5.7,5800
+Bitter Harvest,6.0,3700
+Underclassman,4.3,5700
+Batman: Mask of the Phantasm,7.8,47000
+The Warrior&apos;s Way,6.3,26000
+20th Century Women,7.3,43000
+Where the Money Is,6.3,6000
+For Greater Glory: The True Story of Cristiada,6.6,4900
+My Bloody Valentine,6.3,21000
+Megaforce,3.7,3700
+Nadine,5.6,4000
+Get on the Bus,6.8,5500
+Gallipoli,7.4,39000
+Closed Circuit,6.2,22000
+Personal Best,6.3,2800
+The Station Agent,7.6,69000
+A Most Violent Year,7.0,70000
+Beyond Rangoon,6.6,5100
+Lucky You,5.9,20000
+Leatherface: Texas Chainsaw Massacre III,5.1,16000
+Victor Frankenstein,6.0,55000
+Suburbicon,5.7,43000
+Sheena,4.9,4800
+Beginners,7.2,91000
+Luther,6.6,15000
+Screamers,6.4,27000
+Light It Up,6.1,3700
+Captain Fantastic,7.9,209000
+Liu lang di qiu,6.0,29000
+The Opposite of Sex,6.4,21000
+Casa de mi Padre,5.5,21000
+Ed Wood,7.8,172000
+Against the Ropes,5.3,7100
+Cry Freedom,7.4,13000
+Evil Dead II,7.7,157000
+Highlander,7.1,131000
+Death of a Nation,4.6,6700
+Captive State,6.0,53000
+Basic Instinct 2,4.4,39000
+Lars and the Real Girl,7.3,143000
+1969,5.8,3700
+Still of the Night,6.1,4800
+The Loft,6.3,55000
+Run Fatboy Run,6.6,67000
+Racing with the Moon,6.7,4400
+Megiddo: The Omega Code 2,4.0,2800
+The Way of the Gun,6.7,33000
+Partners,5.3,1300
+Gigli,2.5,48000
+Just Getting Started,4.5,7000
+Assassination,5.2,3200
+Kull the Conqueror,4.9,8200
+"Il buono, il brutto, il cattivo",8.8,726000
+The Secret of Roan Inish,7.5,9000
+Every Day,6.5,21000
+The Interview,6.5,320000
+Evil Under the Sun,7.1,16000
+Coco avant Chanel,6.7,40000
+The Hurricane Heist,5.1,20000
+The Border,6.4,6400
+Almost Heroes,5.8,16000
+Folks!,5.7,2600
+Impostor,6.2,23000
+The Last Seduction,7.1,23000
+The Straight Story,8.0,88000
+The Pope of Greenwich Village,6.7,8500
+A Clockwork Orange,8.3,794000
+Mambo Italiano,6.7,6600
+Ghost World,7.3,118000
+Firstborn,6.3,2400
+The House of the Spirits,6.9,22000
+One Night at McCool&apos;s,6.1,30000
+What Planet Are You From?,5.6,9400
+Oh Heavenly Dog,5.4,2500
+Ed,2.7,8500
+Affliction,6.9,17000
+The Jacket,7.1,112000
+Southside with You,6.3,11000
+Beyond the Sea,6.7,15000
+Most Wanted,5.6,6000
+Eyewitness,6.0,4800
+The Rocker,6.2,38000
+Six Degrees of Separation,6.8,21000
+The Temp,5.3,3200
+Brideshead Revisited,6.7,13000
+Run the Race,6.1,1500
+Warriors of Virtue,4.7,3200
+The Young Messiah,5.7,3400
+Switchback,6.4,14000
+The Osterman Weekend,5.9,8500
+The Big Bounce,4.9,18000
+A-X-L,5.3,11000
+Teacher&apos;s Pet,5.8,1800
+Star 80,6.7,6400
+The Road to Wellville,5.9,12000
+Maria Full of Grace,7.4,35000
+Winter&apos;s Bone,7.2,140000
+The Rules of Attraction,6.6,51000
+Yi dai zong shi,6.6,33000
+The Hunted,6.0,5100
+Bride &amp; Prejudice,6.2,21000
+Best of the Best II,5.6,5700
+The Last Station,7.0,18000
+Seeking a Friend for the End of the World,6.7,112000
+U Turn,6.7,51000
+Swing Shift,5.9,4700
+The Snowman,5.1,62000
+Hairspray,7.0,21000
+Mighty Aphrodite,7.0,40000
+Forced Vengeance,5.6,3000
+Smoke Signals,7.2,11000
+Town &amp; Country,4.5,4900
+Mixed Nuts,5.5,12000
+Hotel Artemis,6.1,51000
+Exit to Eden,4.3,6800
+Moonlight Mile,6.6,14000
+The Deep,6.2,12000
+Never Talk to Strangers,5.2,6700
+200 Cigarettes,6.0,15000
+The Spectacular Now,7.1,149000
+Dog Days,6.2,4700
+Running Scared,7.3,99000
+Incendies,8.3,166000
+Grimsby,6.2,98000
+Death Wish 4: The Crackdown,5.5,9500
+The Amateur,5.8,832
+Shut In,4.8,13000
+Willard,6.1,19000
+Birth of the Dragon,5.6,8000
+Evil Angels,6.9,10000
+Take Me Home Tonight,6.3,53000
+Almost an Angel,5.6,4500
+BASEketball,6.5,60000
+Marnie,7.1,48000
+Blue City,4.4,1200
+Eraserhead,7.4,111000
+Xi yan,7.6,15000
+Cat People,6.2,21000
+The Last Time,6.1,3700
+Parasite,4.0,2600
+An American Carol,4.1,9700
+Bug,6.1,35000
+Crossover,2.2,9200
+Star Kid,5.3,2700
+Black Nativity,4.7,2200
+Kissing Jessica Stein,6.5,16000
+Hiding Out,6.4,3700
+Three Wishes,6.1,3100
+Turistas,5.4,38000
+The Irishman,7.8,359000
+Deliverance,7.7,105000
+Quills,7.3,53000
+The Stunt Man,7.1,9400
+Before the Devil Knows You&apos;re Dead,7.3,101000
+Blackhat,5.4,57000
+10 to Midnight,6.3,7800
+Silence,7.2,108000
+1492: Conquest of Paradise,6.5,30000
+The Green Inferno,5.3,42000
+Transylvania 6-5000,5.0,7400
+American Dreamz,5.4,25000
+Mulholland Dr.,7.9,341000
+All the King&apos;s Men,6.2,24000
+She&apos;s So Lovely,5.9,8300
+"Hello, Dolly!",7.1,15000
+Johnny Handsome,6.1,9600
+Off Limits,6.2,2900
+Rush,6.8,8600
+Big Trouble,6.5,20000
+Barcelona,7.0,6100
+Searching for Bobby Fischer,7.4,40000
+Friends with Kids,6.1,42000
+Lorenzo&apos;s Oil,7.3,22000
+Phantasm II,6.5,15000
+The Forsaken,5.3,8700
+Outside Providence,6.4,8800
+Who&apos;s That Girl,4.8,10000
+Maximum Overdrive,5.5,32000
+Harley Davidson and the Marlboro Man,6.1,20000
+Disconnect,7.5,75000
+Taking Woodstock,6.7,29000
+A Good Year,7.0,93000
+Martian Child,6.8,20000
+The Man Who Wasn&apos;t There,7.5,107000
+The Curse of the Jade Scorpion,6.7,40000
+I Know Who Killed Me,3.6,29000
+Clean Slate,5.7,3900
+Chitty Chitty Bang Bang,6.9,44000
+Barney&apos;s Version,7.3,25000
+Strangers on a Train,8.0,130000
+Two for the Road,7.5,13000
+Beautiful Boy,7.3,66000
+The Order,5.2,17000
+The Imaginarium of Doctor Parnassus,6.8,147000
+Elle s&apos;appelait Sarah,7.5,17000
+Loving,7.0,34000
+Surviving the Game,6.2,11000
+Unsane,6.4,45000
+Being Julia,7.0,12000
+The Collector,6.4,63000
+Trumbo,7.5,80000
+City of Ember,6.5,65000
+The Space Between Us,6.4,51000
+Serial Mom,6.8,29000
+Teen Wolf Too,3.4,12000
+Blankman,5.1,9600
+Miracle at St. Anna,6.1,18000
+Arbitrage,6.6,52000
+Soylent Green,7.1,62000
+Runaway Train,7.2,29000
+Punisher: War Zone,5.9,62000
+Connie and Carla,6.3,8200
+The Painted Veil,7.5,92000
+Hoot,5.5,8200
+The Adventures of Baron Munchausen,7.2,53000
+The Boat That Rocked,7.4,110000
+Streets of Fire,6.7,21000
+The Philadelphia Experiment,6.1,15000
+Code Name: The Cleaner,4.6,12000
+Fresh,7.6,13000
+A Cure for Wellness,6.4,93000
+Bella,7.1,11000
+Dirty Pretty Things,7.3,42000
+Inherent Vice,6.7,100000
+Before Midnight,7.9,151000
+A Simple Wish,5.4,5400
+Dead Bang,6.1,3900
+DeepStar Six,5.4,12000
+Prince of the City,7.5,8000
+Cheetah,6.0,1000
+Nick of Time,6.3,41000
+Wu ji,5.6,9200
+Cadillac Records,7.0,21000
+Whose Life Is It Anyway?,7.3,2800
+Shadow of the Vampire,6.9,41000
+Black Robe,7.1,7000
+Larger Than Life,5.6,7300
+Lucas,6.9,16000
+Johnny English Reborn,6.3,126000
+Tenacious D in The Pick of Destiny,6.8,107000
+Mr. Jones,5.8,7100
+Mandela: Long Walk to Freedom,7.1,27000
+The Man,5.6,26000
+Seong lung wui,6.5,12000
+Smoke,7.4,36000
+Death to Smoochy,6.3,40000
+Turbo: A Power Rangers Movie,3.7,8800
+Something Wild,6.9,18000
+Something Wicked This Way Comes,6.8,9100
+The Importance of Being Earnest,6.8,23000
+Twice in a Lifetime,6.5,1200
+Sex Drive,6.5,87000
+Pushing Tin,6.0,29000
+Play It to the Bone,5.5,12000
+Ghosts of Mars,4.9,53000
+MacGruber,5.6,44000
+Wise Guys,5.7,5700
+The Bounty,7.1,26000
+Pollock,7.0,28000
+Manhunter,7.2,71000
+My Life in Ruins,5.9,19000
+Bingo,4.9,2800
+If You Could See What I Hear,6.8,838
+Once Upon a Crime...,5.9,4500
+The Lobster,7.2,240000
+Can You Ever Forgive Me?,7.1,50000
+Queen of Katwe,7.4,17000
+Singin&apos; in the Rain,8.3,231000
+The Deep End,6.6,11000
+The Ice Harvest,6.2,24000
+Battle for the Planet of the Apes,5.5,30000
+Apt Pupil,6.7,38000
+Everybody&apos;s Fine,7.1,61000
+Nightbreed,6.5,22000
+"Mystery, Alaska",6.7,27000
+Battle of the Year,5.0,9200
+The Next Karate Kid,4.5,29000
+Brainstorm,6.4,12000
+Bolero,3.0,5400
+Teaching Mrs. Tingle,5.3,20000
+In the Mouth of Madness,7.2,66000
+Saved!,6.7,46000
+Switching Channels,5.9,3700
+White Sands,6.0,7800
+Dead Ringers,7.3,45000
+A Single Man,7.5,110000
+Get Low,7.0,23000
+A Mighty Heart,6.6,27000
+Pennies from Heaven,6.5,5500
+Body Parts,5.6,4300
+A Serious Man,7.1,139000
+"Where&apos;d You Go, Bernadette",6.5,20000
+Bernie,6.8,59000
+Return of the Living Dead: Part II,5.8,19000
+Havana,6.1,7800
+Lolita,7.5,98000
+The Brink&apos;s Job,6.5,3000
+Gladiator,6.5,9000
+Tully,7.0,57000
+Fun Size,5.4,14000
+Village of the Damned,5.6,31000
+Sleepover,5.4,16000
+Once,7.8,114000
+She&apos;s the One,6.0,17000
+Rock Dog,6.0,5100
+Away We Go,7.0,53000
+Thank You for Your Service,6.6,13000
+Le violon rouge,7.6,33000
+Bullet to the Head,5.7,49000
+Fair Game,6.8,48000
+From the Hip,6.2,2400
+Chaplin,7.5,56000
+Death Sentence,6.7,71000
+Matinee,6.9,11000
+Midnight Sun,6.6,28000
+Carbon Copy,5.6,2800
+The Dark Half,6.0,17000
+SpaceCamp,5.7,15000
+Somewhere in Time,7.2,28000
+Dudley Do-Right,3.9,11000
+Everyone Says I Love You,6.7,37000
+Rendition,6.8,55000
+Blue Valentine,7.3,192000
+The Hidden,7.0,19000
+Jade,5.3,12000
+Very Bad Things,6.3,47000
+Maid to Order,5.5,3400
+Explorers,6.5,21000
+Conquest of the Planet of the Apes,6.1,32000
+Straight Time,7.4,8500
+The Onion Field,6.8,4900
+Brazil,7.9,196000
+Murphy&apos;s Law,6.0,5400
+Buddy,4.9,2600
+Bratz,3.2,23000
+The Two Jakes,6.2,14000
+The Unbearable Lightness of Being,7.3,35000
+Penelope,6.7,62000
+Lucky Numbers,5.0,10000
+Next Day Air,5.8,11000
+A Little Princess,7.7,34000
+Cutthroat Island,5.7,28000
+Cry Wolf,5.8,27000
+Gojira ni-sen mireniamu,6.1,8200
+The Lady in the Van,6.7,29000
+Marshall,7.3,23000
+Boiling Point,5.0,6000
+Shakedown,6.0,3200
+Mrs. Winterbourne,6.2,7500
+Män som hatar kvinnor,7.8,214000
+Knock Off,4.9,15000
+Possession,6.3,13000
+Brokedown Palace,6.5,22000
+True Confessions,6.3,7900
+The Best of Enemies,7.3,15000
+The Spanish Prisoner,7.2,24000
+I&apos;ll Do Anything,5.6,2600
+Unfinished Business,5.4,33000
+Kinsey,7.1,49000
+Pathfinder,5.4,44000
+The Brothers McMullen,6.6,7800
+The Man Who Knew Too Much,7.4,62000
+House of the Dead,2.1,37000
+Whiteout,5.5,38000
+The Year of Living Dangerously,7.1,21000
+Someone to Watch Over Me,6.1,10000
+The Newton Boys,6.1,11000
+The Boondock Saints II: All Saints Day,6.3,63000
+White Squall,6.6,23000
+La Môme,7.6,85000
+Pandorum,6.7,148000
+Straw Dogs,5.8,34000
+Look Who&apos;s Talking Now,4.4,29000
+Revenge of the Ninja,6.1,5000
+Deal of the Century,4.6,3800
+Silent Rage,5.5,5600
+Here on Earth,5.2,8600
+Getaway,4.4,24000
+American Ninja,5.5,15000
+Magic in the Moonlight,6.5,67000
+Sabotage,5.7,63000
+Scoop,6.6,83000
+Jonah Hex,4.7,58000
+Three to Tango,6.1,19000
+We&apos;re No Angels,6.1,23000
+Husbands and Wives,7.5,29000
+Mad City,6.3,20000
+Not Easily Broken,6.1,2900
+Drop Dead Gorgeous,6.6,36000
+The Beguiled,6.3,56000
+Falling in Love,6.5,14000
+After Hours,7.7,66000
+The Purple Rose of Cairo,7.7,50000
+The Gunman,5.8,41000
+Wolfen,6.3,9900
+The Package,6.4,9600
+Gettysburg,7.7,28000
+Nocturnal Animals,7.5,260000
+Welcome to Marwen,6.2,23000
+Dracula: Dead and Loving It,5.9,41000
+Missing in Action 2: The Beginning,5.4,8200
+Extract,6.1,47000
+Rollover,5.4,1200
+Victory,6.7,29000
+Dead Man Down,6.5,67000
+The Englishman Who Went Up a Hill But Came Down a Mountain,6.6,17000
+Pride and Prejudice and Zombies,5.8,55000
+Cookie&apos;s Fortune,6.9,13000
+Stop-Loss,6.4,20000
+Doomsday,5.9,76000
+Moment by Moment,3.1,1200
+The Young Victoria,7.3,60000
+In the Land of Women,6.4,32000
+Mrs. Henderson Presents,7.0,16000
+Krush Groove,6.5,3200
+The Man Who Loved Women,5.3,2300
+Mad Dog and Glory,6.2,21000
+Michael Collins,7.2,31000
+Big Trouble in Little China,7.3,134000
+Café Society,6.6,75000
+Hell Fest,5.5,16000
+The Danish Girl,7.1,176000
+Whispers in the Dark,5.6,2200
+Chill Factor,5.2,9600
+Barney&apos;s Great Adventure,3.2,3400
+Jennifer Eight,6.3,17000
+The Birds,7.7,182000
+Double Team,4.8,34000
+The Ref,6.9,24000
+Moon Over Parador,6.0,5700
+Turbulence,4.9,11000
+Thief,7.4,29000
+The Beautician and the Beast,5.5,9200
+The Words,7.0,77000
+Two Mules for Sister Sara,7.0,27000
+Army of Darkness,7.5,171000
+Mulholland Falls,6.3,17000
+The Longshots,5.5,4100
+Shattered,6.5,9400
+Boys Don&apos;t Cry,7.5,96000
+Fair Game,4.3,13000
+The Conspirator,6.9,28000
+Girl with a Pearl Earring,6.9,77000
+Halloween 5: The Revenge of Michael Myers,5.1,40000
+The Adventures of Elmo in Grouchland,5.8,3300
+Rock-A-Doodle,6.1,9200
+Surviving Christmas,5.5,24000
+Strictly Ballroom,7.2,26000
+Dave Chappelle&apos;s Block Party,7.2,9200
+3 Ninjas Kick Back,4.6,9000
+Tales from the Hood,6.4,8000
+Caddyshack II,3.8,15000
+Play Misty for Me,7.0,27000
+Meet Dave,5.0,40000
+Bloodsport,6.8,82000
+Breakin&apos; All the Rules,5.7,6100
+Firewalker,5.2,6600
+Big Night,7.3,19000
+Glee: The 3D Concert Movie,5.5,5800
+Sliding Doors,6.7,66000
+Sydney White,6.2,48000
+Sorcerer,7.7,20000
+The Gift,6.7,67000
+In Dreams,5.5,13000
+Chasing Amy,7.2,136000
+Holy Man,4.9,20000
+The Kitchen,5.6,20000
+The Last Stand,6.3,137000
+Foxcatcher,7.0,140000
+The Great Escape,8.2,236000
+Roommates,6.4,1800
+Saving Grace,6.9,18000
+Let Me In,7.1,118000
+Judgment Night,6.6,16000
+After,5.3,48000
+Pink Cadillac,5.4,11000
+The 33,6.9,37000
+Chasing Liberty,6.1,39000
+Hideaway,5.3,6800
+The Postman Always Rings Twice,6.6,23000
+Undisputed,6.2,32000
+People Like Us,7.1,43000
+Irreconcilable Differences,5.8,3100
+The Marrying Man,5.8,5600
+Mad Max 2,7.6,175000
+The Weather Man,6.5,79000
+French Connection II,6.8,18000
+Freedomland,5.1,16000
+Triple 9,6.3,71000
+Love Jones,7.4,4600
+Everybody&apos;s All-American,6.2,3200
+Battle of the Sexes,6.7,54000
+The Bedroom Window,6.4,5600
+The Darkest Minds,5.7,31000
+The New World,6.7,85000
+Labyrinth,7.4,131000
+Weekend at Bernie&apos;s II,4.8,13000
+Beasts of the Southern Wild,7.3,82000
+Mystic Pizza,6.3,28000
+The Founder,7.2,140000
+Highlander: Endgame,4.7,20000
+Shoot &apos;Em Up,6.6,148000
+Anna Karenina,6.6,97000
+Black Dog,5.5,8900
+Wicker Park,7.0,55000
+The Honeymooners,3.3,7300
+They,4.8,13000
+The Collection,6.1,48000
+Real Genius,7.0,33000
+House of Sand and Fog,7.5,67000
+The Crew,5.6,5900
+They Live,7.3,123000
+How to Eat Fried Worms,5.4,5400
+The First Great Train Robbery,6.9,17000
+To Be or Not to Be,6.8,11000
+I&apos;m Gonna Git You Sucka,6.6,13000
+Angela&apos;s Ashes,7.3,22000
+Senseless,6.1,16000
+Clockers,6.9,22000
+Ghosts of Mississippi,6.7,11000
+Whip It,6.9,66000
+Flyboys,6.5,42000
+American Me,7.2,9200
+Cat&apos;s Eye,6.3,24000
+Whiplash,8.5,778000
+Hillary&apos;s America: The Secret History of the Democratic Party,5.3,7200
+The Evil That Men Do,6.0,3900
+Frailty,7.2,82000
+Rosewood,7.2,8000
+Dr. T &amp; the Women,4.6,19000
+Jason X,4.4,55000
+The Peanut Butter Falcon,7.6,85000
+Lone Star,7.4,29000
+Body of Evidence,4.5,15000
+North by Northwest,8.3,316000
+The Rum Diary,6.2,101000
+Sugar &amp; Spice,5.7,14000
+The Entity,6.7,16000
+Chaos Walking,5.8,37000
+The Pick-up Artist,5.3,7000
+Lord of Illusions,6.1,17000
+The Tree of Life,6.8,173000
+De-Lovely,6.6,11000
+The Comebacks,4.3,12000
+The Haunting of Molly Hartley,3.9,9700
+Labor Day,6.9,45000
+Mr. Saturday Night,5.9,5900
+Friends with Money,5.8,29000
+Bullets Over Broadway,7.4,38000
+One Night with the King,6.1,7100
+Alfie,6.2,52000
+A Kid in King Arthur&apos;s Court,4.8,6100
+Secrets &amp; Lies,8.0,42000
+Crank: High Voltage,6.2,146000
+Poms,6.1,5800
+Burnt,6.6,112000
+Dredd,7.1,266000
+Crooklyn,7.0,10000
+Warrior,8.1,454000
+Vice Versa,5.9,9700
+The Pagemaster,6.1,23000
+The Tailor of Panama,6.2,29000
+Broken Flowers,7.2,101000
+Trespass,6.3,12000
+Blow Out,7.4,50000
+Hit and Run,6.1,36000
+Letters from Iwo Jima,7.9,159000
+A Hard Day&apos;s Night,7.6,44000
+The Thing,8.1,399000
+Repo Men,6.3,105000
+Desperate Measures,6.1,17000
+The Man Who Knew Too Little,6.6,32000
+The Milagro Beanfield War,6.9,6200
+Highlander III: The Sorcerer,4.5,21000
+One Day,7.0,147000
+My Stepmother Is an Alien,5.4,26000
+Left Behind,3.1,39000
+On a Clear Day You Can See Forever,6.4,3800
+The Survivors,5.8,5000
+The Missouri Breaks,6.5,10000
+Creepshow 2,6.1,25000
+In Too Deep,6.3,6500
+What&apos;s Your Number?,6.1,77000
+Missing,7.7,21000
+Virus,5.0,28000
+New York Minute,5.0,23000
+The Good Girl,6.4,45000
+Love &amp; Friendship,6.4,24000
+Cirque du Freak: The Vampire&apos;s Assistant,5.8,45000
+Private School,5.3,6300
+The Beastmaster,6.2,22000
+The Perfect Weapon,6.0,4100
+Diner,7.1,20000
+The Arrival,6.2,35000
+How to Deal,5.6,9500
+Dragonslayer,6.7,17000
+Cool World,4.9,23000
+Poltergeist III,4.7,18000
+Criminal,6.3,64000
+Spring Breakers,5.3,140000
+Ballistic: Ecks vs. Sever,3.7,20000
+Joan of Arc,6.4,66000
+Wish Upon,5.0,20000
+The Wizard,6.1,15000
+The Mosquito Coast,6.6,28000
+Friday the 13th Part VIII: Jason Takes Manhattan,4.6,37000
+Excess Baggage,5.4,13000
+Rapid Fire,6.3,9100
+Memoirs of an Invisible Man,6.0,24000
+Un tè con Mussolini,6.9,13000
+Lockout,6.1,97000
+Capitalism: A Love Story,7.4,42000
+The Buddy Holly Story,7.2,8800
+Ishtar,4.5,11000
+Awake,6.5,75000
+Dark City,7.6,195000
+Snow Falling on Cedars,6.8,14000
+Godsend,4.8,25000
+Woodlawn,6.5,7100
+Hollywoodland,6.5,34000
+Halloween III: Season of the Witch,5.0,50000
+Night of the Comet,6.4,20000
+The Edge of Seventeen,7.3,116000
+American Ultra,6.1,89000
+"Hello, My Name Is Doris",6.6,20000
+Life or Something Like It,5.8,25000
+Soldier,6.1,56000
+Flight of the Intruder,5.8,6900
+Beyond the Lights,6.9,16000
+Children of the Corn,5.6,51000
+My Soul to Take,4.8,20000
+Clue,7.3,92000
+The Nude Bomb,5.1,3300
+The Girl Next Door,6.7,217000
+It Follows,6.8,227000
+Room,8.1,398000
+The Case for Christ,6.4,8700
+Kickboxer,6.5,54000
+The Sixth Man,5.7,5800
+Fire Birds,4.8,6300
+"I Love You, Beth Cooper",5.3,35000
+Prom Night,5.4,17000
+If Beale Street Could Talk,7.1,47000
+Nighthawks,6.4,19000
+The Commitments,7.6,35000
+The Meaning of Life,7.5,118000
+A Star Is Born,7.6,17000
+Kiss of Death,5.9,19000
+Get Carter,5.2,34000
+Solaris,6.2,81000
+The Next Best Thing,4.7,11000
+Lions for Lambs,6.2,49000
+Judy Moody and the Not Bummer Summer,4.4,3200
+Miss Bala,5.8,11000
+The Cave,5.2,38000
+More American Graffiti,5.3,4400
+Seven Psychopaths,7.2,251000
+Killing Them Softly,6.2,140000
+Twilight,6.2,13000
+The Box,5.6,91000
+Madonna: Truth or Dare,6.4,9300
+See No Evil,5.1,27000
+King Solomon&apos;s Mines,5.2,13000
+American Psycho,7.6,538000
+Toy Soldiers,6.6,22000
+The Invasion,5.9,77000
+The Madness of King George,7.2,16000
+Bad Girls,5.2,12000
+Catch and Release,6.0,25000
+Quick Change,6.8,20000
+Bangkok Dangerous,5.3,56000
+The Adventures of Pinocchio,5.3,5700
+Youth in Revolt,6.4,74000
+Hair,7.6,37000
+About Time,7.8,328000
+Bait,5.8,12000
+The Greatest Game Ever Played,7.4,30000
+No Escape,6.1,19000
+Spaced Invaders,5.4,3500
+Half Past Dead,4.7,15000
+Mr. Destiny,6.4,12000
+African Cats,7.5,6400
+Wrong Turn,6.1,116000
+The Infiltrator,7.0,72000
+A Kiss Before Dying,5.7,5400
+Drowning Mona,5.7,14000
+A Guy Thing,5.6,17000
+The French Connection,7.7,117000
+Revenge,6.2,18000
+Larry the Cable Guy: Health Inspector,3.5,13000
+The Bonfire of the Vanities,5.6,25000
+Leviathan,5.8,20000
+High Plains Drifter,7.5,53000
+Paparazzi,5.7,15000
+Pride and Glory,6.6,61000
+The Island,5.3,4200
+3000 Miles to Graceland,6.0,46000
+Wishmaster,5.8,23000
+Superman IV: The Quest for Peace,3.7,47000
+Hunter Killer,6.6,60000
+The Gospel,5.1,2200
+Eddie the Eagle,7.4,90000
+Devil&apos;s Due,4.1,17000
+The Birth of a Nation,6.4,21000
+Far from Heaven,7.4,46000
+Masquerade,6.1,3700
+Gorky Park,6.7,14000
+Thomas and the Magic Railroad,4.2,4200
+Jason Goes to Hell: The Final Friday,4.2,31000
+Next of Kin,5.9,11000
+Devil in a Blue Dress,6.7,19000
+Armed and Dangerous,5.7,11000
+She&apos;s Having a Baby,5.9,13000
+Above the Rim,6.6,15000
+Mortal Engines,6.1,120000
+Kung Pow: Enter the Fist,6.2,45000
+Over the Top,5.8,53000
+Dr. No,7.2,160000
+A Midsummer Night&apos;s Dream,6.4,25000
+Imagine That,5.6,15000
+Fruitvale Station,7.5,79000
+Death Wish II,6.0,16000
+Death Wish 3,5.9,15000
+The Prophecy,6.5,31000
+No Holds Barred,4.4,6300
+D.C. Cab,5.6,4700
+Jobs,6.0,97000
+Mo&apos; Better Blues,6.6,12000
+Begin Again,7.4,151000
+Wolf Creek,6.2,71000
+Jennifer&apos;s Body,5.3,128000
+Raw Deal,5.6,33000
+Fire Down Below,5.1,18000
+The Perfect Man,5.5,30000
+Crossing Delancey,6.9,4200
+Original Sin,6.1,56000
+Forever My Girl,6.7,17000
+"New York, New York",6.6,19000
+Breaking Away,7.7,23000
+Eye of the Beholder,5.0,15000
+Mary Queen of Scots,6.3,48000
+The Hitcher,5.6,42000
+Spacehunter: Adventures in the Forbidden Zone,5.5,5800
+Krull,6.1,32000
+Terminal Velocity,5.5,14000
+54,5.8,33000
+Heart and Souls,7.0,17000
+Beat Street,6.5,3800
+Shocker,5.5,16000
+Buffy the Vampire Slayer,5.7,44000
+Muppets from Space,6.3,19000
+True Crime,6.6,35000
+Deep Cover,6.9,11000
+Bringing Out the Dead,6.8,67000
+The Final Countdown,6.7,23000
+Unaccompanied Minors,5.4,11000
+Tremors,7.1,132000
+Baby&apos;s Day Out,6.2,49000
+Hellraiser: Bloodline,5.1,21000
+Dead Silence,6.2,92000
+Missing Link,6.7,25000
+Go,7.2,70000
+Death Warrant,5.7,18000
+Flatliners,5.2,46000
+The Thing,6.2,128000
+Serving Sara,5.3,17000
+88 Minutes,5.9,75000
+Boiler Room,7.0,52000
+The Counselor,5.3,99000
+Crazy/Beautiful,6.4,25000
+The Country Bears,4.2,5500
+Splice,5.7,96000
+Wimbledon,6.3,63000
+Rock Star,6.3,43000
+The Hurt Locker,7.5,438000
+Son of the Mask,2.2,55000
+The Devil&apos;s Rejects,6.8,97000
+Gekijô-ban poketto monsutâ: Kesshô-tô no teiô,5.9,14000
+Angel Heart,7.3,85000
+The Mission,7.4,60000
+Seventh Son,5.5,75000
+Hudson Hawk,5.8,55000
+Small Time Crooks,6.7,38000
+Fired Up!,6.1,43000
+All the Right Moves,6.0,18000
+A Bronx Tale,7.8,136000
+A Most Wanted Man,6.8,75000
+The Glass Castle,7.1,32000
+Half Baked,6.7,61000
+Max Keeble&apos;s Big Move,5.4,8000
+Brightburn,6.1,91000
+The Phantom,5.0,34000
+Extreme Measures,6.2,19000
+Inkheart,6.1,76000
+To Live and Die in L.A.,7.3,32000
+Eight Legged Freaks,5.4,56000
+A Haunted House 2,4.7,21000
+Just My Luck,5.4,56000
+Masters of the Universe,5.4,40000
+Masterminds,5.8,54000
+The NeverEnding Story II: The Next Chapter,5.2,26000
+Outland,6.6,29000
+Home for the Holidays,6.6,13000
+Silent Hill: Revelation,5.0,62000
+Enough Said,7.0,61000
+"Paul, Apostle of Christ",6.7,8300
+Johnny Be Good,4.6,6600
+Furry Vengeance,3.8,17000
+Operation Finale,6.6,39000
+The Last King of Scotland,7.7,182000
+Invasion U.S.A.,5.5,9600
+Frantic,6.9,52000
+Kit Kittredge: An American Girl,6.5,5900
+The Postman,6.1,72000
+Parker,6.2,120000
+The Big Easy,6.6,13000
+Apollo 18,5.2,55000
+The Contender,6.9,24000
+The Crow: City of Angels,4.7,20000
+CB4,6.3,9400
+Nebraska,7.7,116000
+Used People,6.1,1500
+Red Planet,5.7,57000
+The Glass House,5.8,36000
+Admission,5.7,34000
+Seven Days in Utopia,6.1,3500
+Postal,4.5,23000
+"Jo Jo Dancer, Your Life Is Calling",6.4,1800
+Wes Craven&apos;s New Nightmare,6.5,56000
+Call Me by Your Name,7.9,245000
+Chernobyl Diaries,5.0,65000
+The Fabulous Baker Boys,6.9,23000
+Dead Men Don&apos;t Wear Plaid,6.9,22000
+The Last Castle,7.0,77000
+Prophecy,5.5,4900
+The Sure Thing,7.0,20000
+Ladyhawke,7.0,46000
+A Thousand Words,5.9,42000
+Getting Even with Dad,4.8,7900
+The Invention of Lying,6.4,136000
+Quartet,6.8,20000
+Into the Blue,5.9,76000
+You&apos;re Next,6.6,95000
+Super Troopers,7.1,101000
+Ultraviolet,4.4,81000
+Project X,6.1,12000
+An Ideal Husband,6.8,16000
+Flight of the Navigator,6.9,47000
+The Fan,5.9,48000
+Aquamarine,5.4,41000
+Frost/Nixon,7.7,106000
+The Apartment,8.3,174000
+Alice Doesn&apos;t Live Here Anymore,7.3,23000
+CHIPS,6.0,46000
+Geronimo: An American Legend,6.5,11000
+Suspect,6.6,10000
+The Quick and the Dead,6.5,90000
+Akeelah and the Bee,7.4,20000
+The Marine,4.7,33000
+The Legend of Hercules,4.2,54000
+Above the Law,6.0,31000
+Rambo: Last Blood,6.1,92000
+Shark Night 3D,4.0,26000
+Man on a Ledge,6.6,149000
+Kazaam,3.0,24000
+Cocoon: The Return,5.4,16000
+Haywire,5.8,86000
+Deux frères,7.0,15000
+Georgia Rule,5.9,25000
+Untamed Heart,6.8,14000
+The Replacement Killers,6.2,28000
+Unplanned,5.9,14000
+The Octagon,5.2,5400
+Rollerball,3.1,28000
+Beneath the Planet of the Apes,6.1,46000
+Mortal Thoughts,5.7,8700
+Mommie Dearest,6.7,16000
+My Best Friend&apos;s Girl,5.9,44000
+Best Defense,3.8,6000
+House Party 2,5.3,6500
+Lo imposible,7.6,214000
+Summer of Sam,6.7,38000
+Little Giants,6.4,28000
+Cursed,5.0,32000
+Saving Silverman,5.9,40000
+Vacancy,6.2,98000
+The Producers,6.4,42000
+Joe,6.8,3200
+Wonder Boys,7.3,63000
+Runner Runner,5.6,62000
+House,6.2,26000
+Friday the 13th Part VI: Jason Lives,6.0,43000
+Beautiful Creatures,6.2,86000
+Timeline,5.7,62000
+The Eagle,6.2,69000
+Valiant,5.5,22000
+Hero,6.5,22000
+The Principal,6.3,9700
+Gone Fishin&apos;,4.8,9900
+Dad,6.3,4900
+Young Sherlock Holmes,6.8,21000
+Cruising,6.5,23000
+The Spirit,4.8,61000
+Hard Rain,5.9,35000
+Jane Austen&apos;s Mafia!,5.6,15000
+Vampire in Brooklyn,4.6,23000
+Breathless,5.9,9100
+Assault on Precinct 13,6.3,77000
+Unfaithfully Yours,6.0,2800
+Middle School: The Worst Years of My Life,6.1,8700
+Eyes of Laura Mars,6.2,10000
+Down to You,5.0,15000
+Fire in the Sky,6.5,24000
+The Glimmer Man,5.4,20000
+Country Strong,6.3,18000
+Flipper,5.3,11000
+Vampires,6.1,57000
+Mobsters,6.0,9000
+Our Family Wedding,5.1,7100
+Action Jackson,5.5,11000
+Pulse,4.8,29000
+Premium Rush,6.5,113000
+The Cowboy Way,5.9,8200
+Down with Love,6.3,41000
+Gone Baby Gone,7.6,265000
+Brick Mansions,5.7,42000
+Reno 911!: Miami,5.9,27000
+Code of Silence,6.1,7700
+A Prairie Home Companion,6.7,23000
+Sgt. Pepper&apos;s Lonely Hearts Club Band,4.2,6500
+Sudden Death,5.8,34000
+F.I.S.T,6.4,7700
+The Three Musketeers,5.7,106000
+Little Black Book,5.3,18000
+The In-Laws,5.8,17000
+Land of the Dead,6.2,95000
+The Happytime Murders,5.4,27000
+Mad Money,5.9,21000
+Free State of Jones,6.9,56000
+Jaws: The Revenge,3.0,45000
+The Dead Zone,7.2,67000
+Blair Witch,5.0,44000
+Whale Rider,7.5,42000
+Sleepless,5.6,32000
+The Hills Have Eyes II,5.1,63000
+The Kids Are All Right,7.0,129000
+Paul Blart: Mall Cop,5.2,107000
+Jason&apos;s Lyric,6.6,4000
+Mr. Baseball,6.0,11000
+Proud Mary,5.0,9700
+Intersection,5.4,8200
+The Man with the Golden Gun,6.7,102000
+Super Mario Bros.,4.1,53000
+La guerre du feu,7.3,22000
+The Apple Dumpling Gang Rides Again,6.1,2800
+The X Files: I Want to Believe,5.9,91000
+Shorts,4.7,7300
+Tales from the Crypt: Demon Knight,6.7,23000
+F/X2,5.9,11000
+Stir of Echoes,7.0,80000
+The Disaster Artist,7.3,147000
+Things Are Tough All Over,6.0,3300
+Kuffs,5.9,11000
+Bulletproof,5.8,38000
+"As Above, So Below",6.2,87000
+ATL,6.2,11000
+Cujo,6.1,44000
+Christine,6.7,79000
+The Next Three Days,7.3,193000
+Coneheads,5.4,53000
+Dream House,6.0,66000
+Mechanic: Resurrection,5.7,82000
+The Black Cauldron,6.4,35000
+To Die For,6.8,47000
+Conan the Barbarian,5.2,98000
+The King and I,7.4,25000
+Shaft,6.4,50000
+Raising Cain,6.1,15000
+Torque,4.1,28000
+Skyline,4.4,89000
+Mr. Magoo,4.0,15000
+The Fog,6.8,71000
+The Place Beyond the Pines,7.3,259000
+He Got Game,6.9,47000
+Baggage Claim,5.1,9100
+Bowling for Columbine,7.9,143000
+Consenting Adults,5.7,7400
+The Quest,5.6,26000
+Short Circuit 2,5.7,25000
+Your Highness,5.5,100000
+Snowden,7.3,147000
+The Rookie,5.9,27000
+Como agua para chocolate,7.1,18000
+Buck Rogers in the 25th Century,6.6,5800
+Overlord,6.6,94000
+The Player,7.5,58000
+Biker Boyz,4.7,13000
+Marathon Man,7.4,61000
+Friday the 13th Part 2,6.1,65000
+The Bachelor,5.1,18000
+Mr. 3000,5.6,14000
+The Big Wedding,5.6,49000
+A Soldier&apos;s Story,7.2,9700
+Don Juan DeMarco,6.7,50000
+A Nightmare on Elm Street: The Dream Child,5.1,44000
+Nowhere to Run,5.7,23000
+Hustle &amp; Flow,7.3,40000
+Emma,6.7,38000
+Two Can Play That Game,6.2,6700
+Empire of the Sun,7.7,122000
+Pink Floyd: The Wall,8.0,79000
+Victoria &amp; Abdul,6.8,35000
+Adaptation.,7.7,187000
+The Lion in Winter,7.9,31000
+My Fellow Americans,6.5,15000
+Project Almanac,6.4,79000
+The Borrowers,5.9,22000
+Edtv,6.1,43000
+At First Sight,6.0,14000
+The Bye Bye Man,4.2,23000
+Stuber,6.2,45000
+The Alamo,6.0,21000
+The First Power,5.7,4100
+Red Corner,6.3,17000
+The Juror,5.7,18000
+Xanadu,5.3,13000
+The Gallows,4.3,20000
+Joe Somebody,5.5,10000
+Frankie and Johnny,6.7,31000
+On Her Majesty&apos;s Secret Service,6.7,88000
+A Dog&apos;s Journey,7.5,23000
+Missing in Action,5.5,15000
+Prime,6.2,41000
+Titan A.E.,6.6,60000
+Raising Arizona,7.3,134000
+Beloved,6.0,8900
+Being John Malkovich,7.7,326000
+Two for the Money,6.3,45000
+Guilty as Sin,5.6,5200
+Crimes of the Heart,6.4,4000
+Revolutionary Road,7.3,207000
+Rounders,7.3,148000
+Ella Enchanted,6.3,66000
+Love Happens,5.7,33000
+The Care Bears Movie,5.7,5400
+The Remains of the Day,7.8,71000
+Faster,6.4,105000
+Pompeii,5.5,109000
+Kingdom Come,5.6,2200
+Fighting with My Family,7.1,76000
+The Covenant,5.3,49000
+The Avengers,3.8,43000
+The Usual Suspects,8.5,1000000
+Reindeer Games,5.8,39000
+Raging Bull,8.2,339000
+Endless Love,6.3,43000
+Hoodlum,6.3,11000
+Boys on the Side,6.5,13000
+Ernest Goes to Camp,5.5,11000
+Traitor,7.0,57000
+Hotel Rwanda,8.1,346000
+How to Make an American Quilt,6.3,11000
+Oscar,6.5,31000
+Kevin Hart: What Now?,6.0,9300
+The Losers,6.3,99000
+Agent Cody Banks 2: Destination London,4.6,15000
+The Wicker Man,3.7,67000
+Nine,5.8,43000
+The Life Aquatic with Steve Zissou,7.3,190000
+White Boy Rick,6.5,35000
+Don&apos;t Be Afraid of the Dark,5.6,48000
+Angel Eyes,5.7,24000
+Around the World in 80 Days,5.9,88000
+Virtuosity,5.6,30000
+Body Heat,7.4,34000
+Lionheart,6.2,35000
+The Adventures of Huck Finn,6.2,8400
+Lord of War,7.6,306000
+Hearts in Atlantis,6.9,38000
+The People Under the Stairs,6.4,34000
+Dead Presidents,6.9,22000
+Bridget Jones&apos;s Baby,6.5,73000
+Bronco Billy,6.1,12000
+The Spy Next Door,5.5,43000
+Hoffa,6.6,23000
+Quo Vadis,7.2,15000
+Across the Universe,7.3,109000
+Renaissance Man,6.2,18000
+Arlington Road,7.2,85000
+Sparkle,5.7,6200
+FernGully: The Last Rainforest,6.5,29000
+The Sweetest Thing,5.2,58000
+In the Heat of the Night,7.9,72000
+Gorillas in the Mist: The Story of Dian Fossey,7.0,25000
+Our Idiot Brother,6.4,86000
+Thank You for Smoking,7.6,218000
+Quiz Show,7.5,68000
+Never Back Down,6.6,100000
+Season of the Witch,5.4,93000
+The Craft,6.4,88000
+Fright Night,7.1,67000
+Invasion of the Body Snatchers,7.4,58000
+The November Man,6.3,67000
+Some Like It Hot,8.2,257000
+Kingpin,6.9,82000
+Enter the Dragon,7.7,102000
+Thunderbolt and Lightfoot,7.0,24000
+In the Name of the Father,8.1,168000
+Escape Plan,6.7,237000
+Killer Elite,6.4,128000
+The VVitch: A New-England Folktale,6.9,230000
+The Morning After,6.0,6600
+Nurse Betty,6.2,35000
+Escape Room: Tournament of Champions,5.8,30000
+Twisted,5.3,22000
+Piranha 3D,5.4,89000
+Aliens in the Attic,5.4,22000
+Black Widow,6.4,9500
+Katy Perry: Part of Me,5.9,14000
+Alien Nation,6.3,15000
+Escape from New York,7.2,136000
+Top Five,6.4,26000
+Sweet November,6.7,89000
+The Transporter,6.8,295000
+Heartburn,6.1,11000
+The Woman in Red,6.0,15000
+Jersey Girl,6.2,65000
+Tin Men,6.6,8400
+Can&apos;t Hardly Wait,6.5,49000
+The International,6.5,94000
+The Fourth Kind,5.9,77000
+Dark Water,5.6,62000
+Escape from L.A.,5.7,73000
+Desperado,7.2,180000
+Mr. Woodcock,5.1,36000
+Agnes of God,6.6,7300
+Crocodile Dundee in Los Angeles,4.8,25000
+Ex Machina,7.7,511000
+From Dusk Till Dawn,7.2,302000
+The Last Dragon,6.9,15000
+Candyman,6.7,86000
+You Again,5.8,51000
+That Thing You Do!,6.9,67000
+Betrayed,6.3,6200
+Shadowlands,7.3,18000
+Murder at 1600,6.1,30000
+Æon Flux,5.5,127000
+Alex Cross,5.2,34000
+Frida,7.4,87000
+The Lazarus Effect,5.2,43000
+Innerspace,6.8,58000
+Leap Year,6.5,101000
+The Hard Way,6.4,20000
+The Nanny Diaries,6.2,58000
+The Cotton Club,6.6,18000
+Shutter,5.2,34000
+Love the Coopers,5.8,23000
+A Walk Among the Tombstones,6.5,118000
+Great Expectations,6.8,53000
+I.Q.,6.2,25000
+Ben-Hur,5.7,43000
+House Party,6.5,15000
+Street Kings,6.8,111000
+Book of Shadows: Blair Witch 2,4.0,37000
+One for the Money,5.3,42000
+Run All Night,6.6,107000
+Bulworth,6.8,26000
+The Woman in Black 2: Angel of Death,4.8,28000
+Blast from the Past,6.6,63000
+Basic,6.5,62000
+Harriet the Spy,5.9,10000
+An American Werewolf in Paris,5.1,24000
+Machete,6.6,195000
+xXx: State of the Union,4.5,70000
+One Missed Call,4.0,32000
+That&apos;s Entertainment!,7.7,5000
+The Forest,4.8,42000
+The Missing,6.5,35000
+Home Again,5.8,31000
+Rush,8.1,458000
+Paulie,6.5,15000
+The Big Hit,6.1,30000
+Guarding Tess,6.2,17000
+The Story of Us,6.0,24000
+The Musketeer,4.8,14000
+The Women,5.0,21000
+Joe Dirt,6.0,55000
+Fast Times at Ridgemont High,7.2,101000
+All Dogs Go to Heaven,6.8,40000
+Baby Geniuses,2.7,26000
+Airplane II: The Sequel,6.2,51000
+Brooklyn&apos;s Finest,6.7,63000
+A Passage to India,7.3,18000
+Cloud Atlas,7.4,355000
+Nobody,7.4,178000
+High Fidelity,7.5,175000
+The Muppet Christmas Carol,7.7,54000
+No Escape,6.8,84000
+Dallas Buyers Club,8.0,467000
+Someone Like You...,6.1,26000
+Midsommar,7.1,267000
+Brown Sugar,6.6,9200
+Internal Affairs,6.5,19000
+Oculus,6.5,124000
+Sinister 2,5.3,52000
+The Switch,6.1,102000
+The Edge,6.9,72000
+Rings,4.5,40000
+Teachers,6.1,4200
+The Other Sister,6.5,12000
+Logan Lucky,7.0,143000
+The Majestic,6.9,54000
+Crank,6.9,243000
+The Rescuers Down Under,6.9,41000
+Beastly,5.6,77000
+Loaded Weapon 1,6.2,48000
+Grosse Pointe Blank,7.3,92000
+Cannonball Run II,5.1,16000
+Out to Sea,6.1,8600
+Abduction,5.1,79000
+Johnny English,6.2,155000
+The Prince &amp; Me,5.9,39000
+Happy Death Day 2U,6.2,68000
+Ernest Saves Christmas,5.7,11000
+Doom,5.2,112000
+After the Sunset,6.3,46000
+28 Weeks Later,6.9,269000
+Defiance,7.2,144000
+Fathers&apos; Day,5.3,15000
+Ready or Not,6.9,133000
+Untraceable,6.2,49000
+Taxi Driver,8.2,773000
+Drop Zone,5.6,20000
+Baby Boy,6.4,14000
+The Last Starfighter,6.8,41000
+Molly&apos;s Game,7.4,159000
+Capote,7.3,130000
+Kick-Ass 2,6.5,264000
+Draft Day,6.8,58000
+"Girl, Interrupted",7.3,175000
+One Direction: This Is Us,4.4,24000
+The Dream Team,6.5,15000
+Point Break,5.3,61000
+The Watcher,5.3,27000
+The Insider,7.8,167000
+Chimpanzee,7.2,6100
+James and the Giant Peach,6.7,64000
+A Walk in the Woods,6.4,27000
+Twilight Zone: The Movie,6.5,37000
+The Fog,3.7,36000
+Did You Hear About the Morgans?,4.9,40000
+Spy Hard,5.4,37000
+The World According to Garp,7.2,26000
+The Hate U Give,7.5,34000
+Wild Things,6.5,116000
+Harry and the Hendersons,6.0,35000
+Grudge Match,6.4,60000
+Serpico,7.7,118000
+Hostiles,7.2,80000
+Green Card,6.2,24000
+Mystery Men,6.1,66000
+Spartacus,7.9,131000
+"I, Tonya",7.5,202000
+The Iron Lady,6.4,107000
+Hollywood Homicide,5.3,37000
+How Do You Know,5.4,49000
+The Great Debaters,7.5,58000
+Life,6.6,220000
+The Fighting Temptations,5.6,7100
+The Banger Sisters,5.7,16000
+Honey,5.4,45000
+Assassins,6.3,81000
+Long Shot,6.8,105000
+A Night at the Roxbury,6.2,59000
+Queen of the Damned,5.3,55000
+The Mountain Between Us,6.4,73000
+From Here to Eternity,7.6,46000
+Halloween: Resurrection,4.0,42000
+Underworld: Blood Wars,5.8,74000
+Uncommon Valor,6.4,9800
+Sleepwalkers,5.3,22000
+Get on Up,6.9,24000
+An American Werewolf in London,7.5,101000
+Slender Man,3.2,32000
+Holmes &amp; Watson,3.8,35000
+Open Water,5.7,53000
+The Princess Bride,8.1,414000
+Powder,6.6,30000
+Home Alone 3,4.5,113000
+Joyful Noise,5.8,8300
+Deliver Us from Evil,6.2,75000
+Dune,6.4,155000
+Nuts,6.6,6300
+Get Rich or Die Tryin&apos;,5.4,46000
+Morning Glory,6.5,77000
+Collateral Beauty,6.8,97000
+Calendar Girls,6.9,26000
+The Pirates! In an Adventure with Scientists!,6.7,47000
+Conan the Destroyer,5.9,79000
+Air America,5.8,28000
+High Anxiety,6.7,21000
+Picture Perfect,5.5,20000
+Crimson Peak,6.5,141000
+How High,6.3,57000
+Charlie St. Cloud,6.4,61000
+Gods of Egypt,5.4,113000
+A Perfect World,7.5,78000
+The Mortal Instruments: City of Bones,5.9,131000
+The Debt,6.8,68000
+The Secret Garden,7.3,40000
+The Core,5.5,97000
+Leatherheads,6.0,32000
+From Hell,6.8,152000
+House at the End of the Street,5.6,76000
+August Rush,7.5,106000
+The Soloist,6.7,53000
+History of the World: Part I,6.9,48000
+Quarantine,5.9,72000
+Transporter 3,6.1,163000
+The Wedding Date,6.2,51000
+9,7.1,137000
+1941,5.8,33000
+Push,6.1,109000
+Children of a Lesser God,7.2,16000
+Milk,7.5,170000
+Extremely Loud &amp; Incredibly Close,6.9,100000
+Patriots Day,7.4,99000
+Cop &amp; ½,4.1,8700
+Dressed to Kill,7.1,40000
+Lake Placid,5.7,59000
+Murder by Numbers,6.2,56000
+Leaving Las Vegas,7.5,120000
+Cold Pursuit,6.2,64000
+Side Effects,7.1,186000
+The Age of Innocence,7.2,57000
+The Love Guru,3.8,52000
+Anacondas: The Hunt for the Blood Orchid,4.7,31000
+Kevin Hart: Let Me Explain,6.8,8900
+Nightcrawler,7.8,505000
+Hung fan kui,6.8,41000
+Entourage,6.6,79000
+(500) Days of Summer,7.7,493000
+Bride of Chucky,5.5,57000
+Love &amp; Other Drugs,6.7,194000
+The Men Who Stare at Goats,6.2,130000
+Mother&apos;s Day,5.7,36000
+October Sky,7.8,88000
+Paranormal Activity: The Marked Ones,5.0,42000
+Jungle Fever,6.6,18000
+Almost Famous,7.9,268000
+Unfriended,5.5,73000
+Darkness Falls,5.0,31000
+The Pianist,8.5,782000
+Proof of Life,6.3,57000
+Hard Target,6.2,49000
+Bad News Bears,5.8,21000
+Blade Runner,8.1,733000
+Mercury Rising,6.1,72000
+Friday the 13th: The Final Chapter,6.0,50000
+TRON,6.8,118000
+Friday After Next,5.8,27000
+*batteries not included,6.7,35000
+Dracula 2000,4.9,33000
+The Rite,6.0,95000
+Arthur,5.7,52000
+Daylight,5.9,71000
+The Second Best Exotic Marigold Hotel,6.6,33000
+Zodiac,7.7,507000
+Matilda,6.9,141000
+Le fabuleux destin d&apos;Amélie Poulain,8.3,731000
+Child&apos;s Play,6.6,97000
+Silverado,7.2,42000
+The Informant!,6.4,65000
+Mr. Bean&apos;s Holiday,6.4,122000
+Woman in Gold,7.3,57000
+The Long Kiss Goodnight,6.8,78000
+See Spot Run,5.4,9200
+Monster Trucks,5.7,17000
+Planet of the Apes,8.0,174000
+Doubt,7.5,127000
+Curly Sue,5.9,21000
+Blue Jasmine,7.3,198000
+Dreamcatcher,5.5,91000
+Where the Heart Is,6.8,33000
+Carrie,7.4,179000
+Geostorm,5.3,103000
+Wind River,7.7,231000
+The Pink Panther Strikes Again,7.2,29000
+All About Steve,4.8,41000
+Darkman,6.4,62000
+The Relic,5.8,27000
+Mickey Blue Eyes,5.9,36000
+Closer,7.2,212000
+Death Wish,6.3,70000
+The Duff,6.5,90000
+King Ralph,5.3,16000
+Snakes on a Plane,5.4,137000
+Instinct,6.6,33000
+My Dog Skip,7.0,20000
+The Best Man,6.8,10000
+The Reader,7.6,238000
+The Hunted,6.1,46000
+Tommy,6.6,20000
+This Is Where I Leave You,6.6,77000
+Malibu&apos;s Most Wanted,5.2,19000
+Licence to Kill,6.6,101000
+"Everything, Everything",6.4,37000
+Alexander,5.6,167000
+Dangerous Liaisons,7.6,68000
+The Killing Fields,7.8,54000
+Judge Dredd,5.6,115000
+Cradle 2 the Grave,5.8,44000
+Psycho II,6.5,26000
+A Thin Line Between Love and Hate,5.7,4800
+White Fang,6.7,20000
+Take the Lead,6.6,25000
+Good Luck Chuck,5.6,89000
+The 5th Wave,5.2,106000
+Excalibur,7.4,60000
+Red Heat,6.1,68000
+Freddy&apos;s Dead: The Final Nightmare,4.9,45000
+Midnight Express,7.6,77000
+The Skulls,5.6,32000
+50/50,7.6,324000
+A Very Harold &amp; Kumar 3D Christmas,6.3,68000
+Green Zone,6.8,135000
+A Goofy Movie,6.9,51000
+The Watch,5.7,125000
+The Messengers,5.4,39000
+Live and Let Die,6.8,104000
+The Gauntlet,6.4,22000
+Intolerable Cruelty,6.2,95000
+The Hustle,5.4,54000
+Peppermint,6.5,62000
+Mermaids,6.7,31000
+Ad Astra,6.5,220000
+No Way Out,7.1,39000
+Children of Men,7.9,484000
+The American,6.3,95000
+Silkwood,7.2,20000
+Larry Crowne,6.1,66000
+The Indian in the Cupboard,6.0,28000
+Smokin&apos; Aces,6.7,143000
+Robin Hood: Men in Tights,6.7,122000
+Trouble with the Curve,6.8,63000
+Changeling,7.7,249000
+Shine,7.7,53000
+The Mothman Prophecies,6.4,79000
+The Island,6.8,310000
+The 15:17 to Paris,5.3,32000
+The Nice Guys,7.4,305000
+The Sentinel,6.1,49000
+Sliver,5.1,31000
+The Commuter,6.3,111000
+Death Race,6.3,205000
+Universal Soldier,6.1,87000
+Sucker Punch,6.0,239000
+The Thin Red Line,7.6,182000
+Million Dollar Arm,7.0,45000
+The &apos;Burbs,6.9,73000
+Freedom Writers,7.6,76000
+Taxi,4.5,42000
+Gung Ho,6.3,13000
+Soapdish,6.6,16000
+Vampires Suck,3.4,48000
+8MM,6.5,130000
+Colombiana,6.4,99000
+Friday the 13th Part III,5.7,52000
+Alive,7.1,54000
+Sphere,6.1,105000
+State of Play,7.1,149000
+Keeping the Faith,6.4,51000
+30 Minutes or Less,6.1,98000
+Brubaker,7.2,17000
+The Guilt Trip,5.8,37000
+28 Days,6.1,48000
+Crossroads,3.6,40000
+Jumping the Broom,5.7,11000
+The Change-Up,6.3,177000
+Lawless,7.3,237000
+J. Edgar,6.5,126000
+Man of the Year,6.2,33000
+Raising Helen,6.0,36000
+The Longest Ride,7.1,80000
+Paul,7.0,245000
+The Back-up Plan,5.4,49000
+Invictus,7.3,156000
+Out of Sight,7.0,90000
+In Time,6.7,393000
+First Knight,6.0,72000
+"Big Mommas: Like Father, Like Son",4.5,27000
+Abraham Lincoln: Vampire Hunter,5.9,153000
+Good Boy!,5.1,4400
+The Brothers Grimm,5.9,119000
+Postcards from the Edge,6.7,17000
+Seven Years in Tibet,7.1,138000
+Dead Again,6.9,27000
+Jigsaw,5.8,76000
+Urban Legend,5.6,64000
+Ri¢hie Ri¢h,5.4,67000
+40 Days and 40 Nights,5.6,73000
+Spaceballs,7.1,183000
+Showtime,5.5,62000
+Bill &amp; Ted&apos;s Bogus Journey,6.3,74000
+The Running Man,6.7,148000
+Ninja Assassin,6.3,71000
+10 Things I Hate About You,7.3,320000
+Treasure Planet,7.2,111000
+Scream 4,6.2,136000
+The Original Kings of Comedy,6.8,5700
+Mighty Morphin Power Rangers: The Movie,5.2,27000
+Meet the Spartans,2.8,107000
+Brooklyn,7.5,138000
+Stardust,7.6,265000
+Undercover Brother,5.9,35000
+About Last Night...,6.3,16000
+Little Shop of Horrors,7.1,72000
+Hot Shots! Part Deux,6.6,88000
+The Paper,6.7,14000
+Romeo and Juliet,7.6,31000
+Cruel Intentions,6.8,187000
+Earth to Echo,5.8,19000
+Crawl,6.1,79000
+The Sisterhood of the Traveling Pants,6.5,59000
+Something Borrowed,5.9,61000
+What&apos;s Love Got to Do with It,7.3,20000
+Primary Colors,6.7,29000
+The Grudge 2,5.1,49000
+The Crazies,6.5,117000
+The Adventures of Sharkboy and Lavagirl 3-D,3.7,36000
+King Arthur: Legend of the Sword,6.7,207000
+Annie Hall,8.0,260000
+Pitch Black,7.1,233000
+Three Amigos!,6.5,73000
+Lakeview Terrace,6.1,51000
+Second Act,5.8,26000
+Anna and the King,6.7,37000
+The Beach,6.7,232000
+The Ladykillers,6.2,103000
+Friday the 13th,6.4,133000
+Caddyshack,7.3,113000
+The Illusionist,7.6,365000
+I Still Know What You Did Last Summer,4.7,72000
+Enough,5.8,42000
+Roxanne,6.6,43000
+A Haunted House,5.0,46000
+You Got Served,3.9,28000
+Hannah and Her Sisters,7.9,70000
+Collateral Damage,5.5,74000
+Righteous Kill,6.0,87000
+Pete&apos;s Dragon,6.4,24000
+Allied,7.1,151000
+The Faculty,6.5,118000
+Resident Evil,6.7,260000
+Stranger Than Fiction,7.5,225000
+The Piano,7.6,84000
+Legion,5.3,103000
+2010: The Year We Make Contact,6.8,52000
+Catwoman,3.4,116000
+Yentl,6.6,14000
+Bridget Jones: The Edge of Reason,6.0,111000
+Mo&apos; Money,5.5,7500
+Three Fugitives,6.2,11000
+The Dark Crystal,7.2,65000
+Max Payne,5.3,125000
+Hard Ball,6.4,30000
+Short Circuit,6.7,60000
+Absence of Malice,6.9,13000
+Breakthrough,6.3,9300
+"Love, Simon",7.6,108000
+House on Haunted Hill,5.6,56000
+Falling Down,7.6,182000
+Windtalkers,6.1,68000
+Rocky V,5.3,133000
+The Ides of March,7.1,220000
+The Siege,6.4,72000
+Out of Time,6.5,60000
+End of Watch,7.6,239000
+Money Monster,6.5,98000
+The Last Exorcism,5.7,49000
+Money Talks,6.2,29000
+Clash of the Titans,6.9,43000
+What to Expect When You&apos;re Expecting,5.7,72000
+Private Parts,6.9,36000
+A Walk to Remember,7.3,206000
+Valerian and the City of a Thousand Planets,6.5,174000
+The Peacemaker,6.0,57000
+The Mirror Has Two Faces,6.6,19000
+Tequila Sunrise,6.1,31000
+Ronin,7.3,179000
+John Tucker Must Die,5.8,82000
+The Angry Birds Movie 2,6.4,26000
+The Hours,7.5,129000
+Almost Christmas,6.1,6600
+Easy Rider,7.3,107000
+The Hills Have Eyes,6.4,166000
+Exorcist: The Beginning,5.1,36000
+Nights in Rodanthe,6.0,25000
+The Return of the Pink Panther,7.1,27000
+Thir13en Ghosts,5.6,85000
+AVPR: Aliens vs Predator - Requiem,4.6,121000
+The Fisher King,7.5,83000
+A Dog&apos;s Way Home,6.7,17000
+Donnie Brasco,7.7,294000
+Around the World in 80 Days,6.8,26000
+Riddick,6.4,161000
+Dolphin Tale 2,6.4,8900
+Spanglish,6.4,82000
+Planet 51,6.0,54000
+Fever Pitch,6.2,44000
+White Nights,6.7,7200
+Lady in the Water,5.5,98000
+The Cabin in the Woods,7.0,399000
+Blue Thunder,6.4,20000
+Birdman or (The Unexpected Virtue of Ignorance),7.7,607000
+Bullitt,7.4,66000
+Heartbreak Ridge,6.9,42000
+Resident Evil: Retribution,5.4,138000
+Rambo,7.0,226000
+The Devil&apos;s Own,6.2,63000
+The Big Sick,7.5,130000
+Snitch,6.4,87000
+Gulliver&apos;s Travels,4.9,68000
+Rumor Has It...,5.5,57000
+Regarding Henry,6.7,31000
+Escape from Alcatraz,7.6,129000
+The Night Before,6.4,72000
+John Wick,7.4,588000
+Reign of Fire,6.2,132000
+You Only Live Twice,6.8,105000
+Transporter 2,6.3,198000
+Sense and Sensibility,7.7,111000
+Biloxi Blues,6.6,15000
+A Million Ways to Die in the West,6.1,185000
+Point Break,7.3,172000
+No Reservations,6.3,74000
+War Dogs,7.1,199000
+K-9,6.0,33000
+Star Trek: Nemesis,6.4,77000
+Edge of Darkness,6.6,93000
+Everest,7.1,211000
+Soul Food,7.0,7900
+Drop Dead Fred,5.9,28000
+Must Love Dogs,5.9,32000
+The One,5.9,91000
+Speed Racer,6.0,72000
+The Shining,8.4,959000
+The Beverly Hillbillies,5.0,18000
+Passenger 57,5.9,47000
+Hereditary,7.3,278000
+St. Vincent,7.2,99000
+The Sisterhood of the Traveling Pants 2,6.2,29000
+Young Guns II,6.5,35000
+Amistad,7.3,75000
+47 Meters Down,5.7,53000
+The Three Stooges,5.1,31000
+The Jungle Book,6.0,17000
+Up in Smoke,6.9,38000
+Nothing to Lose,6.7,46000
+No se aceptan devoluciones,7.5,30000
+The Negotiator,7.3,137000
+"McFarland, USA",7.4,37000
+Lost in Translation,7.7,437000
+The Good Son,6.4,40000
+Meet Joe Black,7.2,229000
+Going in Style,6.6,82000
+Smurfs: The Lost Village,6.0,20000
+Hall Pass,5.8,124000
+Spotlight,8.1,448000
+The Giver,6.5,116000
+28 Days Later...,7.6,397000
+Wonder Park,5.9,11000
+Domestic Disturbance,5.6,27000
+Here Comes the Boom,6.4,89000
+Bean,6.5,102000
+Thelma &amp; Louise,7.5,147000
+Ma,5.6,51000
+The Man from U.N.C.L.E.,7.3,294000
+Medicine Man,6.1,23000
+Moonrise Kingdom,7.8,336000
+Jaws 3-D,3.7,43000
+12 Strong,6.6,75000
+"O Brother, Where Art Thou?",7.7,301000
+The Great Wall,5.9,131000
+The Tigger Movie,6.4,18000
+Scarface,8.3,789000
+Young Guns,6.9,59000
+RoboCop 2,5.8,84000
+Saw 3D,5.6,96000
+Manhattan,7.9,137000
+Five Feet Apart,7.2,57000
+Breaking In,5.5,15000
+Wonder Woman 1984,5.4,241000
+The Best Exotic Marigold Hotel,7.3,93000
+The Legend of Zorro,6.0,99000
+Phone Booth,7.0,261000
+Colors,6.7,26000
+The Distinguished Gentleman,5.9,16000
+Practical Magic,6.3,78000
+The Rocketeer,6.5,56000
+Firefox,6.0,27000
+Boogeyman,4.2,31000
+Goosebumps 2: Haunted Halloween,5.6,20000
+The River Wild,6.4,45000
+How to Be Single,6.1,85000
+Goodfellas,8.7,1100000
+"Dude, Where&apos;s My Car?",5.5,138000
+Red Sparrow,6.6,178000
+"See No Evil, Hear No Evil",6.9,53000
+Sicario,7.6,404000
+The Spy Who Loved Me,7.1,105000
+Final Destination 2,6.2,161000
+Silent Hill,6.5,223000
+Halloween,7.7,260000
+Killers,5.5,90000
+The Judge,7.4,187000
+Dan in Real Life,6.7,101000
+Shooter,7.2,324000
+Jersey Boys,6.8,34000
+The Rundown,6.7,105000
+Alien: Resurrection,6.2,240000
+The Skeleton Key,6.5,111000
+Big Fat Liar,5.5,37000
+Premonition,5.9,76000
+Single White Female,6.4,35000
+When a Stranger Calls,5.1,45000
+Vice,7.2,136000
+Agent Cody Banks,5.1,34000
+The Natural,7.5,47000
+Nim&apos;s Island,6.0,35000
+Secret Window,6.5,190000
+The Land Before Time,7.4,85000
+Sinister,6.8,237000
+Kick-Ass,7.6,544000
+Fat Albert,4.4,12000
+The Preacher&apos;s Wife,5.6,12000
+G.I. Jane,6.0,78000
+Wayne&apos;s World 2,6.2,81000
+Mask,7.2,28000
+The House Bunny,5.5,82000
+Malcolm X,7.7,91000
+Just Like Heaven,6.7,104000
+Bugsy,6.8,28000
+This Christmas,6.3,9200
+The Possession,5.9,59000
+My Sister&apos;s Keeper,7.3,92000
+Volcano,5.5,75000
+BlacKkKlansman,7.5,247000
+National Lampoon&apos;s European Vacation,6.2,63000
+Shampoo,6.4,12000
+Land of the Lost,5.3,69000
+Runaway Jury,7.1,95000
+"Planes, Trains &amp; Automobiles",7.6,135000
+Are We Done Yet?,4.3,21000
+Australia,6.6,122000
+Racing Stripes,5.2,17000
+Major League,7.2,66000
+Popeye,5.3,31000
+Old Dogs,5.3,37000
+Legal Eagles,6.0,11000
+Pain &amp; Gain,6.4,211000
+Red Tails,5.9,35000
+Woodstock,8.2,17000
+Dog Day Afternoon,8.0,248000
+A Walk in the Clouds,6.7,33000
+Absolute Power,6.7,53000
+Last Action Hero,6.4,146000
+Under Siege 2: Dark Territory,5.5,46000
+Fletch,6.9,51000
+Mighty Joe Young,5.7,29000
+Diary of a Mad Black Woman,5.8,14000
+The Crow,7.6,176000
+The Net,6.0,65000
+The Dark Tower,5.6,135000
+A Bridge Too Far,7.4,55000
+The Hurricane,7.6,95000
+Ouija,4.5,51000
+Syriana,6.9,129000
+The Mighty Ducks,6.6,64000
+Bull Durham,7.1,52000
+Apocalypto,7.8,303000
+Goldfinger,7.7,184000
+The Hitchhiker&apos;s Guide to the Galaxy,6.7,193000
+The Predator,5.3,124000
+Up Close &amp; Personal,6.2,14000
+Hide and Seek,6.0,84000
+Naked Gun 33 1/3: The Final Insult,6.5,102000
+Muppets Most Wanted,6.4,34000
+The Living Daylights,6.7,95000
+I Can Do Bad All by Myself,4.6,10000
+Lion,8.0,227000
+Exit Wounds,5.6,35000
+The Little Rascals,6.3,47000
+Footloose,5.9,48000
+The Odd Life of Timothy Green,6.6,46000
+Funny People,6.3,117000
+Atonement,7.8,266000
+The Call,6.7,118000
+King Arthur,6.3,164000
+Ghost Rider: Spirit of Vengeance,4.3,116000
+Underworld,7.0,263000
+The Forbidden Kingdom,6.6,104000
+Selma,7.5,90000
+Awakenings,7.8,135000
+Identity,7.3,238000
+Predators,6.4,220000
+Radio,6.9,40000
+The Color of Money,7.0,80000
+Stand by Me,8.1,384000
+The Lake House,6.8,146000
+The Royal Tenenbaums,7.6,281000
+Blade: Trinity,5.8,172000
+Insidious: Chapter 3,6.1,101000
+Southpaw,7.4,229000
+Kicking &amp; Screaming,5.6,37000
+Arachnophobia,6.4,68000
+The Prestige,8.5,1300000
+A Madea Christmas,4.9,6200
+RED 2,6.6,167000
+Final Destination,6.7,243000
+Papillon,8.0,127000
+Beethoven&apos;s 2nd,5.0,27000
+Corpse Bride,7.3,260000
+Life as We Know It,6.5,128000
+"Yours, Mine &amp; Ours",5.5,28000
+Gisaengchung,8.6,693000
+Problem Child,5.5,30000
+A Simple Favor,6.8,141000
+Rookie of the Year,6.1,27000
+P.S. I Love You,7.0,206000
+Sabrina,6.3,39000
+3:10 to Yuma,7.7,301000
+Ying xiong,7.9,179000
+Paycheck,6.3,107000
+Tin Cup,6.4,49000
+Rambo III,5.8,128000
+Focus,6.6,234000
+Austin Powers: International Man of Mystery,7.0,232000
+The Three Musketeers,6.4,53000
+Insidious,6.8,296000
+Barbershop: The Next Cut,5.9,15000
+Assassin&apos;s Creed,5.7,194000
+Small Soldiers,6.2,97000
+Pet Sematary,5.7,89000
+Source Code,7.5,504000
+The Curse of La Llorona,5.3,47000
+Paranormal Activity 4,4.6,65000
+This Means War,6.3,182000
+Doc Hollywood,6.2,36000
+Starship Troopers,7.2,283000
+The Jackal,6.4,113000
+The Nutcracker and the Four Realms,5.6,32000
+Spawn,5.2,67000
+Don&apos;t Say a Word,6.3,51000
+Dora and the Lost City of Gold,6.1,29000
+The Guardian,6.9,91000
+Halloween H20: 20 Years Later,5.8,72000
+I Am Number Four,6.1,234000
+The Haunting in Connecticut,5.9,61000
+Ghosts of Girlfriends Past,5.8,88000
+Never Been Kissed,6.1,88000
+The BFG,6.4,83000
+What Dreams May Come,7.0,107000
+Alien³,6.5,290000
+Snake Eyes,6.0,79000
+Never Say Never Again,6.2,66000
+Legend of the Guardians: The Owls of Ga&apos;Hoole,6.9,81000
+Happy Death Day,6.6,131000
+Eyes Wide Shut,7.4,323000
+Hansel &amp; Gretel: Witch Hunters,6.1,202000
+Executive Decision,6.4,55000
+A Knight&apos;s Tale,7.0,181000
+Rat Race,6.4,113000
+12 Years a Slave,8.1,672000
+Clueless,6.9,202000
+The Time Machine,6.0,123000
+Guess Who&apos;s Coming to Dinner,7.8,43000
+Shanghai Noon,6.6,124000
+2001: A Space Odyssey,8.3,638000
+Escape Room,6.4,110000
+The Man in the Iron Mask,6.5,163000
+Beaches,7.0,25000
+Midnight in Paris,7.7,407000
+Annie,6.6,43000
+Twelve Monkeys,8.0,600000
+U.S. Marshals,6.6,101000
+The Blues Brothers,7.9,192000
+13 Going on 30,6.2,180000
+The Whole Nine Yards,6.7,118000
+Takers,6.2,61000
+Cleopatra,7.0,32000
+The Chronicles of Riddick,6.7,222000
+Invincible,7.1,69000
+Throw Momma from the Train,6.3,36000
+Shall We Dance?,6.1,46000
+The Butterfly Effect,7.6,471000
+The Lincoln Lawyer,7.3,227000
+Step Up 2: The Streets,6.2,86000
+Maze Runner: The Death Cure,6.3,128000
+Bicentennial Man,6.9,115000
+Demolition Man,6.7,168000
+Without a Paddle,5.9,46000
+Ali,6.8,97000
+The Secret Life of Walter Mitty,7.3,306000
+Baywatch,5.5,177000
+Tomb Raider,6.3,205000
+Open Range,7.4,71000
+Anastasia,7.2,119000
+Easy A,7.0,376000
+Funny Girl,7.4,22000
+Tenet,7.4,441000
+The Croods: A New Age,7.0,36000
+HouseSitter,6.1,24000
+Sea of Love,6.8,40000
+RoboCop,6.1,223000
+Jack,5.8,60000
+Curious George,6.5,16000
+Water for Elephants,6.9,114000
+Little Man,4.5,53000
+"Honey, I Blew Up the Kid",4.9,43000
+Jack Reacher: Never Go Back,6.2,149000
+Gothika,5.8,111000
+Son of God,5.8,19000
+Love Actually,7.6,459000
+Secretariat,7.2,28000
+The Benchwarmers,5.5,50000
+My Girl,6.9,77000
+Predator,7.8,392000
+Pacific Rim: Uprising,5.6,113000
+Little Miss Sunshine,7.8,459000
+Jungle 2 Jungle,5.2,24000
+Superman III,5.0,68000
+The Good Shepherd,6.7,102000
+Snow Day,5.1,12000
+Bad Santa,7.0,140000
+Spies Like Us,6.4,48000
+Resident Evil: Afterlife,5.8,168000
+The Cable Guy,6.1,160000
+Baby Mama,6.0,44000
+The Family Stone,6.3,66000
+Burn After Reading,7.0,323000
+Scrooged,7.0,95000
+Species,5.8,78000
+The Lucky One,6.5,105000
+Shanghai Knights,6.2,104000
+After Earth,4.8,197000
+The Saint,6.2,66000
+The Wedding Planner,5.4,79000
+National Lampoon&apos;s Vacation,7.4,104000
+Deepwater Horizon,7.1,162000
+Stomp the Yard,5.5,25000
+The Goonies,7.8,259000
+Flatliners,6.6,84000
+Rules of Engagement,6.4,47000
+Cinderella Man,8.0,183000
+Miracles from Heaven,7.1,24000
+Patton,7.9,99000
+The Electric Horseman,6.4,9300
+Ender&apos;s Game,6.6,233000
+The Wolfman,5.8,105000
+Splash,6.3,75000
+Bewitched,4.8,71000
+A Beautiful Day in the Neighborhood,7.3,72000
+Terminator: Dark Fate,6.2,166000
+Underworld: Evolution,6.7,196000
+The Adjustment Bureau,7.0,252000
+For Your Eyes Only,6.7,98000
+The Call of the Wild,6.8,45000
+Underworld: Awakening,6.3,151000
+The Fast and the Furious: Tokyo Drift,6.0,260000
+Black Mass,6.9,175000
+Jarhead,7.0,183000
+London Has Fallen,5.9,153000
+Scary Stories to Tell in the Dark,6.2,71000
+Unknown,6.8,257000
+The Witches of Eastwick,6.6,67000
+The Last Song,6.0,85000
+Life,6.8,49000
+The Shape of Water,7.3,399000
+In &amp; Out,6.4,41000
+Last Vegas,6.6,131000
+Sky High,6.2,84000
+Diary of a Wimpy Kid,6.2,47000
+Working Girl,6.8,55000
+Happy Feet Two,5.9,44000
+Deja Vu,7.1,303000
+Ice Age: Collision Course,5.7,62000
+17 Again,6.4,192000
+Down to Earth,5.5,24000
+Miracle,7.5,52000
+The Purge,5.8,215000
+L.A. Confidential,8.2,559000
+The Happening,5.0,203000
+A Dog&apos;s Purpose,7.2,70000
+Chronicle,7.0,246000
+Jackass: The Movie,6.6,87000
+Flushed Away,6.6,120000
+Staying Alive,4.7,16000
+Battleship,5.8,243000
+The Taking of Pelham 123,6.4,193000
+Madea&apos;s Witness Protection,5.0,11000
+Deuce Bigalow: Male Gigolo,5.7,74000
+Lara Croft Tomb Raider: The Cradle of Life,5.6,136000
+Bad Boys,6.9,254000
+Dark Phoenix,5.7,174000
+Magic Mike XXL,5.6,55000
+Herbie Fully Loaded,4.8,47000
+EverAfter,7.1,73000
+Anaconda,4.8,102000
+Allegiant,5.7,117000
+Kill Bill: Vol. 2,8.0,722000
+Big Fish,8.0,430000
+Warm Bodies,6.8,227000
+The Manchurian Candidate,6.6,109000
+The League of Extraordinary Gentlemen,5.8,173000
+The Final Destination,5.2,102000
+Looper,7.4,557000
+Babe,6.8,122000
+Contraband,6.4,121000
+Legends of the Fall,7.5,159000
+The Forgotten,5.8,65000
+Charlie Wilson&apos;s War,7.0,115000
+The Bone Collector,6.7,163000
+The Godfather: Part III,7.6,379000
+Spies in Disguise,6.8,44000
+A Good Day to Die Hard,5.3,204000
+Insomnia,7.2,287000
+Instant Family,7.3,101000
+Holes,7.0,84000
+This Is 40,6.2,135000
+The Tourist,6.0,235000
+A Perfect Murder,6.5,83000
+Heat,8.2,618000
+Sudden Impact,6.6,44000
+Insidious: The Last Key,5.7,57000
+Outbreak,6.6,126000
+Mr. Popper&apos;s Penguins,6.0,93000
+Octopussy,6.5,102000
+Obsessed,5.0,32000
+Bring It On,6.1,93000
+Purple Rain,6.5,21000
+Blue Streak,6.3,81000
+The House with a Clock in Its Walls,6.1,50000
+Percy Jackson: Sea of Monsters,5.8,115000
+Witness,7.4,92000
+Skyscraper,5.8,117000
+Cool Runnings,7.0,99000
+Sahara,6.0,96000
+Guess Who,5.9,42000
+Good Boys,6.7,70000
+Lost in Space,5.2,71000
+Book Club,6.1,27000
+Game Night,6.9,223000
+The Thomas Crown Affair,6.9,91000
+Vertical Limit,5.9,61000
+The Big Short,7.8,398000
+Fool&apos;s Gold,5.7,77000
+Rocky Balboa,7.1,211000
+Moonraker,6.3,97000
+Shaft,6.0,76000
+Mortal Kombat,5.8,115000
+The Invisible Man,7.1,201000
+V for Vendetta,8.1,1100000
+The Best Man Holiday,6.7,16000
+No Strings Attached,6.2,223000
+Any Which Way You Can,6.2,19000
+JFK,8.0,150000
+All the President&apos;s Men,8.0,111000
+Broken Arrow,6.1,96000
+White Chicks,5.7,139000
+Shallow Hal,5.9,131000
+Bird on a Wire,6.0,43000
+Groundhog Day,8.0,600000
+The Smurfs 2,5.3,41000
+Paul Blart: Mall Cop 2,4.4,36000
+Turner &amp; Hooch,6.2,69000
+The Score,6.8,126000
+The Spiderwick Chronicles,6.5,93000
+The Rescuers,6.9,62000
+Safe Haven,6.7,108000
+"I Love You, Man",7.0,200000
+The Cannonball Run,6.3,35000
+Vantage Point,6.6,148000
+I Know What You Did Last Summer,5.7,141000
+Bridge of Spies,7.6,302000
+Hercules,6.0,152000
+Dolphin Tale,6.8,24000
+The Interpreter,6.4,104000
+Jackass Number Two,7.0,70000
+Justin Bieber: Never Say Never,1.6,76000
+Hotel for Dogs,5.4,23000
+John Carter,6.6,265000
+White House Down,6.3,215000
+Boo! A Madea Halloween,4.6,8300
+Hollow Man,5.8,128000
+Law Abiding Citizen,7.4,286000
+Yesterday,6.8,142000
+Beetle Juice,7.5,284000
+Monster House,6.6,112000
+Christmas with the Kranks,5.4,48000
+A Madea Family Funeral,4.5,4200
+Hugo,7.5,315000
+Captain Underpants: The First Epic Movie,6.2,27000
+Along Came a Spider,6.4,82000
+Deep Blue Sea,5.9,131000
+Sin City,8.0,753000
+The Girl on the Train,6.5,181000
+The Hitman&apos;s Bodyguard,6.9,217000
+Any Given Sunday,6.9,116000
+The Last of the Mohicans,7.7,162000
+Zombieland,7.6,549000
+The Rookie,6.9,34000
+Braveheart,8.3,998000
+Moneyball,7.6,398000
+We Bought a Zoo,7.1,140000
+Oliver &amp; Company,6.7,47000
+2 Guns,6.7,206000
+"You, Me and Dupree",5.6,80000
+Contagion,6.8,295000
+Star Trek: Generations,6.6,80000
+Hellboy II: The Golden Army,7.0,264000
+The Intern,7.1,240000
+Barbershop,6.3,31000
+The Family Man,6.8,108000
+The Haunted Mansion,5.1,47000
+The Jewel of the Nile,6.1,55000
+Constantine,7.0,327000
+Conspiracy Theory,6.7,98000
+The Ring Two,5.4,94000
+Pete&apos;s Dragon,6.7,57000
+The Untouchables,7.9,298000
+Paddington,7.3,107000
+Fantasia,7.7,93000
+Knight and Day,6.3,189000
+Star Trek III: The Search for Spock,6.7,78000
+Cocoon,6.7,61000
+Free Willy,6.0,73000
+Backdraft,6.7,77000
+Gangs of New York,7.5,425000
+The Terminal,7.4,435000
+Man on Fire,7.7,349000
+Hooper,6.4,6600
+Tower Heist,6.2,140000
+The Monuments Men,6.1,129000
+Cocktail,5.9,83000
+A.I. Artificial Intelligence,7.2,300000
+Teenage Mutant Ninja Turtles II: The Secret of the Ooze,6.0,54000
+City of Angels,6.7,118000
+The Naked Gun: From the Files of Police Squad!,7.6,162000
+The English Patient,7.4,186000
+Pixels,5.5,139000
+Alien,8.4,835000
+Star Trek II: The Wrath of Khan,7.7,118000
+Cape Fear,7.3,186000
+The Day the Earth Stood Still,5.5,168000
+48 Hrs.,6.9,75000
+Hannah Montana: The Movie,4.6,42000
+WarGames,7.1,96000
+The Purge: Election Year,6.0,97000
+Earthquake,5.9,16000
+Dark Shadows,6.2,258000
+The Golden Child,6.0,55000
+War Horse,7.2,153000
+Knowing,6.2,229000
+Moonstruck,7.1,56000
+Men in Black: International,5.6,126000
+Dear John,6.3,145000
+A Star Is Born,6.1,11000
+Eat Pray Love,5.8,94000
+Another 48 Hrs.,5.9,41000
+Jimmy Neutron: Boy Genius,6.1,33000
+The Notebook,7.8,547000
+Congo,5.3,45000
+While You Were Sleeping,6.7,98000
+21,6.8,241000
+Snow Dogs,5.2,26000
+The Talented Mr. Ripley,7.4,200000
+Payback,7.1,136000
+Unstoppable,6.8,193000
+M*A*S*H,7.4,71000
+Eight Below,7.3,63000
+Maze Runner: The Scorch Trials,6.3,237000
+Teenage Mutant Ninja Turtles: Out of the Shadows,6.0,89000
+Beowulf,6.2,166000
+Star Trek: The Motion Picture,6.4,87000
+Bridge to Terabithia,7.2,151000
+The Pink Panther,5.7,85000
+Blade II,6.7,210000
+Let&apos;s Be Cops,6.4,131000
+Mr. Holland&apos;s Opus,7.3,38000
+Dracula,7.4,208000
+Cheaper by the Dozen 2,5.5,57000
+The Descendants,7.3,238000
+Insidious: Chapter 2,6.6,165000
+Freddy vs. Jason,5.7,116000
+Steel Magnolias,7.3,52000
+Wrath of the Titans,5.7,186000
+The X Files,7.0,104000
+The Other Woman,6.0,136000
+Cliffhanger,6.5,126000
+Atlantis: The Lost Empire,6.9,113000
+Scooby-Doo 2: Monsters Unleashed,5.2,54000
+Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn,6.1,217000
+Pinocchio,7.4,139000
+Annabelle,5.4,152000
+Ferdinand,6.8,54000
+"Crazy, Stupid, Love.",7.4,498000
+The Santa Clause 3: The Escape Clause,4.8,36000
+Dangerous Minds,6.5,51000
+Tammy,4.9,51000
+The Poseidon Adventure,7.1,43000
+Cinderella,7.3,153000
+The Expendables 2,6.6,301000
+Green Book,8.2,439000
+Open Season,6.1,92000
+Aliens,8.3,687000
+Stripes,6.9,71000
+Power Rangers,5.9,106000
+Real Steel,7.0,314000
+Pineapple Express,6.9,329000
+Alita: Battle Angel,7.3,252000
+Entrapment,6.3,113000
+The SpongeBob SquarePants Movie,7.1,86000
+The Hand That Rocks the Cradle,6.7,42000
+Along Came Polly,6.0,133000
+Starsky &amp; Hutch,6.1,144000
+Waterworld,6.2,190000
+Inside Man,7.6,358000
+Back to the Future Part III,7.4,427000
+The Muppets,7.1,91000
+Failure to Launch,5.6,78000
+Peter Pan,7.3,134000
+The Ugly Truth,6.4,213000
+Scream 3,5.6,131000
+Don&apos;t Breathe,7.1,257000
+Oblivion,7.0,506000
+Taken 3,6.0,187000
+Percy Jackson &amp; the Olympians: The Lightning Thief,5.9,184000
+The Emperor&apos;s New Groove,7.4,193000
+Mystic River,7.9,441000
+Flightplan,6.3,158000
+Terminator Genisys,6.3,270000
+Get Hard,6.0,131000
+The Lone Ranger,6.4,229000
+Space Jam,6.5,191000
+John Wick: Chapter 2,7.5,402000
+Space Cowboys,6.5,79000
+RED,7.0,301000
+The Client,6.8,64000
+Blade Runner 2049,8.0,519000
+Flubber,5.3,88000
+Non-Stop,6.9,259000
+When Harry Met Sally...,7.6,208000
+The Town,7.5,372000
+Elysium,6.6,435000
+Red Dragon,7.2,264000
+Two Weeks Notice,6.2,115000
+Cats &amp; Dogs,5.1,59000
+The Magnificent Seven,6.9,202000
+Tomorrowland,6.4,179000
+The Bucket List,7.4,240000
+Lady and the Tramp,7.3,130000
+America&apos;s Sweethearts,5.7,57000
+The Fighter,7.8,354000
+The Ten Commandments,7.9,68000
+Flight,7.3,341000
+Master and Commander: The Far Side of the World,7.4,214000
+Maid in Manhattan,5.3,87000
+Julie &amp; Julia,7.0,115000
+The Mask of Zorro,6.8,178000
+Saturday Night Fever,6.8,77000
+Beverly Hills Chihuahua,3.8,24000
+He&apos;s Just Not That Into You,6.4,168000
+"10,000 BC",5.1,129000
+The Book of Eli,6.9,307000
+42,7.5,91000
+Flashdance,6.2,51000
+Die Hard: With a Vengeance,7.6,377000
+Passengers,7.0,379000
+The Addams Family,5.8,36000
+Parenthood,7.0,48000
+The Hunchback of Notre Dame,7.0,150000
+Edge of Tomorrow,7.9,640000
+Kingsman: The Golden Circle,6.7,298000
+Yogi Bear,4.6,21000
+Cowboys &amp; Aliens,6.0,216000
+Bad Teacher,5.6,199000
+Casper,6.1,129000
+Shakespeare in Love,7.1,220000
+Fifty Shades Freed,4.5,62000
+Jumanji,7.0,328000
+Evan Almighty,5.4,144000
+Airport,6.6,19000
+A Wrinkle in Time,4.2,44000
+Eraser,6.1,108000
+Scream 2,6.2,169000
+The Equalizer,7.2,355000
+Sleeping with the Enemy,6.3,55000
+Gone in Sixty Seconds,6.5,270000
+Maverick,7.0,108000
+Journey to the Center of the Earth,5.8,119000
+Pacific Rim,6.9,484000
+The Equalizer 2,6.7,149000
+Mary Poppins,7.8,166000
+Butch Cassidy and the Sundance Kid,8.0,211000
+The Maze Runner,6.8,443000
+The Conjuring 2,7.3,254000
+The Mummy: Tomb of the Dragon Emperor,5.2,157000
+The Girl with the Dragon Tattoo,7.8,446000
+Annabelle: Creation,6.5,126000
+Daredevil,5.3,214000
+The Aviator,7.5,349000
+The General&apos;s Daughter,6.4,58000
+Murder on the Orient Express,6.5,227000
+Jaws 2,5.8,76000
+Just Go with It,6.4,233000
+The Expendables,6.5,337000
+Scream,7.3,314000
+Independence Day: Resurgence,5.2,174000
+Love Story,6.9,33000
+300: Rise of an Empire,6.2,291000
+GoldenEye,7.2,250000
+Indecent Proposal,6.0,69000
+Chicken Run,7.0,185000
+Analyze This,6.7,150000
+Miss Congeniality,6.3,200000
+Captain Phillips,7.8,442000
+Watchmen,7.6,531000
+Black Swan,8.0,732000
+Epic,6.7,103000
+A League of Their Own,7.3,101000
+Baby Driver,7.6,490000
+Paranormal Activity,6.3,231000
+Pulp Fiction,8.9,1900000
+Angry Birds,6.3,87000
+Little Women,7.8,175000
+Superman II,6.8,104000
+The Princess Diaries,6.4,137000
+Hop,5.4,33000
+Ace Ventura: When Nature Calls,6.4,211000
+The Upside,7.0,53000
+Terms of Endearment,7.4,58000
+The Last Samurai,7.7,420000
+Black Hawk Down,7.7,381000
+Doctor Zhivago,8.0,74000
+The Little Mermaid,7.6,250000
+Spy Kids 3: Game Over,4.3,58000
+Twins,6.1,120000
+Enemy of the State,7.3,237000
+The Hangover Part III,5.8,305000
+Spy Kids,5.5,114000
+It&apos;s Complicated,6.5,90000
+Dr. Dolittle 2,4.7,45000
+Ghostbusters II,6.6,196000
+Face/Off,7.2,364000
+The Pacifier,5.6,92000
+The Addams Family,6.9,148000
+The Patriot,7.2,265000
+Magic Mike,6.1,136000
+The Bourne Legacy,6.6,295000
+Wild Wild West,4.9,158000
+Night at the Museum: Secret of the Tomb,6.2,115000
+Bolt,6.8,201000
+Maleficent: Mistress of Evil,6.6,97000
+The Village,6.5,254000
+Dodgeball: A True Underdog Story,6.7,240000
+Fifty Shades Darker,4.6,98000
+Big,7.3,211000
+American Graffiti,7.4,87000
+Dumbo,6.3,72000
+Girls Trip,6.2,37000
+Rocky,8.1,547000
+Horrible Bosses,6.8,436000
+The Nun,5.3,133000
+Die Hard 2,7.1,351000
+Ford v Ferrari,8.1,346000
+Big Momma&apos;s House,5.2,84000
+Basic Instinct,7.0,191000
+Now You See Me,7.2,628000
+Back to the Future Part II,7.8,507000
+Blades of Glory,6.3,165000
+A Series of Unfortunate Events,6.8,204000
+Salt,6.4,307000
+The Break-Up,5.8,130000
+Hairspray,6.7,126000
+Fahrenheit 9/11,7.5,129000
+The Sum of All Fears,6.4,112000
+The Other Guys,6.7,256000
+Total Recall,7.5,318000
+Hook,6.8,245000
+G-Force,5.1,45000
+Blazing Saddles,7.7,133000
+Walk the Line,7.8,244000
+Cloudy with a Chance of Meatballs 2,6.4,98000
+The Mask,6.9,367000
+Four Christmases,5.7,70000
+Van Helsing,6.1,257000
+I Now Pronounce You Chuck &amp; Larry,5.9,145000
+Inglourious Basterds,8.3,1400000
+The Devil Wears Prada,6.9,396000
+Seabiscuit,7.3,71000
+Cloudy with a Chance of Meatballs,6.9,219000
+The Vow,6.8,190000
+The Fault in Our Stars,7.7,361000
+Life of Pi,7.9,606000
+Lone Survivor,7.5,278000
+Rocky III,6.8,183000
+Charlie&apos;s Angels,5.6,183000
+Terminator Salvation,6.5,353000
+Ocean&apos;s Twelve,6.5,376000
+Erin Brockovich,7.4,189000
+Tomorrow Never Dies,6.5,190000
+The Truman Show,8.1,1000000
+Mr. Deeds,5.8,141000
+Safe House,6.7,217000
+Prometheus,7.0,590000
+Sleepless in Seattle,6.8,169000
+The Legend of Tarzan,6.2,171000
+Lucy,6.4,473000
+The World Is Not Enough,6.4,196000
+Smokey and the Bandit,7.0,49000
+My Best Friend&apos;s Wedding,6.3,137000
+Sweet Home Alabama,6.2,109000
+Super 8,7.0,348000
+The Silence of the Lambs,8.6,1400000
+Central Intelligence,6.3,176000
+The Curious Case of Benjamin Button,7.8,621000
+Bumblebee,6.7,154000
+Rio 2,6.3,86000
+The Last Airbender,4.0,160000
+4: Rise of the Silver Surfer,5.6,259000
+Minority Report,7.6,532000
+The Departed,8.5,1300000
+Close Encounters of the Third Kind,7.6,195000
+The Wolverine,6.7,448000
+Alvin and the Chipmunks: Chipwrecked,4.3,34000
+Mission: Impossible III,6.9,344000
+Troy,7.3,512000
+Wonder,8.0,155000
+Angels &amp; Demons,6.7,285000
+The Rock,7.4,326000
+Superman,7.3,169000
+Identity Thief,5.7,130000
+Wanted,6.7,377000
+Ride Along,6.2,110000
+Live Free or Die Hard,7.1,399000
+The Incredible Hulk,6.6,463000
+The Godfather,9.2,1700000
+Patch Adams,6.8,111000
+The Santa Clause 2,5.7,55000
+Teenage Mutant Ninja Turtles,6.8,90000
+Chicken Little,5.7,90000
+Sister Act,6.5,94000
+The Matrix Revolutions,6.8,478000
+Taken 2,6.3,299000
+The Rocky Horror Picture Show,7.4,144000
+Stuart Little,5.9,131000
+Rush Hour 3,6.2,161000
+Ocean&apos;s Eight,6.3,205000
+Shazam!,7.0,303000
+Deep Impact,6.2,173000
+The Blair Witch Project,6.5,248000
+Rush Hour,7.0,255000
+The Chronicles of Narnia: Prince Caspian,6.5,203000
+A Few Good Men,7.7,250000
+Pocahontas,6.7,179000
+Marley &amp; Me,7.1,153000
+The Smurfs,5.4,88000
+The Meg,5.6,163000
+Juno,7.4,507000
+Slumdog Millionaire,8.0,823000
+Rio,6.9,218000
+Pokémon: Detective Pikachu,6.6,153000
+Kung Fu Panda 3,7.1,147000
+Doctor Dolittle,5.4,95000
+Mamma Mia!,6.4,231000
+The Fast and the Furious,6.8,371000
+"I, Robot",7.1,520000
+Daddy&apos;s Home,6.2,116000
+Terminator 3: Rise of the Machines,6.3,389000
+Rambo: First Blood Part II,6.5,163000
+Divergent,6.6,444000
+We&apos;re the Millers,7.0,429000
+La La Land,8.0,547000
+Runaway Bride,5.6,96000
+Sex and the City,5.7,120000
+Lethal Weapon 3,6.7,164000
+G.I. Joe: The Rise of Cobra,5.8,206000
+Cars 3,6.7,88000
+Beverly Hills Cop II,6.5,116000
+Scooby-Doo,5.2,107000
+Trolls,6.5,78000
+Jerry Maguire,7.3,255000
+Mad Max: Fury Road,8.1,942000
+Over the Hedge,6.7,168000
+Fast &amp; Furious,6.6,277000
+The Mummy,7.0,412000
+Fantastic Four,5.7,321000
+X-Men: Apocalypse,6.9,414000
+What Lies Beneath,6.6,123000
+San Andreas,6.1,227000
+Snow White and the Huntsman,6.1,283000
+Who Framed Roger Rabbit,7.7,193000
+Straight Outta Compton,7.8,191000
+Fatal Attraction,6.9,82000
+Ice Age: Continental Drift,6.5,201000
+The Waterboy,6.2,157000
+Jason Bourne,6.6,219000
+A Bug&apos;s Life,7.2,281000
+Django Unchained,8.4,1500000
+Batman Returns,7.0,289000
+The Sound of Music,8.0,219000
+The SpongeBob Movie: Sponge Out of Water,6.0,53000
+Clash of the Titans,5.8,278000
+Big Daddy,6.4,209000
+The Pursuit of Happyness,8.0,481000
+The Proposal,6.7,312000
+Catch Me If You Can,8.1,905000
+Kung Fu Panda 2,7.2,269000
+Hannibal,6.8,266000
+Knives Out,7.9,558000
+Robin Hood: Prince of Thieves,6.9,187000
+2012,5.8,367000
+Fifty Shades of Grey,4.1,309000
+Casino Royale,8.0,631000
+Hotel Transylvania 3: Summer Vacation,6.3,66000
+Gone Girl,8.1,924000
+Meet the Parents,7.0,324000
+3 Men and a Baby,6.1,52000
+Kong: Skull Island,6.6,303000
+Quantum of Solace,6.6,434000
+Bridesmaids,6.8,283000
+Hidden Figures,7.9,215000
+Hotel Transylvania 2,6.7,118000
+Chicago,7.2,224000
+The Lego Batman Movie,7.3,140000
+A Beautiful Mind,8.2,891000
+Us,6.8,264000
+Get Out,7.7,542000
+The Bourne Supremacy,7.7,450000
+There&apos;s Something About Mary,7.1,303000
+The Karate Kid,6.2,173000
+How to Train Your Dragon 2,7.8,320000
+Rise of the Planet of the Apes,7.5,512000
+Captain America: The First Avenger,6.9,795000
+Tootsie,7.4,103000
+Night at the Museum: Battle of the Smithsonian,6.0,188000
+Home,6.6,98000
+Hitch,6.6,307000
+Top Gun,6.9,315000
+Men in Black 3,6.8,350000
+Indiana Jones and the Temple of Doom,7.5,470000
+X-Men Origins: Wolverine,6.6,486000
+Planet of the Apes,5.7,216000
+Pretty Woman,7.1,308000
+Mission: Impossible,7.1,407000
+Jurassic Park III,5.9,308000
+Liar Liar,6.9,296000
+Thor,7.0,795000
+Lincoln,7.3,254000
+The Perfect Storm,6.4,163000
+What Women Want,6.4,202000
+The Polar Express,6.6,193000
+Wreck-It Ralph,7.7,401000
+Men in Black II,6.2,360000
+Cars 2,6.1,175000
+Twilight,5.2,447000
+Teenage Mutant Ninja Turtles,5.8,206000
+22 Jump Street,7.0,362000
+Madagascar,6.9,385000
+Mission: Impossible - Rogue Nation,7.4,358000
+Ice Age: The Meltdown,6.8,268000
+Ice Age: Dawn of the Dinosaurs,6.9,235000
+Indiana Jones and the Last Crusade,8.2,725000
+Pearl Harbor,6.2,323000
+Gone with the Wind,8.1,304000
+Spider-Man: Into the Spider-Verse,8.4,448000
+Superman Returns,6.0,278000
+Spectre,6.8,421000
+Tangled,7.7,429000
+Armageddon,6.7,411000
+Cinderella,6.9,171000
+Ralph Breaks the Internet,7.0,148000
+Godzilla,6.4,402000
+The Mummy Returns,6.4,314000
+The Amazing Spider-Man 2,6.5,451000
+World War Z,7.0,634000
+Terminator 2: Judgment Day,8.5,1000000
+Austin Powers: The Spy Who Shagged Me,6.6,226000
+Thor: The Dark World,6.8,639000
+Ratatouille,8.0,678000
+Bad Boys for Life,6.5,149000
+Charlie and the Chocolate Factory,6.6,454000
+Mission: Impossible II,6.1,329000
+Kung Fu Panda,7.6,444000
+Saving Private Ryan,8.6,1300000
+Ant-Man and the Wasp,7.0,357000
+Alvin and the Chipmunks,5.2,82000
+How to Train Your Dragon,8.1,702000
+Ghost,7.1,209000
+Bohemian Rhapsody,7.9,498000
+The Da Vinci Code,6.6,419000
+King Kong,7.2,410000
+Beauty and the Beast,8.0,432000
+Mrs. Doubtfire,7.0,259000
+National Treasure: Book of Secrets,6.5,228000
+Alvin and the Chipmunks: The Squeakquel,4.5,47000
+WALL·E,8.4,1100000
+Big Hero 6,7.8,435000
+Rush Hour 2,6.6,211000
+The Fate of the Furious,6.6,222000
+Logan,8.1,702000
+Mission: Impossible - Fallout,7.7,312000
+Signs,6.7,351000
+Hancock,6.4,464000
+Star Trek Into Darkness,7.7,475000
+The Martian,8.0,807000
+The Bourne Ultimatum,8.0,620000
+Doctor Strange,7.5,661000
+Justice League,6.1,430000
+The Lost World: Jurassic Park,6.6,398000
+Cast Away,7.8,561000
+X-Men: Days of Future Past,7.9,686000
+Harry Potter and the Prisoner of Azkaban,7.9,591000
+Moana,7.6,304000
+Batman,7.5,356000
+Night at the Museum,6.4,332000
+Men in Black,7.3,542000
+The Hobbit: The Battle of the Five Armies,7.4,501000
+The Blind Side,7.6,313000
+The Lego Movie,7.7,339000
+The Hobbit: The Desolation of Smaug,7.8,629000
+Captain America: The Winter Soldier,7.7,791000
+Jaws,8.0,570000
+The Amazing Spider-Man,6.9,600000
+How the Grinch Stole Christmas,6.2,230000
+The Incredibles,8.0,689000
+Harry Potter and the Chamber of Secrets,7.4,593000
+Monsters University,7.2,342000
+Shrek,7.9,645000
+Sing,7.1,147000
+The Grinch,6.4,63000
+Gravity,7.7,799000
+Meet the Fockers,6.3,263000
+The Matrix Reloaded,7.2,554000
+Home Alone,7.6,528000
+"Monsters, Inc.",8.1,861000
+Independence Day,7.0,554000
+The Hunger Games: Mockingjay - Part 2,6.6,308000
+Star Wars: Episode VI - Return of the Jedi,8.3,998000
+Star Wars: Episode II - Attack of the Clones,6.5,673000
+Iron Man 2,7.0,770000
+Pirates of the Caribbean: At World&apos;s End,7.1,620000
+Indiana Jones and the Kingdom of the Crystal Skull,6.1,441000
+The Lord of the Rings: The Fellowship of the Ring,8.8,1800000
+Jumanji: The Next Level,6.7,226000
+Harry Potter and the Sorcerer&apos;s Stone,7.6,719000
+Thor: Ragnarok,7.9,664000
+Iron Man,7.9,999000
+The Twilight Saga: Breaking Dawn - Part 1,4.9,233000
+Transformers,7.0,618000
+Shrek the Third,6.1,294000
+Star Wars,8.6,1300000
+Suicide Squad,5.9,659000
+Forrest Gump,8.8,1900000
+Batman v Superman: Dawn of Justice,6.4,671000
+Guardians of the Galaxy,8.0,1100000
+Alice in Wonderland,6.4,400000
+Spider-Man: Homecoming,7.4,577000
+Aquaman,6.9,425000
+Spider-Man 3,6.2,541000
+Deadpool 2,7.7,531000
+Joker,8.4,1100000
+Minions,6.4,224000
+The Hunger Games: Mockingjay - Part 1,6.6,435000
+Zootopia,8.0,466000
+The Lord of the Rings: The Two Towers,8.7,1600000
+American Sniper,7.3,463000
+Transformers: Dark of the Moon,6.2,397000
+Aladdin,6.9,249000
+Fast &amp; Furious 7,7.1,378000
+Jumanji: Welcome to the Jungle,6.9,352000
+Spider-Man,7.3,749000
+Inside Out,8.1,665000
+The Hunger Games,7.2,882000
+Captain America: Civil War,7.8,724000
+Wonder Woman,7.4,620000
+Toy Story 3,8.2,795000
+Iron Man Three,7.1,803000
+The Lion King,8.5,997000
+Pirates of the Caribbean: Dead Man&apos;s Chest,7.3,683000
+Jurassic World: Fallen Kingdom,6.2,288000
+The Hunger Games: Catching Fire,7.5,639000
+Toy Story 4,7.7,228000
+E.T. the Extra-Terrestrial,7.8,391000
+Captain Marvel,6.8,506000
+Avengers: Infinity War,8.4,953000
+Black Panther,7.3,693000
+Avengers: Endgame,8.4,977000
+Titanic,7.8,1100000
+Avatar,7.8,1200000
+Lara Croft: Tomb Raider,5.8,205000
+Batman &amp; Robin,3.8,243000
