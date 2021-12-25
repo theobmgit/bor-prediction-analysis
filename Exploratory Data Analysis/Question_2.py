@@ -13,7 +13,7 @@ for col in cols:
 
 ## Question 2
 ## How average gross depend on Release_Month and combine with Release_Year.
-## We see that the movies release in the month [5,6,7,11,12]
+## We see that the movies release in the month [4,5,6,7,11,12]
 ## tend to have higher gross
 cols=['Release_Month','Gross_worldwide']
 
@@ -26,8 +26,8 @@ plt.title("Average by Month")
 data.plot.scatter(x='Release_Month',y='Gross_worldwide')
 plt.title("Scatter plot for Release_Month and Gross")
 #3
-rColor=[2,3,4,8,] 
-gColor=[5,6,7,11,12]
+rColor=[2,3,8] 
+gColor=[4,5,6,7,11,12]
 bColor=[1,9,10]
 colorMap=dict()
 for i in rColor:
