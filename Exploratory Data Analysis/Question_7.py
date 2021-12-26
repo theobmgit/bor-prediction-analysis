@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 sns.set_theme(style="whitegrid")
 data=pd.read_csv('../dataset/processed/cleanedData.csv')
 ## Question 7
-## Average gross of each countries
+## Average gross of each countries and Total Cost
 ##
 ##
 import ast
@@ -41,4 +41,10 @@ data2=country.sort_values(by='Money',ascending=False)
 plt.bar(data=data2,x='Countries',height='Average',color="salmon")
 plt.xticks(rotation=90,fontsize=30)
 plt.ylabel("Average Gross",fontsize=50)
+
+plt.subplot(2,1,2)
+plt.bar(data=data2,x='Countries',height='Money',color="salmon")
+plt.ylabel("Total Gross",fontsize=50)
+plt.xticks(rotation=90,fontsize=30)
+plt.xlabel("Countries",fontsize=50)
 plt.show()
