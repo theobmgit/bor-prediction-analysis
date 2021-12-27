@@ -1,6 +1,6 @@
 # Movie Box Office Revenue Analysis & Prediction
 
-IT4142E Data Science Capstone @ [Hanoi University of Science and Technology](https://hust.edu.vn/)
+IT4142E Data Science Capstone, [Hanoi University of Science and Technology](https://hust.edu.vn/), 2021
 
 ## Conventions
 
