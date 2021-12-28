@@ -14,9 +14,9 @@ cols =['Cast', 'Genre', 'Studios', 'ListOfCertificate','Keywords', 'Languages', 
 for col in cols:
     data[col]=data[col].apply(ast.literal_eval)
 cols=['Budget','Runtime','Release_Year','Gross_worldwide','Rating','Rating_Count','Release_Month']
-data=data[cols]
-sns.heatmap(data.corr(),annot=True)
+info=data[cols]
+sns.heatmap(info.corr(),annot=True)
 
 data.hist(bins=50,figsize=(20,15))
 
-scatter_matrix(data,figsize=(20,12),hist_kwds={'bins':50})
+scatter_matrix(info,figsize=(20,12),hist_kwds={'bins':50})
