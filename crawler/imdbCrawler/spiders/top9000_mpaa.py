@@ -16,7 +16,7 @@ class IMDBCrawler(scrapy.Spider):
     parseUrl = 'https://www.imdb.com'
     mpaaPath = '/parentalguide'
 
-    # listOfCertificate=['G','PG','PG-13','R','NC-17']
+    listOfCertificate=['G','PG','PG-13','R','NC-17','GP','M','M/PG','X']
     def parse(self, response):
         movie_links = response.xpath('//div[@class="lister-item-content"]/h3/a/@href').getall()
         for link in movie_links:
@@ -43,7 +43,9 @@ class IMDBCrawler(scrapy.Spider):
                         if "Unrated" not in certificate:
                             if "Approved" not in certificate:
                                 if "Passed" not in certificate:
-                                    data['ListOfCertificate'].append(certificate.replace("United States:", ""))
+                                    certificate=certificate.replace("United States:", "")
+                                    if certificate in self.listOfCertificate:
+                                        data['ListOfCertificate'].append(certificate)
             # indexDel=certificate.index(':')
             # certificate=certificate[indexDel+1:None]
             # if certificate in self.listOfCertificate:
