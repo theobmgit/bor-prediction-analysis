@@ -128,13 +128,16 @@ class BORFeatureExtractor:
         #Genre
         def getGenreRank(listGenre):
             max=0
+            length=len(listGenre)
+            if length==0:
+                length=1
             for genre in listGenre:
                 if genre not in self.genreRank.keys():
                     continue
                 max+=self.genreRank[genre]
             if max==0:
                 return random.randint(1,15)
-            return max/len(listGenre)
+            return max/length
         dataToExtract['GenreRank']=dataToExtract['Genre'].apply(getGenreRank)
         #SpecialMonth
         def getSpecialMonth(month):
