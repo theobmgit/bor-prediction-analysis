@@ -44,4 +44,4 @@ For Machine Learning: [feature_extracted.csv](./dataset/extracted/feature_extrac
 
 ## Demo website
 
-Visit the project demo website at
+Visit the project demo website at [theobmgit.github.io/it4142e-bor.github.io/](https://theobmgit.github.io/it4142e-bor.github.io/)
