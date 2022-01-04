@@ -295,8 +295,13 @@ class BORFeatureExtractor:
             return max
 
         dataToExtract['keywordRank'] = dataToExtract['Keywords'].apply(getKeywordsRank)
-
-        #
+        #IsEnglish
+        dataToExtract['IsEnglish'] = dataToExtract['Languages'].apply(lambda x: 1 if 'English' in x else 0)
+        #isAdventure
+        dataToExtract['IsAdventure']=dataToExtract['Genre'].apply(lambda x: 1 if 'Adventure' in x else 0)
+        #isUnitedStates
+        dataToExtract['isUnitedStates'] = dataToExtract['Countries'].apply(lambda x: 1 if "United States" in x else 0)
+        #Rated Certificate
         def getCerRank(cers):
             max = 0
             for cer in cers:
@@ -307,7 +312,8 @@ class BORFeatureExtractor:
             return max
 
         dataToExtract['cerRank'] = dataToExtract['ListOfCertificate'].apply(getCerRank)
-
+        # PG-13
+        dataToExtract['PG-13']=dataToExtract['ListOfCertificate'].apply(lambda x: 1 if 'PG-13' in x else 0)
         for index in dataToExtract.columns:
             if type(dataToExtract[index][0]) == str:
                 dataToExtract.drop(index, axis=1, inplace=True)
