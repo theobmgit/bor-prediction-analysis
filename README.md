@@ -36,11 +36,11 @@ python join_data.py
 
 ## Dataset
 
-After data collection: `data_joined.csv`
+After data collection: [data_joined.csv](./dataset/data_joined.csv)
 
-After data cleaning: `processed\cleaned_data.csv`
+After data cleaning: [cleaned_data.csv](./dataset/processed/cleaned_data.csv)
 
-For Machine Learning: `extracted\feature_extracted.csv`
+For Machine Learning: [feature_extracted.csv](./dataset/extracted/feature_extracted.csv)
 
 ## Demo website
 

@@ -17,15 +17,19 @@
             </a>
 
             <ul class="nav nav-pills col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-                <li><a href="/demo/index.html" class="nav-link active px-2">Home</a></li>
-                <li><a href="/demo/DataVisualization.html" class="nav-link px-2 text-black">Collection</a></li>
-                <li><a href="#" class="nav-link px-2 text-black">Analysis</a></li>
-                <li><a href="#" class="nav-link px-2 text-black">Prediction</a></li>
+                <li><a href="./index.html" class="nav-link active px-2">Home</a></li>
+                <li><a href="./DataCleaning.html" class="nav-link px-2 text-black">Cleaning</a></li>
+                <li><a href="./ExploratoryAnalysis.html" class="nav-link px-2 text-black">Analysis</a></li>
+                <li><a href="./MachineLearning.html" class="nav-link px-2 text-black">Modelling</a></li>
             </ul>
 
             <div class="text-end">
-                <button type="button" class="btn btn-outline-light me-2">Login</button>
-                <button type="button" class="btn btn-warning">Sign-up</button>
+                <a target="_blank" href="https://github.com/theobmgit/it4142e-bor-prediction-analysis">
+                    <button type="button" class="btn btn-dark me-2">Repository</button>
+                </a>
+                <a href="#datasets">
+                    <button type="button" class="btn btn-warning">Datasets</button>
+                </a>
             </div>
         </div>
     </div>
@@ -38,12 +42,20 @@
             <h2 class="display-3 mb-4">Analysis and Prediction</h2>
             <div class="col-lg-6 mx-auto">
                 <p class="lead mb-4"> Accurate and reliable prediction of the Box Office Revenue (BOR) of a movie before
-                    releasing is very challenging as it is affected by a lot of complex factors. In this project, we will conduct data
+                    releasing is very challenging as it is affected by a lot of complex factors. In this project, we
+                    will conduct data
                     collection, exploratory data analysis and machine learning to analyze and predict movie BOR.</p>
                 <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
-                    <button type="button" class="btn btn-primary btn-lg px-4 me-sm-3">Data Collection</button>
-                    <button type="button" class="btn btn-outline-secondary btn-lg px-4">Exploratory Analysis</button>
-                    <button type="button" class="btn btn-outline-secondary btn-lg px-4">ML Prediction</button>
+                    <a href="./DataCleaning.html">
+                        <button type="button" class="btn btn-primary btn-lg px-4 me-sm-3">Data Cleaning</button>
+                    </a>
+                    <a href="./ExploratoryAnalysis.html">
+                        <button type="button" class="btn btn-outline-secondary btn-lg px-4">Exploratory Analysis
+                        </button>
+                    </a>
+                    <a href="./MachineLearning.html">
+                        <button type="button" class="btn btn-outline-secondary btn-lg px-4">ML Modelling</button>
+                    </a>
                 </div>
             </div>
             <div class="overflow-hidden" style="max-height: 30vh;">
@@ -53,9 +65,41 @@
                 </div>
             </div>
         </div>
+        <div class="px-4 py-5" id="datasets">
+            <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+                <div class="col-10 col-sm-8 col-lg-6">
+                    <img src="./img/dataset.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes"
+                         width="700" height="500" loading="lazy">
+                </div>
+                <div class="col-lg-6">
+                    <h1 class="display-5 fw-bold lh-1 mb-3">Datasets</h1>
+                    <p class="lead">We process data after each step:</p>
+                    <p class="lead">After data collection: <a href="/dataset/data_joined.csv">data_joined.csv</a></p>
+                    <p class="lead">After data cleaning: <a
+                            href="/dataset/processed/cleaned_data.csv">cleaned_data.csv</a></p>
+                    <p class="lead">For model training: <a href="/dataset/extracted/feature_extracted.csv">feature_extracted.csv</a>
+                    </p>
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+                        <a target="_blank"
+                           href="https://github.com/theobmgit/it4142e-bor-prediction-analysis/tree/main/dataset">
+                            <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">All datasets</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </main>
-    <footer class="pt-5 my-5 text-muted">
-        IT4142E Data Science Capstone, Hanoi University of Science and Technology, 2021
+    <footer>
+        <ul class="nav justify-content-center border-bottom">
+            <li><a href="./index.html" class="nav-link px-2 text-muted">Home</a></li>
+            <li><a href="./DataCleaning.html" class="nav-link px-2 text-muted">Cleaning</a></li>
+            <li><a href="./ExploratoryAnalysis.html" class="nav-link px-2 text-muted">Analysis</a></li>
+            <li><a href="./MachineLearning.html" class="nav-link px-2 text-muted">Modelling</a></li>
+            <li><a href="https://github.com/theobmgit/it4142e-bor-prediction-analysis" class="nav-link px-2 text-muted"
+                   target="_blank">Repository</a></li>
+            <li><a href="#datasets" class="nav-link px-2 text-muted">Datasets</a></li>
+        </ul>
+        <p class="text-center text-muted">© 2021 Hanoi, Hanoi University of Science and Technology</p>
     </footer>
 </div>
 
