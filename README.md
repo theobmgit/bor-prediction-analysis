@@ -2,16 +2,46 @@
 
 IT4142E Data Science Capstone, [Hanoi University of Science and Technology](https://hust.edu.vn/), 2021
 
-## Conventions
+## How to run
 
-**Note**: Only Tu controls the `main` branch, DO NOT COMMIT ANYTHING TO THE `main` BRANCH!
+Note that in this project, the data crawler works independently. That means you have to run code manually. All the other
+steps are visually demonstrated in our [demo](#demo-website). The `src` folder is for reference purpose only.
 
-1. `git pull` before doing anything
-2. Create a branch for your work `git checkout -b <branch-name>`
-3. Add, Commit and Push
-4. Create a pull request
+Therefore, this section title should be **How to run data crawler**.
 
-## Exploratory Analysis
+```shell
+cd src/crawler
+scrapy crawl full2ImdbCrawler
+```
 
-### Research Questions
+Since the data crawler outputs two different files, we need to join them into a single final dataset:
 
+```shell
+cd ..
+python join_data.py
+```
+
+## Project structure
+
+```
+├── dataset Dataset files in .csv
+│   ├── extracted
+│   ├── processed
+│   └── **/*.csv
+├── demo Demo website source
+├── notebook Jupyter notebooks
+├── src Data crawler and other source code only for reference purpose
+├── README.md Project overview
+```
+
+## Dataset
+
+After data collection: `data_joined.csv`
+
+After data cleaning: `processed\cleaned_data.csv`
+
+For Machine Learning: `extracted\feature_extracted.csv`
+
+## Demo website
+
+Visit the project demo website at
