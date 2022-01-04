@@ -7,10 +7,10 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'crawler'
+BOT_NAME = 'imdbCrawler'
 
-SPIDER_MODULES = ['crawler.spiders']
-NEWSPIDER_MODULE = 'crawler.spiders'
+SPIDER_MODULES = ['imdbCrawler.spiders']
+NEWSPIDER_MODULE = 'imdbCrawler.spiders'
 
 #Export as CSV Feed
 # FEED_EXPORT_ENCODING = 'utf-8'
